@@ -1,0 +1,28 @@
+/* Localized versions of Add Friend window */
+
+LQTitle = "You will add user %@(%u) as friend";
+
+LQHintReady = "Ready for operation";
+LQHintAddFriend = "Adding friend...";
+LQHintGetAuthInfo = "Getting auth info...";
+LQHintGetVerifyCodeImage = "Getting verify code image...";
+LQHintNeedAuth = "The user need your auth info";
+LQHintAdded = "The user is successfully added";
+LQHintDenied = "The user forbids anyone adding him";
+LQHintVerifyCodeImageRefreshed = "The verify code image is refreshed";
+LQHintAuthorize = "Sending authorization...";
+LQHintAnswerQuestion = "Submitting answer...";
+LQHintSubmitVerifyCode = "Submitting verify code...";
+LQHintVerifyCodeRetry = "Verify code error, please retry";
+LQHintAnswerRetry = "Answer is error, please retry";
+LQHintAuthorizeOK = "Authorization is sent, please wait for response.";
+LQHintAuthorizeFailed = "Authorization sent failed, please retry";
+LQHintNeedAnswer = "The user need your answer his question";
+LQHintGetQuestionFailed = "Failed to get user's question, please retry";
+LQHintGetQuestion = "Getting user's auth question...";
+LQHintAddFriendTimeout = "Add friend timeout, please retry later";
+LQHintAuthInfoTimeout = "Auth info operation timeout, please retry later";
+LQHintQuestionOpTimeout = "Auth question operation timeout, please retry later";
+LQHintAuthorizeTimeout = "Authorization timeout, please retry later";
+
+LQWarningOperating = "An operation is ongoing, please close it when it finished";

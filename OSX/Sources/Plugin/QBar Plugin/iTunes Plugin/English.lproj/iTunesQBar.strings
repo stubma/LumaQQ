@@ -1,0 +1,15 @@
+/* localized string for iTunes QBar */
+
+LQPluginDescription = "Display current music iTunes plays and provide a basic control interface for iTunes. The music name will be appened to signature, just like MSN";
+
+LQHintAlbum = "Album: %@";
+LQHintArtist = "Artist: %@";
+LQHintPlayingSong = "Playing: %@";
+LQHintPausedSong = "Paused: %@";
+LQHintNoiTunes = "<iTunes Not Running>";
+LQHintListening = "Listening";
+
+LQTooltipPlayPause = "Play/Pause";
+LQTooltipStop = "Stop";
+LQTooltipNextTrack = "Next Track";
+LQTooltipPreviousTrack = "Previous Track";

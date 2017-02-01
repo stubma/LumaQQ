@@ -1,0 +1,7 @@
+/* Localized versions of login UI */
+
+LQEmptyQQ = "请填写正确的QQ号码!";
+LQInvalidQQ = "QQ号码必须大于10000";
+LQWarningEmptyPassword = "登录QQ需要密码吗？需要吗？不需要吗？需要吗？不需要吗？";
+
+LQQuestion1 = "你输入的密码和最近一次登录时不同，你希望继续吗?";

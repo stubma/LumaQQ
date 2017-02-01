@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/mac/!svn/ver/242/Sources/UI/IM
+END
+MobileIMWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mac/!svn/ver/3/Sources/UI/IM/MobileIMWindowController.h
+END
+TempSessionIMWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/3/Sources/UI/IM/TempSessionIMWindowController.h
+END
+NormalIMWindowController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/185/Sources/UI/IM/NormalIMWindowController.mm
+END
+ClusterIMContainerController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/242/Sources/UI/IM/ClusterIMContainerController.mm
+END
+BaseIMContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/141/Sources/UI/IM/BaseIMContainer.h
+END
+ClusterIMWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/7/Sources/UI/IM/ClusterIMWindowController.h
+END
+MobileIMContainerController.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/3/Sources/UI/IM/MobileIMContainerController.h
+END
+TempSessionIMContainerController.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mac/!svn/ver/136/Sources/UI/IM/TempSessionIMContainerController.h
+END
+NormalIMContainerController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/242/Sources/UI/IM/NormalIMContainerController.mm
+END
+IMContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/mac/!svn/ver/3/Sources/UI/IM/IMContainer.h
+END
+TabIMWindowController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mac/!svn/ver/185/Sources/UI/IM/TabIMWindowController.mm
+END
+NormalIMWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mac/!svn/ver/3/Sources/UI/IM/NormalIMWindowController.h
+END
+MobileIMWindowController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/22/Sources/UI/IM/MobileIMWindowController.mm
+END
+TempSessionIMWindowController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/185/Sources/UI/IM/TempSessionIMWindowController.mm
+END
+ClusterIMContainerController.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/10/Sources/UI/IM/ClusterIMContainerController.h
+END
+NormalIMContainerController.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/31/Sources/UI/IM/NormalIMContainerController.h
+END
+ClusterIMWindowController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/22/Sources/UI/IM/ClusterIMWindowController.mm
+END
+BaseIMContainer.mm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mac/!svn/ver/143/Sources/UI/IM/BaseIMContainer.mm
+END
+MobileIMContainerController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/242/Sources/UI/IM/MobileIMContainerController.mm
+END
+TabIMWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mac/!svn/ver/81/Sources/UI/IM/TabIMWindowController.h
+END
+TempSessionIMContainerController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mac/!svn/ver/242/Sources/UI/IM/TempSessionIMContainerController.mm
+END

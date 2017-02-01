@@ -1,0 +1,76 @@
+8
+
+dir
+834
+http://svn.lumaqq.cn/mac/Sources/UI
+http://svn.lumaqq.cn/mac
+
+
+
+2008-01-24T04:36:50.602414Z
+823
+luma
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a41e418f-192f-0410-99b4-9833888f77e5
+
+Helper
+dir
+
+Control
+dir
+
+Other
+dir
+
+QConsole
+dir
+
+Main
+dir
+
+QBar
+dir
+
+DataSource
+dir
+
+Growl
+dir
+
+Model
+dir
+
+Auth
+dir
+
+Task
+dir
+
+IM
+dir
+
+Shared
+dir
+
+TempCluster
+dir
+
+Job
+dir
+
+Extension
+dir
+

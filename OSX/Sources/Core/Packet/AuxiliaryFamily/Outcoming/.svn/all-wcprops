@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/179/Sources/Core/Packet/AuxiliaryFamily/Outcoming
+END
+GetCustomHeadDataPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mac/!svn/ver/179/Sources/Core/Packet/AuxiliaryFamily/Outcoming/GetCustomHeadDataPacket.h
+END
+GetCustomHeadDataPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mac/!svn/ver/179/Sources/Core/Packet/AuxiliaryFamily/Outcoming/GetCustomHeadDataPacket.mm
+END
+GetCustomHeadInfoPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mac/!svn/ver/179/Sources/Core/Packet/AuxiliaryFamily/Outcoming/GetCustomHeadInfoPacket.h
+END
+GetCustomHeadInfoPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mac/!svn/ver/179/Sources/Core/Packet/AuxiliaryFamily/Outcoming/GetCustomHeadInfoPacket.mm
+END

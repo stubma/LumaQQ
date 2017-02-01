@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!-- Color value can be 0.0 to 1.0, 0.0 means RGB 0, 1.0 mean RGB 255 -->
+	
+	<!-- user cell background -->
+	<key>UserBackgroundRed</key>
+	<real>1.0</real>
+	<key>UserBackgroundGreen</key>
+	<real>1.0</real>
+	<key>UserBackgroundBlue</key>
+	<real>1.0</real>
+	
+	<!-- user cell background when selected -->
+	<key>UserSelectedBackgroundRed</key>
+	<real>0.0</real>
+	<key>UserSelectedBackgroundGreen</key>
+	<real>0.6</real>
+	<key>UserSelectedBackgroundBlue</key>
+	<real>0.89</real>
+	
+	<!-- user cell default text color -->
+	<key>UserCellDefaultRed</key>
+	<real>0.1</real>
+	<key>UserCellDefaultGreen</key>
+	<real>0.1</real>
+	<key>UserCellDefaultBlue</key>
+	<real>0.1</real>
+	
+	<!-- if a user is member, the default text color -->
+	<key>MemberNameDefaultRed</key>
+	<real>1.0</real>
+	<key>MemberNameDefaultGreen</key>
+	<real>0.0</real>
+	<key>MemberNameDefaultBlue</key>
+	<real>0.0</real>
+	
+	<!-- user signature text color -->
+	<key>UserSignatureRed</key>
+	<real>0.69</real>
+	<key>UserSignatureGreen</key>
+	<real>0.43</real>
+	<key>UserSignatureBlue</key>
+	<real>0.14</real>
+	
+	<!-- cluster cell background -->
+	<key>ClusterBackgroundRed</key>
+	<real>1.0</real>
+	<key>ClusterBackgroundGreen</key>
+	<real>1.0</real>
+	<key>ClusterBackgroundBlue</key>
+	<real>1.0</real>
+	
+	<!-- cluster cell background when selected -->
+	<key>ClusterSelectedBackgroundRed</key>
+	<real>0.0</real>
+	<key>ClusterSelectedBackgroundGreen</key>
+	<real>0.6</real>
+	<key>ClusterSelectedBackgroundBlue</key>
+	<real>0.89</real>
+	
+	<!-- cluster cell default text color -->
+	<key>ClusterCellDefaultRed</key>
+	<real>0.1</real>
+	<key>ClusterCellDefaultGreen</key>
+	<real>0.1</real>
+	<key>ClusterCellDefaultBlue</key>
+	<real>0.1</real>
+	
+	<!-- advanced cluster name default text color -->
+	<key>AdvancedClusterNameDefaultRed</key>
+	<real>1.0</real>
+	<key>AdvancedClusterNameDefaultGreen</key>
+	<real>0.0</real>
+	<key>AdvancedClusterNameDefaultBlue</key>
+	<real>0.0</real>
+	
+	<!-- unread hint text color, for example, (2 unread) -->
+	<key>UnreadHintRed</key>
+	<real>1.0</real>
+	<key>UnreadHintGreen</key>
+	<real>0.02</real>
+	<key>UnreadHintBlue</key>
+	<real>0.02</real>
+	
+	<!-- unread message text color -->
+	<key>UnreadMessageRed</key>
+	<real>0.92</real>
+	<key>UnreadMessageGreen</key>
+	<real>0.43</real>
+	<key>UnreadMessageBlue</key>
+	<real>0.15</real>
+	
+	<!-- user im default text color -->
+	<key>UserIMCellDefaultRed</key>
+	<real>0.1</real>
+	<key>UserIMCellDefaultGreen</key>
+	<real>0.1</real>
+	<key>UserIMCellDefaultBlue</key>
+	<real>0.1</real>
+	
+	<!-- cluster im default text color -->
+	<key>ClusterIMCellDefaultRed</key>
+	<real>0.1</real>
+	<key>ClusterIMCellDefaultGreen</key>
+	<real>0.1</real>
+	<key>ClusterIMCellDefaultBlue</key>
+	<real>0.1</real>
+	
+	<!-- system im bg -->
+	<key>SystemBackgroundRed</key>
+	<real>1.0</real>
+	<key>SystemBackgroundGreen</key>
+	<real>1.0</real>
+	<key>SystemBackgroundBlue</key>
+	<real>1.0</real>
+	
+	<!-- system im selected bg -->
+	<key>SystemSelectedBackgroundRed</key>
+	<real>0.0</real>
+	<key>SystemSelectedBackgroundGreen</key>
+	<real>0.6</real>
+	<key>SystemSelectedBackgroundBlue</key>
+	<real>0.89</real>
+	
+	<!-- system im default text color -->
+	<key>SystemIMCellDefaultRed</key>
+	<real>0.1</real>
+	<key>SystemIMCellDefaultGreen</key>
+	<real>0.1</real>
+	<key>SystemIMCellDefaultBlue</key>
+	<real>0.1</real>
+	
+	<!-- system im default text color -->
+	<key>ErrorTextRed</key>
+	<real>0.5</real>
+	<key>ErrorTextGreen</key>
+	<real>0.5</real>
+	<key>ErrorTextBlue</key>
+	<real>0.5</real>
+	
+	<!-- system im default text color -->
+	<key>BubbleIMCellDefaultRed</key>
+	<real>0.1</real>
+	<key>BubbleIMCellDefaultGreen</key>
+	<real>0.1</real>
+	<key>BubbleIMCellDefaultBlue</key>
+	<real>0.1</real>
+	
+	<!-- system im default text color -->
+	<key>BubbleBackgroundRed</key>
+	<real>1.0</real>
+	<key>BubbleBackgroundGreen</key>
+	<real>1.0</real>
+	<key>BubbleBackgroundBlue</key>
+	<real>1.0</real>
+	
+	<!-- chat log bg -->
+	<key>ChatLogBackgroundRed</key>
+	<real>1.0</real>
+	<key>ChatLogBackgroundGreen</key>
+	<real>1.0</real>
+	<key>ChatLogBackgroundBlue</key>
+	<real>1.0</real>
+	
+	<!-- chat log selected bg -->
+	<key>ChatLogSelectedBackgroundRed</key>
+	<real>0.0</real>
+	<key>ChatLogSelectedBackgroundGreen</key>
+	<real>0.6</real>
+	<key>ChatLogSelectedBackgroundBlue</key>
+	<real>0.89</real>
+	
+	<!-- chat log default text color -->
+	<key>ChatLogDefaultRed</key>
+	<real>0.1</real>
+	<key>ChatLogDefaultGreen</key>
+	<real>0.1</real>
+	<key>ChatLogDefaultBlue</key>
+	<real>0.1</real>
+	
+	<!-- chat log message text color, message sent by other users -->
+	<key>ChatLogOtherMessageRed</key>
+	<real>0.1</real>
+	<key>ChatLogOtherMessageGreen</key>
+	<real>0.1</real>
+	<key>ChatLogOtherMessageBlue</key>
+	<real>0.1</real>
+	
+	<!-- chat log message text color, message sent by me -->
+	<key>ChatLogMyMessageRed</key>
+	<real>0.1</real>
+	<key>ChatLogMyMessageGreen</key>
+	<real>0.1</real>
+	<key>ChatLogMyMessageBlue</key>
+	<real>0.1</real>
+	
+	<!-- main button bar style, can be 0, 1, 2 -->
+	<key>MainButtonBarStyle</key>
+	<integer>1</integer>
+</dict>
+</plist>

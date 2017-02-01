@@ -1,0 +1,21 @@
+/* Localized versions of Search Wizard */
+
+LQTitleSearchWhat = "搜索什么?";
+LQMessageSearchWhat = "请选择你想要搜索的类型";
+LQTitleSearchUser = "搜索用户";
+LQMessageSearchUser = "选择一种搜索模式，输入参数后点击\"搜\"按钮";
+LQTitleSearchCluster = "搜索群";
+LQMessageSearchCluster = "选择一种搜索模式，输入参数后点击\"搜\"按钮";
+
+LQWarningAllEmpty = "请至少提供一个参数";
+LQWarningInvalidQQ = "请输入有效的QQ号码";
+LQWarningInvalidClusterId = "请提供有效的群ID";
+LQWarningSelectUser = "你必须先选择一个用户";
+LQWarningSelectCluster = "你必须先选择一个群";
+LQWarningSearchUserFailed = "搜索用户时出错，请重试";
+LQWarningSearchClusterFailed = "搜索群时出错，请重试";
+LQWarningSearchTimeout = "搜索超时，可能网络正忙，请稍后重试";
+
+LQHintOnlineCount = "当前在线用户: %u";
+LQHintSearchUser = "正在搜索用户...";
+LQHintSearchCluster = "正在搜索群...";

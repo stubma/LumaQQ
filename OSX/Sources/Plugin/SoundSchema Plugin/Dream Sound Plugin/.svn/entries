@@ -1,0 +1,61 @@
+8
+
+dir
+834
+http://svn.lumaqq.cn/mac/Sources/Plugin/SoundSchema%20Plugin/Dream%20Sound%20Plugin
+http://svn.lumaqq.cn/mac
+
+
+
+2007-06-06T05:21:35.211452Z
+98
+luma
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a41e418f-192f-0410-99b4-9833888f77e5
+
+zh_CN.lproj
+dir
+
+DreamSound.h
+file
+
+
+
+
+2008-01-27T09:36:06.000000Z
+8a0a733a43b50afa14964eedfcbda8bc
+2007-06-06T05:21:35.211452Z
+98
+luma
+
+DreamSound.mm
+file
+
+
+
+
+2008-01-27T09:36:06.000000Z
+2b37769f1b80c9cdf8654784b005dced
+2007-06-06T05:21:35.211452Z
+98
+luma
+
+Resources
+dir
+
+English.lproj
+dir
+

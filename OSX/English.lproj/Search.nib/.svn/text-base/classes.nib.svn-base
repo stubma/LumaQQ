@@ -1,0 +1,75 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {
+                onAddFriend = id; 
+                onBack = id; 
+                onCancel = id; 
+                onClusterSearchModeChanged = id; 
+                onFinished = id; 
+                onJoinCluster = id; 
+                onNext = id; 
+                onNextPageCluster = id; 
+                onNextPageUser = id; 
+                onPrevPageCluster = id; 
+                onPrevPageUser = id; 
+                onSearchCluster = id; 
+                onSearchUser = id; 
+                onUserSearchModeChanged = id; 
+                onViewAllCluster = id; 
+                onViewAllUser = id; 
+                onViewClusterInfo = id; 
+                onViewCreatorInfo = id; 
+                onViewUserInfo = id; 
+            }; 
+            CLASS = SearchWindowController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                "m_btnAddFriend" = NSButton; 
+                "m_btnBack" = NSButton; 
+                "m_btnFinished" = NSButton; 
+                "m_btnJoinCluster" = NSButton; 
+                "m_btnNext" = NSButton; 
+                "m_btnNextClusterPage" = NSButton; 
+                "m_btnNextUserPage" = NSButton; 
+                "m_btnPrevClusterPage" = NSButton; 
+                "m_btnPrevUserPage" = NSButton; 
+                "m_btnViewAllCluster" = NSButton; 
+                "m_btnViewAllUser" = NSButton; 
+                "m_btnViewClusterInfo" = NSButton; 
+                "m_btnViewCreatorInfo" = NSButton; 
+                "m_btnViewUserInfo" = NSButton; 
+                "m_cbAge" = NSComboBox; 
+                "m_cbCity" = NSComboBox; 
+                "m_cbGender" = NSComboBox; 
+                "m_cbLevel1" = NSComboBox; 
+                "m_cbLevel2" = NSComboBox; 
+                "m_cbLevel3" = NSComboBox; 
+                "m_cbProvince" = NSComboBox; 
+                "m_chkHasCamera" = NSButton; 
+                "m_chkOnline" = NSButton; 
+                "m_clusterTable" = NSTableView; 
+                "m_matrixSearchWhat" = NSMatrix; 
+                "m_pbClusterSearchMode" = NSPopUpButton; 
+                "m_pbUserSearchMode" = NSPopUpButton; 
+                "m_piBusy" = NSProgressIndicator; 
+                "m_tabMain" = NSTabView; 
+                "m_tabSearchCluster" = NSTabView; 
+                "m_tabSearchUser" = NSTabView; 
+                "m_txtClusterId" = NSTextField; 
+                "m_txtClusterPage" = NSTextField; 
+                "m_txtHint" = NSTextField; 
+                "m_txtMessage" = NSTextField; 
+                "m_txtNick" = NSTextField; 
+                "m_txtOnlines" = NSTextField; 
+                "m_txtQQ" = NSTextField; 
+                "m_txtTitle" = NSTextField; 
+                "m_txtUserPage" = NSTextField; 
+                "m_userTable" = NSTableView; 
+            }; 
+            SUPERCLASS = NSWindowController; 
+        }
+    ); 
+    IBVersion = 1; 
+}

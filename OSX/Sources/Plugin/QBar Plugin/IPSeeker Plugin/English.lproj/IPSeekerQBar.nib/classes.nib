@@ -1,0 +1,13 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {onSearch = id; }; 
+            CLASS = IPSeekerQBar; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {"m_txtIp" = NSSearchField; "m_txtLocation" = NSTextField; "m_view" = NSView; }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}

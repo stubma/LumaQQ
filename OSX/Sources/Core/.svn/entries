@@ -1,0 +1,160 @@
+8
+
+dir
+834
+http://svn.lumaqq.cn/mac/Sources/Core
+http://svn.lumaqq.cn/mac
+
+
+
+2007-12-15T15:03:09.790602Z
+704
+luma
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a41e418f-192f-0410-99b4-9833888f77e5
+
+Network.h
+file
+
+
+
+
+2008-01-27T09:34:21.000000Z
+7047e41711b17afbc12bb6c38d8337ca
+2007-10-17T06:02:03.235762Z
+226
+luma
+
+Packets.h
+file
+
+
+
+
+2008-01-27T09:34:21.000000Z
+72ecb80abd4e64d27b52d65ad3b15a87
+2007-10-17T06:02:03.235762Z
+226
+luma
+
+Event
+dir
+
+QQClient.mm
+file
+856
+
+
+
+2008-05-04T22:17:51.000000Z
+1a0e7340707c14fa0b412eeaa7b85e2d
+2008-05-04T14:19:39.877509Z
+856
+luma
+
+Network
+dir
+
+CustomFace
+dir
+
+Events.h
+file
+
+
+
+
+2008-01-27T09:34:21.000000Z
+4d63a2469d1a14192b7fa32fb3edc165
+2007-10-17T06:02:03.235762Z
+226
+luma
+
+CustomHead
+dir
+
+QQClientDelegate.h
+file
+
+
+
+
+2008-01-27T09:34:21.000000Z
+537cce5c70271fbf70d291ca7b9e07eb
+2007-10-10T07:31:12.899159Z
+183
+luma
+
+QQConstants.h
+file
+851
+
+
+
+2008-04-26T20:15:25.000000Z
+9a45738ac88b9c5aa128cbfb066c770e
+2008-04-26T15:11:03.775430Z
+851
+luma
+
+Bean
+dir
+
+QQClient.h
+file
+856
+
+
+
+2008-05-04T22:17:27.000000Z
+bbf3ec9a40e4d6a7f51daedd5462a4df
+2008-05-04T14:19:39.877509Z
+856
+luma
+
+QQ.h
+file
+
+
+
+
+2008-01-27T09:34:21.000000Z
+3c8c9d7e81e71ebc5d4aafb0af3b6b16
+2007-10-17T06:02:03.235762Z
+226
+luma
+
+Packet
+dir
+
+Extension
+dir
+
+Tool
+dir
+
+Beans.h
+file
+
+
+
+
+2008-01-27T09:34:21.000000Z
+23536495a3c87075cfe91c7b9cb52e89
+2007-10-17T06:02:03.235762Z
+226
+luma
+

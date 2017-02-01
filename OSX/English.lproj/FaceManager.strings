@@ -1,0 +1,8 @@
+/* localized string for face manager */
+
+LQTitle = "Face Manager of %u";
+LQDefaultGroup = "My Face";
+
+LQWarningAtLeastOne = "You need keep at least one group here";
+LQWarningDeleteGroupFailed = "Delete group failed";
+LQConfirmIncludeGroups = "Do you want to import groups?";

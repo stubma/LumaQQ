@@ -1,0 +1,5 @@
+/* localized string for normal IM window */
+
+LQTitle = "%@(%u)";
+
+LQHintNoSignature = "<< Friend doesn't have signature >>";

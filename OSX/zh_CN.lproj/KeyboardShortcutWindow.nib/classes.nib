@@ -1,0 +1,24 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = KeyboardShortcutWindow; LANGUAGE = ObjC; SUPERCLASS = NSWindow; }, 
+        {
+            ACTIONS = {onCancel = id; onOK = id; }; 
+            CLASS = KeyboardShortcutWindowController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                "m_btnCancel" = NSButton; 
+                "m_btnOK" = NSButton; 
+                "m_keyboardShortcutWindow" = NSWindow; 
+                "m_txtCloseWindow" = ShortcutTextField; 
+                "m_txtHistory" = ShortcutTextField; 
+                "m_txtNewLine" = ShortcutTextField; 
+                "m_txtSendMessage" = ShortcutTextField; 
+                "m_txtSwitchTab" = ShortcutTextField; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = ShortcutTextField; LANGUAGE = ObjC; SUPERCLASS = NSTextView; }
+    ); 
+    IBVersion = 1; 
+}

@@ -1,0 +1,600 @@
+//////////////////////////////////////
+// Warnings
+//////////////////////////////////////
+
+InvalidAccountInfoFile = "帐号信息文件格式非法";
+CanNotFindAccountInfoFile = "无法找到帐号信息文件";
+InvalidQQNumber = "QQ号无效";
+EmptyPassword = "密码不能为空";
+HttpProxyNeedTCP = "如果要使用HTTP代理，你需要选择TCP协议";
+ConfirmLogout = "你确定想注销吗?";
+ModifyInfoSuccess = "你的个人资料修改成功";
+ModifyClusterInfoSuccess = "群信息修改成功";
+NameCannotBeEmpty = "名称不能为空";
+ConfirmDeleteGroup = "你确定想删除这个分组吗?";
+ConfirmExitCluster = "你确定想退出该群吗?";
+ExitClusterSuccess = "你已退出该群";
+ConfirmMoveUserToStranger = "你确定想删除该好友吗?";
+ConfirmMoveUserToBlacklist = "你确定想把该用户加入黑名单吗?";
+//ConfirmAddUserAsFriend = "你确定想加该用户为好友吗?";
+ConfirmAddUserAsFriend = "现在还不支持添加好友!";
+DeleteUserFailed = "删除用户失败!";
+KickedOutBySystem = "系统检测到你的帐号在别处登录,当前会话被中止";
+ConfirmUploadFriendGroup = "你曾经更改过好友分组，是否现在上传到服务器?";
+ConfirmDeleteHistory = "你确定想清除所有聊天记录吗?";
+TimeoutToAuthorize = "发送验证信息超时";
+FailedToAuthorize = "发送验证信息失败";
+
+//////////////////////////////////////
+// UIAccountEdit
+//////////////////////////////////////
+
+QQNo = "QQ号";
+Password = "密码";
+LoginHidden = "隐身登录";
+Server = "登录服务器";
+Port = "登录端口";
+YourQQNo = "填入你的QQ号码";
+YourPassword = "填入你的密码";
+Protocol = "登录协议";
+SelectServer = "选择服务器";
+SelectPort = "选择端口";
+GroupHttpProxy = "HTTP代理(仅对TCP协议有效)";
+EnableHttpProxy = "使用HTTP代理";
+ProxyServer = "服务器";
+ProxyPort = "端口";
+ProxyUsername = "用户名";
+ProxyPassword = "密码";
+ProxyServerPlaceholder = "HTTP代理服务器地址";
+ProxyPortPlaceholder = "HTTP代理服务器端口";
+ProxyUsernamePlaceholder = "HTTP代理服务器用户名";
+ProxyPasswordPlaceholder = "HTTP代理服务器密码";
+
+//////////////////////////////////////
+// UIBaseChat
+//////////////////////////////////////
+
+SendTimeout = "消息\"%@\"发送超时";
+SendFailed = "消息\"%@\"发送失败";
+Face = "表情";
+Keyboard = "键盘";
+Hide = "隐藏";
+SelectFace = "选择表情";
+
+//////////////////////////////////////
+// UIChatLog
+//////////////////////////////////////
+
+ChatLog = "聊天记录";
+Search = "搜索";
+
+//////////////////////////////////////
+// UIClusterInfo
+//////////////////////////////////////
+
+ClusterName = "群名称";
+ClusterNotice = "群公告";
+ClusterDescription = "群描述";
+ClusterNoAuth = "任何人都可加入该群";
+ClusterNeedAuth = "需要通过验证才能加入该群";
+ClusterDenyAll = "拒绝任何人加入该群";
+RefreshClusterInfo = "刷新群信息";
+ModifyClusterInfo = "修改群信息";
+ClusterInfo = "群信息";
+Creator = "创建者";
+RefreshingClusterInfo = "正在刷新群信息...";
+ModifyingClusterInfo = "正在修改群信息...";
+
+//////////////////////////////////////
+// UIClusterMessageSetting
+//////////////////////////////////////
+
+ClusterMessageSetting = "群消息设定";
+SaveMessageSettingToServer = "保存消息设定到服务器端";
+ClearMessageSettingFromServer = "清除服务器端消息设定";
+AcceptMessage = "接收所有消息并提示";
+AutoEjectMessage = "自动弹出消息(对iPhone无意义)";
+DisplayMessageCount = "仅显示消息数目";
+AcceptMessageNoPrompt = "接收所有消息但不提示";
+BlockMessages = "阻止所有消息";
+SavingSettingToServer = "正在将消息设定保存到服务器端...";
+ClearingSettingFromServer = "正在清除服务器端消息设定...";
+
+//////////////////////////////////////
+// UIClusterOperation
+//////////////////////////////////////
+
+ViewClusterInfo = "查看群资料";
+ChatInCluster = "开始群聊天";
+EditMessageSetting = "编辑消息提示规则";
+ExitCluster = "退出该群";
+ExitingCluster = "正在退出群...";
+
+//////////////////////////////////////
+// UIGroupOperation
+//////////////////////////////////////
+
+RenameGroup = "改名该组";
+DeleteGroup = "删除该组";
+CreateGroup = "创建新组";
+GroupName = "组名称";
+SelectGroup = "选择目标组";
+MoveFriendsTo = "将被删除组中的好友移动到";
+
+//////////////////////////////////////
+// UILogin
+//////////////////////////////////////
+
+VerifyImage = "校验码图片";
+PleaseInput = "输入校验码";
+RefreshImage = "刷新校验码";
+HintRefreshImage = "正在刷新校验码...";
+HintGetLoginToken = "正在获取登录令牌...";
+HintConnect = "正在连接初始服务器...";
+HintSelectServer = "正在选择登录服务器...";
+HintGetServerToken = "正在获取服务器令牌...";
+HintVerifyPassword = "正在校验密码...";
+HintLogin = "正在登录...";
+HintNeedVerify = "服务器需要你输入校验码";
+HintLoginSuccess = "登录成功";
+HintLoginFailed = "登录失败";
+HintDownloadGroupName = "正在下载分组名称...";
+HintDownloadFriendGroup = "正在下载好友分组...";
+HintDownloadFriend = "正在下载好友列表...";
+
+//////////////////////////////////////
+// UIMain
+//////////////////////////////////////
+
+Myself = "我是谁";
+Friends = "好友";
+Clusters = "群组";
+Search = "搜索";
+Message = "消息";
+Recent = "最近";
+Customize = "定制按钮条";
+History = "记录";
+UploadingGroupNames = "正在上传分组名称...";
+UploadingFriendGroup = "正在上传好友分组...";
+
+//////////////////////////////////////
+// UIPreference
+//////////////////////////////////////
+
+DisplayGroup = "显示设置";
+MessageGroup = "消息设置";
+SoundGroup = "声音设置";
+ShowOnlineOnly = "只显示在线用户";
+ShowNick = "显示用户昵称";
+ShowStatusMessage = "显示状态消息";
+ShowSignature = "显示个性签名";
+ShowLevel = "显示用户级别";
+ButtonBarCount = "主界面按钮数";
+RejectStrangerMessage = "拒绝陌生人消息";
+EnableSound = "打开声音";
+SoundScheme = "声音主题";
+UpdateFriendGroup = "更新好友分组";
+SelectSoundScheme = "选择声音主题";
+UpdatingGroupName = "正在更新分组名称...";
+UpdatingFriendGroup = "正在更新好友分组...";
+UpdatingFriendList = "正在更新好友列表...";
+
+//////////////////////////////////////
+// UISelectHead
+//////////////////////////////////////
+
+SelectHead = "选择头像";
+HeadMale = "男士";
+HeadFemale = "女士";
+HeadPet = "宠物";
+HeadQQTang = "QQ堂";
+HeadQQFantasy = "QQ幻想";
+HeadQQSonic = "QQ音速";
+HeadQQHuaXia = "QQ华夏";
+
+//////////////////////////////////////
+// UISelectValue
+//////////////////////////////////////
+
+SelectValue = "选择";
+
+//////////////////////////////////////
+// UIUserAuth/UIClusterAuth
+//////////////////////////////////////
+
+ApproveOrReject = "同意还是拒绝";
+AddHimAsFriend = "添加他为好友";
+AddHimToGroup = "添加到组";
+RejectReason = "拒绝理由";
+Approve = "同意";
+Reject = "拒绝";
+GroupAddHim = "如果同意，你想把他加为好友吗?";
+GroupReject = "如果拒绝，输入你的理由";
+GroupForbidAddHim = "该用户不允许你添加他为好友";
+RejectingRequest = "正在拒绝用户请求...";
+ApprovingRequest = "正在批准用户请求...";
+
+//////////////////////////////////////
+// UIUserInfo
+//////////////////////////////////////
+
+MyInfo = "我的资料";
+UserInfo = "用户资料";
+RefreshInfo = "刷新个人资料";
+SaveInfo = "保存所做修改";
+Head = "头像";
+Nick = "昵称";
+Name = "姓名";
+Age = "年龄";
+HomePage = "个人主页";
+Zodiac = "生肖";
+Horoscope = "星座";
+Occupation = "职业";
+Gender = "性别";
+Blood = "血型";
+College = "毕业院校";
+Email = "电子邮件";
+Telephone = "电话";
+Mobile = "手机";
+Country = "国家";
+Province = "省份";
+City = "城市";
+Address = "地址";
+Zipcode = "邮政编码";
+Introduction = "个人介绍";
+AuthGroup = "验证类型";
+NoAuth = "任何人可以加我为好友";
+NeedAuth = "需要通过验证才能加我为好友";
+DenyAll = "拒绝任何人加我为好友";
+NeedQuestion = "正确回答问题才可以加我为好友";
+AuthQuestion = "验证问题";
+AuthAnswer = "正确答案";
+ContactGroup = "联系信息可见性";
+ContactOpen = "对所有人可见";
+ContactVisibleToFriend = "仅对好友可见";
+ContactSecret = "完全保密";
+Signature = "个性签名";
+RefreshingUserInfo = "正在刷新用户资料...";
+GettingSignature = "正在刷新个性签名...";
+GettingMyQuestion = "正在获取我的验证问题...";
+GettingAuthInfo = "正在请求验证信息...";
+ModifyingUserInfo = "正在修改用户资料...";
+ModifyingSignature = "正在修改个性签名...";
+DeletingSignature = "正在删除个性签名...";
+ModifyingAuthQuestion = "正在修改验证问题...";
+
+//////////////////////////////////////
+// UIUserOperation
+//////////////////////////////////////
+
+ViewUserInfo = "查看用户资料";
+ChatWithUser = "和该用户聊天";
+ModifyRemarkName = "修改备注名称";
+MoveUser = "将用户移动到其他组";
+DeleteUser = "删除用户";
+MoveToGroup = "移动到组";
+RemarkName = "备注名称";
+DeletingUser = "正在删除用户...";
+GettingDeleteAuthInfo = "正在获取验证信息...";
+RemovingUserFromServerList = "正在从服务器端好友列表中删除用户...";
+
+//////////////////////////////////////
+// GroupManager
+//////////////////////////////////////
+
+GroupStranger = "陌生人";
+GroupBlacklist = "黑名单";
+GroupMyFriends = "我的好友";
+
+//////////////////////////////////////
+// HistoryTableDataSource
+//////////////////////////////////////
+
+ChatLogWithUser = "与用户\"%@\"的聊天记录";
+ChatLogWithCluster = "群\"%@\"的聊天记录";
+
+//////////////////////////////////////
+// MyselfTableDataSource
+//////////////////////////////////////
+
+ViewPersonalInfo = "查看个人资料";
+ApplyChange = "应用所做修改";
+GroupChangeStatus = "改变在线状态";
+StatusMessage = "状态消息";
+
+//////////////////////////////////////
+// SearchTableDataSource
+//////////////////////////////////////
+
+SearchUser = "搜索用户";
+SearchCluster = "搜索群";
+ClusterID = "群ID";
+GroupSearchUser = "搜索用户";
+GroupSearchCluster = "搜索群";
+
+//////////////////////////////////////
+// Auth message
+//////////////////////////////////////
+
+MessageRejectJoinCluster = "管理员%u(群%u)拒绝了你的请求.\n附加消息: %@";
+MessageYouAreNotAdminNow = "你已经被取消了群\"%@\"的管理员权限";
+MessageAmdinRoleUnset = "用户%u被取消了群\"%@\"的管理员权限";
+MessageYouAreAdminNow = "你被指定为群\"%@\"的管理员";
+MessageAdminRoleSet = "用户%u被指定为群\"%@\"的管理员";
+MessageYouAreClusterOwner = "你已成为群%u(%@)的拥有者";
+MessageOwnerChanged = "%u成为了群%u(%@)的拥有者";
+MessageYouAreKickedByAdmin = "你已经被群%u(%@)的管理员%u请出了该群";
+MessageKickedByAdmin = "%u已经被群%u(%@)的管理员%u请出了该群";
+MessageMemberExit = "%u已经退出了群%u(%@)";
+MessageRequestJoinCluster = "%u请求加入群%u(%@).\n附加消息: %@";
+MessageClusterCreated = "群%u已创建，同时管理员%u把你添加到了该群";
+MessageYouJoinedCluster = "你已经加入了群%u";
+MessageJoinedCluster = "%u已经加入了群%u";
+MessageYouDismissedCluster = "你已经成功的解散了群%u(%@)";
+MessageClusterDismissed = "群%u已经被解散";
+MessageApproveJoinCluster = "管理员%u(群%u)批准了你的请求";
+
+MessageRequestAddMe = "%u请求加你为好友.\n附加消息: %@";
+MessageApproveAddHim = "%u同意了你的请求";
+MessageApproveAddHimAndAddMe = "%u同意了你的请求并添加你为好友";
+MessageRejectAddHim = "%u拒绝了你的请求.\n附加消息: %@";
+MessageOtherAddedMe = "%u已添加你为好友";
+
+//////////////////////////////////////
+// Common
+//////////////////////////////////////
+
+Edit = "编辑";
+Add = "添加";
+Done = "完成";
+Warning = "警告";
+Account = "帐号";
+Save = "保存";
+Cancel = "取消";
+OK = "确定";
+Login = "登录";
+Logout = "登出";
+Preference = "系统设置";
+Back = "返回";
+Question = "确认";
+Success = "成功";
+Level = "级";
+Unread = "未读";
+Fail = "失败";
+ChatLog = "聊天记录";
+Delete = "删除";
+DeleteAll = "删除所有";
+Send = "发送";
+Yes = "是";
+No = "否";
+Clear = "清空";
+CustomFace = "自定义表情";
+Screenshot = "抓屏";
+Incomplete = "该功能未完成";
+More = "更多";
+
+Author = "作者: luma@smth";
+LumaQQ = "LumaQQ iPhone 特别版";
+Build = "Build No.: %@";
+Sponsor = "赞助: iBook@smth Venmos";
+Artwork = "美工: mrpeng randomdot SimWong xiaotong";
+ThanksDonator = "感谢所有捐助人";
+SpecialThanks = "特别感谢: holly 小猪快跑 baxia chujs enosss kenshinxx mirror servalry 罐罐 weizhangxiang xiakefeng978";
+
+StatusOnline = "在线";
+StatusQMe = "Q我吧";
+StatusBusy = "忙碌";
+StatusMute = "静音";
+StatusAway = "离开";
+StatusHidden = "隐藏";
+StatusOffline = "离线";
+
+Occupation.count = "27";
+Occupation.0 = "服务业";
+Occupation.1 = "工程师";
+Occupation.2 = "IT民工";
+Occupation.3 = "临时工";
+Occupation.4 = "教育";
+Occupation.5 = "金融";
+Occupation.6 = "老板";
+Occupation.7 = "商业";
+Occupation.8 = "失业";
+Occupation.9 = "退休";
+Occupation.10 = "销售";
+Occupation.11 = "市场";
+Occupation.12 = "广告";
+Occupation.13 = "学生";
+Occupation.14 = "政府";
+Occupation.15 = "制造业";
+Occupation.16 = "杀手";
+Occupation.17 = "黑社会";
+Occupation.18 = "作家";
+Occupation.19 = "美女作家";
+Occupation.20 = "歌手";
+Occupation.21 = "房地产";
+Occupation.22 = "二奶";
+Occupation.23 = "鸭";
+Occupation.24 = "鸡";
+Occupation.25 = "色情业";
+Occupation.26 = "丐帮";
+
+Gender.count = "4";
+Gender.0 = "男";
+Gender.1 = "女";
+Gender.2 = "双性人";
+Gender.3 = "变性人";
+
+Zodiac.count = "13";
+Zodiac.0 = "<未设置>";
+Zodiac.1 = "鼠";
+Zodiac.2 = "牛";
+Zodiac.3 = "虎";
+Zodiac.4 = "兔";
+Zodiac.5 = "龙";
+Zodiac.6 = "蛇";
+Zodiac.7 = "马";
+Zodiac.8 = "羊";
+Zodiac.9 = "猴";
+Zodiac.10 = "鸡";
+Zodiac.11 = "狗";
+Zodiac.12 = "猪";
+
+Horoscope.count = "13";
+Horoscope.0 = "<未设置>";
+Horoscope.1 = "水瓶座";
+Horoscope.2 = "双鱼座";
+Horoscope.3 = "白羊座";
+Horoscope.4 = "金牛座";
+Horoscope.5 = "双子座";
+Horoscope.6 = "巨蟹座";
+Horoscope.7 = "狮子座";
+Horoscope.8 = "处女座";
+Horoscope.9 = "天秤座";
+Horoscope.10 = "天蝎座";
+Horoscope.11 = "射手座";
+Horoscope.12 = "摩羯座";
+
+Blood.count = "6";
+Blood.0 = "<未设置>";
+Blood.1 = "A";
+Blood.2 = "B";
+Blood.3 = "O";
+Blood.4 = "AB";
+Blood.5 = "其它";
+
+// for default face
+DefaultFace.0 = "微笑";
+DefaultFace.1 = "撇嘴";
+DefaultFace.2 = "色";
+DefaultFace.3 = "发呆";
+DefaultFace.4 = "得意";
+DefaultFace.5 = "流泪";
+DefaultFace.6 = "害羞";
+DefaultFace.7 = "闭嘴";
+DefaultFace.8 = "睡";
+DefaultFace.9 = "大哭";
+DefaultFace.10 = "尴尬";
+DefaultFace.11 = "发怒";
+DefaultFace.12 = "调皮";
+DefaultFace.13 = "呲牙";
+DefaultFace.14 = "惊讶";
+DefaultFace.15 = "难过";
+DefaultFace.16 = "酷";
+DefaultFace.17 = "冷汗";
+DefaultFace.18 = "抓狂";
+DefaultFace.19 = "吐";
+DefaultFace.20 = "偷笑";
+DefaultFace.21 = "可爱";
+DefaultFace.22 = "白眼";
+DefaultFace.23 = "傲慢";
+DefaultFace.24 = "饥饿";
+DefaultFace.25 = "困";
+DefaultFace.26 = "惊恐";
+DefaultFace.27 = "流汗";
+DefaultFace.28 = "憨笑";
+DefaultFace.29 = "大兵";
+DefaultFace.30 = "奋斗";
+DefaultFace.31 = "咒骂";
+DefaultFace.32 = "疑问";
+DefaultFace.33 = "嘘...";
+DefaultFace.34 = "晕";
+DefaultFace.35 = "折磨";
+DefaultFace.36 = "衰";
+DefaultFace.37 = "骷髅";
+DefaultFace.38 = "敲打";
+DefaultFace.39 = "再见";
+DefaultFace.40 = "擦汗";
+DefaultFace.41 = "抠鼻";
+DefaultFace.42 = "鼓掌";
+DefaultFace.43 = "糗大了";
+DefaultFace.44 = "坏笑";
+DefaultFace.45 = "左哼哼";
+DefaultFace.46 = "右哼哼";
+DefaultFace.47 = "哈欠";
+DefaultFace.48 = "鄙视";
+DefaultFace.49 = "委屈";
+DefaultFace.50 = "快哭了";
+DefaultFace.51 = "阴险";
+DefaultFace.52 = "亲亲";
+DefaultFace.53 = "吓";
+DefaultFace.54 = "可怜";
+DefaultFace.55 = "菜刀";
+DefaultFace.56 = "西瓜";
+DefaultFace.57 = "啤酒";
+DefaultFace.58 = "篮球";
+DefaultFace.59 = "乒乓";
+DefaultFace.60 = "咖啡";
+DefaultFace.61 = "饭";
+DefaultFace.62 = "猪头";
+DefaultFace.63 = "玫瑰";
+DefaultFace.64 = "凋谢";
+DefaultFace.65 = "示爱";
+DefaultFace.66 = "爱心";
+DefaultFace.67 = "心碎";
+DefaultFace.68 = "蛋糕";
+DefaultFace.69 = "闪电";
+DefaultFace.70 = "炸弹";
+DefaultFace.71 = "刀";
+DefaultFace.72 = "足球";
+DefaultFace.73 = "瓢虫";
+DefaultFace.74 = "便便";
+DefaultFace.75 = "月亮";
+DefaultFace.76 = "太阳";
+DefaultFace.77 = "礼物";
+DefaultFace.78 = "拥抱";
+DefaultFace.79 = "强";
+DefaultFace.80 = "弱";
+DefaultFace.81 = "握手";
+DefaultFace.82 = "胜利";
+DefaultFace.83 = "抱拳";
+DefaultFace.84 = "勾引";
+DefaultFace.85 = "拳头";
+DefaultFace.86 = "差劲";
+DefaultFace.87 = "爱你";
+DefaultFace.88 = "NO";
+DefaultFace.89 = "OK";
+DefaultFace.90 = "爱情";
+DefaultFace.91 = "飞吻";
+DefaultFace.92 = "跳跳";
+DefaultFace.93 = "发抖";
+DefaultFace.94 = "怄火";
+DefaultFace.95 = "转圈";
+DefaultFace.96 = "磕头";
+DefaultFace.97 = "回头";
+DefaultFace.98 = "跳绳";
+DefaultFace.99 = "挥手";
+DefaultFace.100 = "激动";
+DefaultFace.101 = "街舞";
+DefaultFace.102 = "献吻";
+DefaultFace.103 = "左太极";
+DefaultFace.104 = "右太极";
+DefaultFace.105 = "非典";
+DefaultFace.106 = "闪人";
+DefaultFace.107 = "找";
+DefaultFace.108 = "美眉";
+DefaultFace.109 = "猫咪";
+DefaultFace.110 = "小狗";
+DefaultFace.111 = "钱";
+DefaultFace.112 = "灯泡";
+DefaultFace.113 = "酒杯";
+DefaultFace.114 = "音乐";
+DefaultFace.115 = "药丸";
+DefaultFace.116 = "吻";
+DefaultFace.117 = "会议";
+DefaultFace.118 = "电话";
+DefaultFace.119 = "时间";
+DefaultFace.120 = "邮件";
+DefaultFace.121 = "电视";
+DefaultFace.122 = "多多";
+DefaultFace.123 = "美女";
+DefaultFace.124 = "汉良";
+DefaultFace.125 = "毛毛";
+DefaultFace.126 = "Q仔";
+DefaultFace.127 = "白酒";
+DefaultFace.128 = "汽水";
+DefaultFace.129 = "下雨";
+DefaultFace.130 = "多云";
+DefaultFace.131 = "雪人";
+DefaultFace.132 = "星星";
+DefaultFace.133 = "女";
+DefaultFace.134 = "男";

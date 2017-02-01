@@ -1,0 +1,20 @@
+/** localized string for base im container */
+
+LQTooltipFont = "字体";
+LQTooltipColor = "字体颜色";
+LQTooltipFace = "选择表情";
+LQTooltipSendPicture = "发送图片文件";
+LQTooltipScreenscrap = "发送屏幕截图";
+LQTooltipKeySetting = "快捷键设置";
+LQTooltipHistory = "聊天记录";
+LQTooltipOwner = "%@	(点击查看更多信息)";
+LQTooltipSwitchMemberView = "显示/隐藏成员列表";
+
+LQWarningEmptyMessage = "不能发送空消息!";
+LQWarningHasPendingMessage = "有消息正在发送，如果你关闭窗口，未发送的消息将被抛弃。你仍然希望关闭窗口吗?";
+LQWarningTooManyPicture = "图片数目太多，不能发送";
+LqWarningTooLong = "消息太长，无法发送";
+
+LQHintTimeoutHeader = "\n消息:\"";
+LQHintTimeoutTail = "\" 发送失败，可能是网络忙，请重试";
+LQHintCustomFaceFailedToSend = "\n自表情发送失败: %@";

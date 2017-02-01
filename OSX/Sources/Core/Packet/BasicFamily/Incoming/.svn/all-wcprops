@@ -1,0 +1,437 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/539/Sources/Core/Packet/BasicFamily/Incoming
+END
+SearchUserReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/SearchUserReplyPacket.mm
+END
+KeepAliveReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/KeepAliveReplyPacket.mm
+END
+GetServerTokenReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mac/!svn/ver/162/Sources/Core/Packet/BasicFamily/Incoming/GetServerTokenReplyPacket.mm
+END
+TempSessionOpReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/TempSessionOpReplyPacket.mm
+END
+GetUserInfoReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Incoming/GetUserInfoReplyPacket.h
+END
+GetLoginTokenReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mac/!svn/ver/126/Sources/Core/Packet/BasicFamily/Incoming/GetLoginTokenReplyPacket.mm
+END
+AuthorizeReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mac/!svn/ver/194/Sources/Core/Packet/BasicFamily/Incoming/AuthorizeReplyPacket.mm
+END
+FriendDataOpReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/FriendDataOpReplyPacket.h
+END
+SystemNotificationPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/SystemNotificationPacket.mm
+END
+ClusterCommandReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mac/!svn/ver/125/Sources/Core/Packet/BasicFamily/Incoming/ClusterCommandReplyPacket.mm
+END
+SearchUserReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/SearchUserReplyPacket.h
+END
+GetOnlineOpReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mac/!svn/ver/539/Sources/Core/Packet/BasicFamily/Incoming/GetOnlineOpReplyPacket.mm
+END
+LevelOpReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/LevelOpReplyPacket.h
+END
+SelectServerReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Incoming/SelectServerReplyPacket.h
+END
+RemoveSelfReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/RemoveSelfReplyPacket.h
+END
+TempSessionOpReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/TempSessionOpReplyPacket.h
+END
+FriendStatusChangedPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mac/!svn/ver/157/Sources/Core/Packet/BasicFamily/Incoming/FriendStatusChangedPacket.h
+END
+ClusterCommandReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mac/!svn/ver/236/Sources/Core/Packet/BasicFamily/Incoming/ClusterCommandReplyPacket.h
+END
+WeatherOpReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/WeatherOpReplyPacket.mm
+END
+ReceivedIMPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mac/!svn/ver/185/Sources/Core/Packet/BasicFamily/Incoming/ReceivedIMPacket.mm
+END
+PropertyOpReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mac/!svn/ver/237/Sources/Core/Packet/BasicFamily/Incoming/PropertyOpReplyPacket.h
+END
+ModifyInfoReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Incoming/ModifyInfoReplyPacket.mm
+END
+GroupDataOpReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/GroupDataOpReplyPacket.h
+END
+GetFriendListReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Incoming/GetFriendListReplyPacket.mm
+END
+ChangeStatusReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/ChangeStatusReplyPacket.h
+END
+LoginReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mac/!svn/ver/126/Sources/Core/Packet/BasicFamily/Incoming/LoginReplyPacket.mm
+END
+AdvancedSearchUserReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/AdvancedSearchUserReplyPacket.h
+END
+FriendStatusChangedPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mac/!svn/ver/157/Sources/Core/Packet/BasicFamily/Incoming/FriendStatusChangedPacket.mm
+END
+AuthInfoOpReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/AuthInfoOpReplyPacket.mm
+END
+ReceivedIMPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mac/!svn/ver/185/Sources/Core/Packet/BasicFamily/Incoming/ReceivedIMPacket.h
+END
+AddFriendReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/AddFriendReplyPacket.mm
+END
+GetServerTokenReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/GetServerTokenReplyPacket.h
+END
+GroupDataOpReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/GroupDataOpReplyPacket.mm
+END
+LoginReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mac/!svn/ver/123/Sources/Core/Packet/BasicFamily/Incoming/LoginReplyPacket.h
+END
+PasswordVerifyReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mac/!svn/ver/251/Sources/Core/Packet/BasicFamily/Incoming/PasswordVerifyReplyPacket.mm
+END
+GetKeyReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/GetKeyReplyPacket.mm
+END
+AuthQuestionOpReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/AuthQuestionOpReplyPacket.mm
+END
+ChangeStatusReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/ChangeStatusReplyPacket.mm
+END
+AuthInfoOpReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/AuthInfoOpReplyPacket.h
+END
+GetUserInfoReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Incoming/GetUserInfoReplyPacket.mm
+END
+SystemNotificationPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/SystemNotificationPacket.h
+END
+AddFriendReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/AddFriendReplyPacket.h
+END
+GetOnlineOpReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mac/!svn/ver/539/Sources/Core/Packet/BasicFamily/Incoming/GetOnlineOpReplyPacket.h
+END
+GetKeyReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/GetKeyReplyPacket.h
+END
+AuthQuestionOpReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/AuthQuestionOpReplyPacket.h
+END
+LevelOpReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/LevelOpReplyPacket.mm
+END
+SelectServerReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Incoming/SelectServerReplyPacket.mm
+END
+UploadFriendGroupReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/UploadFriendGroupReplyPacket.h
+END
+DeleteFriendReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/DeleteFriendReplyPacket.h
+END
+PrivacyOpReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/PrivacyOpReplyPacket.mm
+END
+SendIMReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/SendIMReplyPacket.mm
+END
+GetFriendListReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mac/!svn/ver/125/Sources/Core/Packet/BasicFamily/Incoming/GetFriendListReplyPacket.h
+END
+ModifyInfoReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Incoming/ModifyInfoReplyPacket.h
+END
+GetFriendGroupReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mac/!svn/ver/195/Sources/Core/Packet/BasicFamily/Incoming/GetFriendGroupReplyPacket.mm
+END
+AuthorizeReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mac/!svn/ver/194/Sources/Core/Packet/BasicFamily/Incoming/AuthorizeReplyPacket.h
+END
+UploadFriendGroupReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/UploadFriendGroupReplyPacket.mm
+END
+AdvancedSearchUserReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/AdvancedSearchUserReplyPacket.mm
+END
+PrivacyOpReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/PrivacyOpReplyPacket.h
+END
+SignatureOpReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/SignatureOpReplyPacket.mm
+END
+GetFriendGroupReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/GetFriendGroupReplyPacket.h
+END
+PasswordVerifyReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mac/!svn/ver/247/Sources/Core/Packet/BasicFamily/Incoming/PasswordVerifyReplyPacket.h
+END
+RemoveSelfReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/RemoveSelfReplyPacket.mm
+END
+WeatherOpReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/WeatherOpReplyPacket.h
+END
+SendSMSReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Incoming/SendSMSReplyPacket.mm
+END
+SignatureOpReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/SignatureOpReplyPacket.h
+END
+PropertyOpReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/PropertyOpReplyPacket.mm
+END
+KeepAliveReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/KeepAliveReplyPacket.h
+END
+GetLoginTokenReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mac/!svn/ver/126/Sources/Core/Packet/BasicFamily/Incoming/GetLoginTokenReplyPacket.h
+END
+SendSMSReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Incoming/SendSMSReplyPacket.h
+END
+DeleteFriendReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/DeleteFriendReplyPacket.mm
+END
+SendIMReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/SendIMReplyPacket.h
+END
+FriendDataOpReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Incoming/FriendDataOpReplyPacket.mm
+END

@@ -1,0 +1,22 @@
+/* localized string for cluster info window */
+
+LQTitle = "群信息(%@)";
+
+LQHintGetClusterInfo = "正在获取群信息...";
+LQHintModifyMessageSetting = "正在修改群消息设定...";
+LQHintModifyCard = "正在修改群名片...";
+LQHintModifyClusterInfo = "正在修改群信息...";
+LQHintGetCard = "正在获取群名片...";
+LQHintGetMessageSetting = "正在获取群消息设定...";
+LQHintGetChannelSetting = "正在获取群频道设定...";
+LQHintModifyChannelSetting = "正在修改群频道设定...";
+LQHintGetLastTalkTime = "正在获取上次发言时间...";
+LQHintAddMember = "正在添加群成员...";
+LQHintRemoveMember = "正在修改群成员...";
+
+LQInfoModifyMessageSettingOK = "修改群消息设定成功.";
+LQInfoModifyMessageSettingFailed = "修改群消息设定失败.";
+LQInfoModifyCardOK = "群名片修改成功";
+LQInfoModifyCardFailed = "修改群名片失败";
+LQInfoModifyInfoFailed = "修改群信息失败";
+LQInfoModifyInfoOK = "群信息修改成功";

@@ -1,0 +1,8 @@
+/* localized string for normal IM window */
+
+LQClusterTitle = "%@(%u)";
+LQSubjectTitle = "讨论组: %@";
+LQDialogTitle = "多人对话: %@";
+
+LQSubjectNotice = "本讨论组隶属于群\"%@\"";
+LQDialogNotice = "多人对话创建者: %@";

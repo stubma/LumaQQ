@@ -1,0 +1,5 @@
+/** localized string for mobile im container */
+
+LQTitle = "SMS: %@(%@)";
+
+LQHintTimeout = "SMS \"%@\" send timeout, please retry";

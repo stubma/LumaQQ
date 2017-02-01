@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/mac/!svn/ver/598/Sources/Core/Network
+END
+HttpInterceptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mac/!svn/ver/190/Sources/Core/Network/HttpInterceptor.h
+END
+Interceptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mac/!svn/ver/190/Sources/Core/Network/Interceptor.h
+END
+Connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mac/!svn/ver/201/Sources/Core/Network/Connection.h
+END
+HttpInterceptor.mm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/196/Sources/Core/Network/HttpInterceptor.mm
+END
+Connection.mm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mac/!svn/ver/201/Sources/Core/Network/Connection.mm
+END
+NetworkLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mac/!svn/ver/201/Sources/Core/Network/NetworkLayer.h
+END
+Socks5Interceptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/196/Sources/Core/Network/Socks5Interceptor.h
+END
+ConnectionAdvisor.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/174/Sources/Core/Network/ConnectionAdvisor.h
+END
+NetworkLayer.mm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mac/!svn/ver/849/Sources/Core/Network/NetworkLayer.mm
+END
+Socks5Interceptor.mm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/196/Sources/Core/Network/Socks5Interceptor.mm
+END

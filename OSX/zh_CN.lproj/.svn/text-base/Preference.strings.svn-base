@@ -1,0 +1,13 @@
+/** localized string for preference window */
+
+LQTitle = "偏好设定(%u)";
+
+LQWarningConflictedExtractMessageKey = "提取消息的热键已被其他用户占用，请重新设定";
+LQWarningErrorSoundFile = "无法打开这个声音文件，请检查文件路径是否正确";
+LQWarningDuplicatedHotKey = "你设置的热键互相之间有冲突，请重新设定";
+LQWarningConflictedScreenscrapKey = "屏幕抓图的热键已被其他用户占用，请重新设定";
+
+LQBasic = "基本设置";
+LQHotKey = "热键设置";
+LQSound = "声音设置";
+LQRecentContact = "最近联系人";

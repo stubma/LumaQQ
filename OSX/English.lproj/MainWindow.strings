@@ -1,0 +1,60 @@
+/* Localized versions of MainWindow */
+
+LQAlertTitle1 = "Network Error";
+LQAlertTitle2 = "Login Failed";
+LQAlertTitle3 = "New Version Available";
+LQErrorNetwork = "Network ended unexpectedly, please check network setting";
+LQErrorConnectionTimeout = "Network connection timeout, please re-login";
+
+LQHintLogin = "Logging In";
+LQHintConnectInitialServer = "Connectting Initial Server";
+LQHintGetServerToken = "Getting Server Token";
+LQHintGetLoginToken = "Getting Login Token";
+LQHintVerifyPassword = "Verifying Password";
+LQHintSelectServer = "Selecting Server";
+LQHintDownloadGroupName = "Downloading Group Names";
+LQHintInitializeUI = "Initializing UI";
+LQHintInitialize = "Initializing";
+LQHintDownloadFriend = "Downloading Friends";
+LQHintDownloadFriendGroup = "Downloading Friend Group";
+LQHintInputQQ = "Input the QQ number you want to add:";
+LQHintInputStatusMessage = "Input the status message you want to change to:";
+LQHintInputQQForTempSession = "Input the QQ number you want to send temp session message to";
+LQHintErrorQQ = "The QQ number is invalid";
+LQHintInputRemarkName = "Input the remark name for this friend:";
+LQHintInputGroupName = "Please input new group name:";
+LQHintUploadGroupName = "Uploading Group Names...";
+LQHintUploadFriendGroup = "Uploading Friend Groups...";
+LQHintToBeDeleted = "To Be Deleted";
+LQHintQBarPluginFound = "%d QBar Plugin Found";
+
+LQTooltipDisplaySetting = "Friend List Display Setting";
+LQTooltipSearch = "Serach User or Cluster";
+LQTooltipFriends = "Friends";
+LQTooltipClusters = "Clusters";
+LQTooltipMobiles = "Mobiles";
+LQTooltipRecent = "Recent Contact";
+
+LQMenuItemViewInfo = "View Info";
+LQMenuItemModifyInfo = "Modify Info";
+LQMenuItemRefreshRemark = "Refresh Friend Remark";
+LQMenuItemRefreshingRemark = "Refreshing Friend Remark, Wait...";
+LQMenuItemRefreshSignature = "Refresh User Signature";
+LQMenuItemRefreshingSignature = "Refreshing User Signature, Wait...";
+LQMenuItemRefreshFriendList = "Refresh Friend List";
+LQMenuItemRefreshingFriendList = "Refreshing Friend List, Wait...";
+LQMenuItemStatusMessage = "Status Info: %@";
+
+LQOperationSuffixGettInfo = "Getting Info...";
+LQOperationSuffixExitCluster = "Exiting...";
+
+LQWarningUpdate = "Here is new version available in LumaQQ home site, if you want to download, please go to http://lumaqq.linuxsir.org\n\n%@";
+LQWarningUploadConfirm = "You has changed friend group setting, do you want to upload friend group now?";
+LQWarningCantDeleteUnfriendlyGroup = "Can't default unfriendly group";
+LQWarningCantDeleteDefaultFriendlyGroup = "Can't delete default friendly group";
+LQWarningMoveToSameAsToBeDeleted = "The group friends will be moved to is same as group to be deleted";
+LQWarningCantRenameUnfriendlyGroup = "Can't rename unfriendly group";
+LQWarningCantRenameDefaultFriendlyGroup = "Can't rename default friendly group";
+LQWarningHotKeyRegisterFailed = "Some hot keys are failed to register, they may be occupied by others, please go to preference to check your hot key setting. However, don't worry about this. You can extract message by using any hot key which is not conflicted with others.";
+LQWarningMoveToBlacklistConfirm = "Are you sure want move him to blacklist and remove yourself from his list?";
+LQWarningKickedOut = "Your QQ is logged in elsewhere, so you have to be kicked out by system";

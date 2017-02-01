@@ -1,0 +1,36 @@
+/* localized string for user/cluster auth window */
+
+LQClusterAuthTitle = "Cluster System Message";
+LQUserAuthTitle = "Search/Add User";
+
+LQOptionBlock = "Don't Receive His Request Any More";
+LQOptionAddReverse = "Add Him As My Friend";
+
+LQMessageRejectJoinCluster = "Admin %u of cluster %u rejected your request.\nAttached message: %@";
+LQMessageYouAreNotAdminNow = "You are resigned to admin of cluster \"%@\"";
+LQMessageAmdinRoleUnset = "%u is resigned to admin of cluster \"%@\"";
+LQMessageYouAreAdminNow = "You are assigned as admin of cluster \"%@\"";
+LQMessageAdminRoleSet = "%u is assigned as admin of cluster \"%@\"";
+LQMessageYouAreClusterOwner = "You are owner of cluster %u(%@) now";
+LQMessageOwnerChanged = "%u became owner of cluster %u(%@)";
+LQMessageYouAreKickedByAdmin = "You are lopped off from cluster %u(%@) by admin %u";
+LQMessageKickedByAdmin = "%u have been lopped off from cluster %u(%@) by admin %u";
+LQMessageMemberExit = "%u has exited cluster %u(%@)";
+LQMessageRequestJoinCluster = "%u request to join cluster %u(%@).\nAttached message: %@";
+LQMessageClusterCreated = "Cluster %u is created and admin %u added you in it";
+LQMessageYouJoinedCluster = "You have joined cluster %u";
+LQMessageJoinedCluster = "%u have joined cluster %u";
+LQMessageYouDismissedCluster = "You have dismissed cluster %u(%@) successfully";
+LQMessageClusterDismissed = "Cluster %u is dismissed";
+LQMessageApproveJoinCluster = "Admin %u of cluster %u approved your request";
+
+LQMessageRequestAddMe = "%u request to add you as friend.\nAttached message: %@";
+LQMessageApproveAddHim = "%u approve your request";
+LQMessageApproveAddHimAndAddMe = "%u approve your request and add you as friend too";
+LQMessageRejectAddHim = "%u reject your request.\nAttached message: %@";
+LQMessageOtherAddedMe = "%u has added you as friend";
+
+LQHintApprove = "Approving request...";
+LQHintReject = "Rejecting request...";
+LQHintSuccess = "Your decision is successfully submitted";
+LQHintFail = "Fail to send your decision, maybe network problem, please retry";

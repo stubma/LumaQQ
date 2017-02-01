@@ -1,0 +1,16 @@
+// software name
+MailPal = "MailPal";
+
+// alert sheet titles
+Warning = "Warning";
+
+// warnings
+CannotOpenMailDB = "Can not open mail database";
+
+// mailbox names
+Inbox = "Inbox";
+Trash = "Trash";
+
+// navigation bar buttons
+Start = "Start";
+About = "About";

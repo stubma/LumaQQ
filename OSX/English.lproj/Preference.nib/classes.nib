@@ -1,0 +1,47 @@
+{
+    IBClasses = (
+        {
+            CLASS = AnimatedWindowController; 
+            LANGUAGE = ObjC; 
+            SUPERCLASS = NSWindowController; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {
+                onBrowse = id; 
+                onCancel = id; 
+                onEnableSound = id; 
+                onOK = id; 
+                onPlay = id; 
+                onSoundTypeChanged = id; 
+            }; 
+            CLASS = PreferenceWindowController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                "m_basicView" = NSView; 
+                "m_btnBrowse" = NSButton; 
+                "m_btnPlay" = NSButton; 
+                "m_chkEnableSound" = NSButton; 
+                "m_chkKeepStrangerInRecentContactList" = NSButton; 
+                "m_hotKeyExtractMessage" = ShortcutTextField; 
+                "m_hotKeyScreenscrap" = ShortcutTextField; 
+                "m_hotKeyView" = NSView; 
+                "m_lblSoundFile" = NSTextField; 
+                "m_lblSoundSchema" = NSTextField; 
+                "m_lblSoundType" = NSTextField; 
+                "m_mxOverall" = NSMatrix; 
+                "m_mxUpload" = NSMatrix; 
+                "m_mxWindow" = NSMatrix; 
+                "m_pbSoundSchema" = NSPopUpButton; 
+                "m_pbSoundType" = NSPopUpButton; 
+                "m_recentContactView" = NSView; 
+                "m_soundView" = NSView; 
+                "m_txtMaxRecentContact" = NSTextField; 
+                "m_txtSoundFile" = NSTextView; 
+            }; 
+            SUPERCLASS = AnimatedWindowController; 
+        }, 
+        {CLASS = ShortcutTextField; LANGUAGE = ObjC; SUPERCLASS = NSTextView; }
+    ); 
+    IBVersion = 1; 
+}

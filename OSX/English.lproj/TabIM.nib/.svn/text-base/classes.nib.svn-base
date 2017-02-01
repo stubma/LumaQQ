@@ -1,0 +1,20 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = NSObject; LANGUAGE = ObjC; }, 
+        {
+            CLASS = PSMTabBarControl; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {delegate = id; partnerView = id; style = id; tabView = NSTabView; }; 
+            SUPERCLASS = NSControl; 
+        }, 
+        {
+            ACTIONS = {onHeadItem = id; onHistory = id; onKeySetting = id; onToolbarItem = id; }; 
+            CLASS = TabIMWindowController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {"m_tabBar" = PSMTabBarControl; "m_tabView" = NSTabView; }; 
+            SUPERCLASS = NSWindowController; 
+        }
+    ); 
+    IBVersion = 1; 
+}

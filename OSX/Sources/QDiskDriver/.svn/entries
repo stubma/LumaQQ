@@ -1,0 +1,70 @@
+8
+
+dir
+834
+http://svn.lumaqq.cn/mac/Sources/QDiskDriver
+http://svn.lumaqq.cn/mac
+
+
+
+2007-10-26T09:43:37.391310Z
+250
+luma
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a41e418f-192f-0410-99b4-9833888f77e5
+
+QDiskDriver.xcodeproj
+dir
+
+Info.plist
+file
+
+
+
+
+2008-01-27T09:33:33.000000Z
+385c77e31deb4766aebc28a7c9656db5
+2007-10-26T09:43:37.391310Z
+250
+luma
+
+QDiskDriver.cpp
+file
+
+
+
+
+2008-01-27T09:33:33.000000Z
+0a8d46c5f5a9ffe0b20606d0e4f15d94
+2007-10-26T09:43:37.391310Z
+250
+luma
+
+QDiskDriver.h
+file
+
+
+
+
+2008-01-27T09:33:33.000000Z
+3d97c1e08938e58c496024b4f86ae3f2
+2007-10-26T06:08:36.207249Z
+249
+luma
+
+English.lproj
+dir
+

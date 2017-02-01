@@ -1,0 +1,4 @@
+/** string for about window */
+
+LQPluginDescription = "在工具条上显示你的个性签名，如果你修改了个性签名，它也会同步更新";
+LQNoSignature = "<没有个性签名>";

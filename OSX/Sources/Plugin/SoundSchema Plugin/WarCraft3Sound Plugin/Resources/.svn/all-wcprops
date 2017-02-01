@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mac/!svn/ver/111/Sources/Plugin/SoundSchema%20Plugin/WarCraft3Sound%20Plugin/Resources
+END
+online.wav
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mac/!svn/ver/111/Sources/Plugin/SoundSchema%20Plugin/WarCraft3Sound%20Plugin/Resources/online.wav
+END
+system.wav
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mac/!svn/ver/111/Sources/Plugin/SoundSchema%20Plugin/WarCraft3Sound%20Plugin/Resources/system.wav
+END
+cluster_message.wav
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/mac/!svn/ver/111/Sources/Plugin/SoundSchema%20Plugin/WarCraft3Sound%20Plugin/Resources/cluster_message.wav
+END
+login.wav
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mac/!svn/ver/111/Sources/Plugin/SoundSchema%20Plugin/WarCraft3Sound%20Plugin/Resources/login.wav
+END
+logout.wav
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mac/!svn/ver/111/Sources/Plugin/SoundSchema%20Plugin/WarCraft3Sound%20Plugin/Resources/logout.wav
+END
+bad_system.wav
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mac/!svn/ver/111/Sources/Plugin/SoundSchema%20Plugin/WarCraft3Sound%20Plugin/Resources/bad_system.wav
+END
+good_system.wav
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mac/!svn/ver/111/Sources/Plugin/SoundSchema%20Plugin/WarCraft3Sound%20Plugin/Resources/good_system.wav
+END
+kicked_out.wav
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mac/!svn/ver/111/Sources/Plugin/SoundSchema%20Plugin/WarCraft3Sound%20Plugin/Resources/kicked_out.wav
+END
+user_message.wav
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mac/!svn/ver/111/Sources/Plugin/SoundSchema%20Plugin/WarCraft3Sound%20Plugin/Resources/user_message.wav
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mac/!svn/ver/268/LumaQQ_iPhone/Sources/Core/Extension
+END
+NSData-CRC32.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mac/!svn/ver/851/LumaQQ_iPhone/Sources/Core/Extension/NSData-CRC32.m
+END
+NSString-Filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mac/!svn/ver/268/LumaQQ_iPhone/Sources/Core/Extension/NSString-Filter.h
+END
+NSData-Base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mac/!svn/ver/268/LumaQQ_iPhone/Sources/Core/Extension/NSData-Base64.h
+END
+NSData-MD5.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mac/!svn/ver/268/LumaQQ_iPhone/Sources/Core/Extension/NSData-MD5.h
+END
+NSMutableData-Trim.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mac/!svn/ver/268/LumaQQ_iPhone/Sources/Core/Extension/NSMutableData-Trim.h
+END
+NSString-Validate.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mac/!svn/ver/268/LumaQQ_iPhone/Sources/Core/Extension/NSString-Validate.h
+END
+NSString-Filter.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mac/!svn/ver/268/LumaQQ_iPhone/Sources/Core/Extension/NSString-Filter.m
+END
+NSData-Base64.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mac/!svn/ver/268/LumaQQ_iPhone/Sources/Core/Extension/NSData-Base64.m
+END
+NSData-MD5.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mac/!svn/ver/268/LumaQQ_iPhone/Sources/Core/Extension/NSData-MD5.m
+END
+NSMutableData-Trim.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mac/!svn/ver/268/LumaQQ_iPhone/Sources/Core/Extension/NSMutableData-Trim.m
+END
+NSString-Validate.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mac/!svn/ver/268/LumaQQ_iPhone/Sources/Core/Extension/NSString-Validate.m
+END
+NSNumber-Serialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mac/!svn/ver/268/LumaQQ_iPhone/Sources/Core/Extension/NSNumber-Serialization.h
+END
+NSNumber-Serialization.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mac/!svn/ver/268/LumaQQ_iPhone/Sources/Core/Extension/NSNumber-Serialization.m
+END
+NSData-QQCrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mac/!svn/ver/850/LumaQQ_iPhone/Sources/Core/Extension/NSData-QQCrypt.h
+END
+NSString-Converter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mac/!svn/ver/268/LumaQQ_iPhone/Sources/Core/Extension/NSString-Converter.h
+END
+NSData-BytesOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mac/!svn/ver/268/LumaQQ_iPhone/Sources/Core/Extension/NSData-BytesOperation.h
+END
+NSData-QQCrypt.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mac/!svn/ver/850/LumaQQ_iPhone/Sources/Core/Extension/NSData-QQCrypt.m
+END
+NSString-Converter.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mac/!svn/ver/268/LumaQQ_iPhone/Sources/Core/Extension/NSString-Converter.m
+END
+NSMutableData-CustomAppending.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mac/!svn/ver/268/LumaQQ_iPhone/Sources/Core/Extension/NSMutableData-CustomAppending.h
+END
+NSData-BytesOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mac/!svn/ver/268/LumaQQ_iPhone/Sources/Core/Extension/NSData-BytesOperation.m
+END
+NSData-CRC32.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mac/!svn/ver/851/LumaQQ_iPhone/Sources/Core/Extension/NSData-CRC32.h
+END
+NSMutableData-CustomAppending.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mac/!svn/ver/268/LumaQQ_iPhone/Sources/Core/Extension/NSMutableData-CustomAppending.m
+END

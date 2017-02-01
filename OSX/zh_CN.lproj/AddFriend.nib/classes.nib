@@ -1,0 +1,33 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {onCancel = id; onOK = id; onRefresh = id; }; 
+            CLASS = AddFriendWindowController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                "m_btnCancel" = NSButton; 
+                "m_btnOK" = NSButton; 
+                "m_btnRefresh" = NSButton; 
+                "m_cbGroup" = NSComboBox; 
+                "m_chkAllowAddMe" = NSButton; 
+                "m_headControl" = HeadControl; 
+                "m_ivVerifyCode" = NSImageView; 
+                "m_lastSeparator" = NSBox; 
+                "m_messageView" = NSView; 
+                "m_piBusy" = NSProgressIndicator; 
+                "m_questionView" = NSView; 
+                "m_txtAnswer" = NSTextField; 
+                "m_txtHint" = NSTextField; 
+                "m_txtMessage" = NSTextView; 
+                "m_txtQuestion" = NSTextField; 
+                "m_txtTitle" = NSTextField; 
+                "m_txtVerifyCode" = NSTextField; 
+                "m_verifyCodeView" = NSView; 
+            }; 
+            SUPERCLASS = NSWindowController; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = HeadControl; LANGUAGE = ObjC; SUPERCLASS = NSControl; }
+    ); 
+    IBVersion = 1; 
+}

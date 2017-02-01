@@ -1,0 +1,15 @@
+/* localized string for iTunes QBar */
+
+LQPluginDescription = "显示iTunes正在播放的歌曲，并提供简单的界面控制iTunes. 当前的歌曲名会追加到个性签名后，类似于MSN的功能";
+
+LQHintAlbum = "专辑: %@";
+LQHintArtist = "歌手: %@";
+LQHintPlayingSong = "播放中: %@";
+LQHintPausedSong = "暂停中: %@";
+LQHintNoiTunes = "<当前未运行iTunes>";
+LQHintListening = "正在听歌";
+
+LQTooltipPlayPause = "播放/暂停";
+LQTooltipStop = "停止";
+LQTooltipNextTrack = "下一首";
+LQTooltipPreviousTrack = "上一首";

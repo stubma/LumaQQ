@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/mac/!svn/ver/250/Sources/QDiskDriver
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mac/!svn/ver/250/Sources/QDiskDriver/Info.plist
+END
+QDiskDriver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mac/!svn/ver/250/Sources/QDiskDriver/QDiskDriver.cpp
+END
+QDiskDriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mac/!svn/ver/249/Sources/QDiskDriver/QDiskDriver.h
+END

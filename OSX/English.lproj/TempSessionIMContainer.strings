@@ -1,0 +1,7 @@
+/* localized string for temp session IM window */
+
+LQTitle = "Temp Session: %@(%u)";
+
+LQHintVerifyCodeRetry = "Incorrect, Retry";
+
+LQWarningGetVerifyCodeFailed = "Failed to get verify code image, all messages are canceled";

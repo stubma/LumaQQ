@@ -1,0 +1,22 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            CLASS = LuminanceView; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                "m_decrypted" = NSTextView; 
+                "m_encrypted" = NSTextView; 
+                "m_packetView" = NSTableView; 
+            }; 
+            SUPERCLASS = NSView; 
+        }, 
+        {
+            CLASS = LuminanceWindowController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {"m_tabView" = NSTabView; }; 
+            SUPERCLASS = NSWindowController; 
+        }
+    ); 
+    IBVersion = 1; 
+}

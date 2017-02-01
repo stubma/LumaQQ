@@ -1,0 +1,16 @@
+// software name
+MailPal = "MailPal";
+
+// alert sheet titles
+Warning = "警告";
+
+// warnings
+CannotOpenMailDB = "无法打开邮件数据库";
+
+// mailbox names
+Inbox = "收件箱";
+Trash = "垃圾箱";
+
+// navigation bar buttons
+Start = "开始";
+About = "关于";

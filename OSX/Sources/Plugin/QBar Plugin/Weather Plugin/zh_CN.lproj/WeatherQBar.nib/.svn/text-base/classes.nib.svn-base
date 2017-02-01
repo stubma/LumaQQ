@@ -1,0 +1,18 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            CLASS = WeatherQBar; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                "m_ivWeather" = NSImageView; 
+                "m_txtCityWeather" = NSTextField; 
+                "m_txtTemperature" = NSTextField; 
+                "m_txtWind" = NSTextField; 
+                "m_view" = NSView; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}

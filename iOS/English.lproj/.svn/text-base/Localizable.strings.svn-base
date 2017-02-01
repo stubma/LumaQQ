@@ -1,0 +1,596 @@
+//////////////////////////////////////
+// Warnings
+//////////////////////////////////////
+
+InvalidAccountInfoFile = "Account info file is invalid";
+CanNotFindAccountInfoFile = "Can't find account info file";
+InvalidQQNumber = "QQ number is not valid";
+EmptyPassword = "Password can't be empty";
+HttpProxyNeedTCP = "You should choose TCP protocol if you want to use HTTP proxy";
+ConfirmLogout = "Do you really want to logout?";
+ModifyInfoSuccess = "Your info is successfully modified";
+ModifyClusterInfoSuccess = "Cluster info is successfully modified";
+NameCannotBeEmpty = "Name can't be empty";
+ConfirmDeleteGroup = "Do you really want to delete this group?";
+ConfirmExitCluster = "Do you really want to exit this cluster?";
+ExitClusterSuccess = "You have exited this cluster";
+ConfirmMoveUserToStranger = "Do you really want to delete the user?";
+ConfirmMoveUserToBlacklist = "Do you really want to blacklist the user?";
+//ConfirmAddUserAsFriend = "Do you really want to add the user as your friend?";
+ConfirmAddUserAsFriend = "Doesn't support adding friend now!";
+DeleteUserFailed = "Delete user failed!";
+KickedOutBySystem = "System detected your account is logged in elsewhere, current session is ended";
+ConfirmUploadFriendGroup = "You have changed friend group, do you want to upload now?";
+ConfirmDeleteHistory = "Do you really want to delete all history?";
+TimeoutToAuthorize = "Timeout when send authorization info";
+FailedToAuthorize = "Failed to send authorization info";
+
+//////////////////////////////////////
+// UIAccountEdit
+//////////////////////////////////////
+
+QQNo = "QQ Number";
+Password = "Password";
+LoginHidden = "Login Hidden";
+Server = "Server";
+Port = "Port";
+YourQQNo = "Your QQ Number";
+YourPassword = "Your Password";
+Protocol = "Protocol";
+SelectServer = "Select Server";
+SelectPort = "Select Port";
+GroupHttpProxy = "HTTP Proxy (Only for TCP)";
+EnableHttpProxy = "Enable HTTP Proxy";
+ProxyServer = "Server";
+ProxyPort = "Port";
+ProxyUsername = "Username";
+ProxyPassword = "Password";
+ProxyServerPlaceholder = "HTTP Proxy Address";
+ProxyPortPlaceholder = "HTTP Proxy Port";
+ProxyUsernamePlaceholder = "HTTP Proxy Username";
+ProxyPasswordPlaceholder = "HTTP Proxy Password";
+
+//////////////////////////////////////
+// UIBaseChat
+//////////////////////////////////////
+
+SendTimeout = "Timeout when sending message \"%@\"";
+SendFailed = "Failed to send message \"%@\"";
+Face = "Face";
+Keyboard = "Keyboard";
+Hide = "Hide";
+SelectFace = "Select Face";
+
+//////////////////////////////////////
+// UIChatLog
+//////////////////////////////////////
+
+ChatLog = "Chat Log";
+
+//////////////////////////////////////
+// UIClusterInfo
+//////////////////////////////////////
+
+ClusterName = "Cluster Name";
+ClusterNotice = "Cluster Notice";
+ClusterDescription = "Cluster Description";
+ClusterNoAuth = "Everybody Can Join";
+ClusterNeedAuth = "Need Auth Before Join";
+ClusterDenyAll = "Nobody Can Join";
+RefreshClusterInfo = "Refresh Cluster Info";
+ModifyClusterInfo = "Modify Cluster Info";
+ClusterInfo = "Cluster Info";
+Creator  = "Creator";
+RefreshingClusterInfo = "Refreshing Cluster Info...";
+ModifyingClusterInfo = "Modifying Cluster Info...";
+
+//////////////////////////////////////
+// UIClusterMessageSetting
+//////////////////////////////////////
+
+ClusterMessageSetting = "Cluster Message Setting";
+SaveMessageSettingToServer = "Save Setting In Server Side";
+ClearMessageSettingFromServer = "Clear Server Side Setting";
+AcceptMessage = "Accept All Messages";
+AutoEjectMessage = "Auto Eject Messages (No Effect on iPhone)";
+DisplayMessageCount = "Display Message Count";
+AcceptMessageNoPrompt = "Accept Messages But No Prompt";
+BlockMessages = "Block All Messages";
+SavingSettingToServer = "Saving message setting to server...";
+ClearingSettingFromServer = "Clearing message setting in server...";
+
+//////////////////////////////////////
+// UIClusterOperation
+//////////////////////////////////////
+
+ViewClusterInfo = "View Cluster Info";
+ChatInCluster = "Chat In Cluster";
+EditMessageSetting = "Edit Message Setting";
+ExitCluster = "Exit Cluster";
+ExitingCluster = "Exiting cluster...";
+
+//////////////////////////////////////
+// UIGroupOperation
+//////////////////////////////////////
+
+RenameGroup = "Rename Group";
+DeleteGroup = "Delete Group";
+CreateGroup = "Create New Group";
+GroupName = "Group Name";
+SelectGroup = "Select Group";
+MoveFriendsTo = "Move Friends In Deleted Group To";
+
+//////////////////////////////////////
+// UILogin
+//////////////////////////////////////
+
+VerifyImage = "Verify Image";
+PleaseInput = "Please Input";
+RefreshImage = "Refresh Image";
+HintRefreshImage = "Refreshing Verify Image...";
+HintGetLoginToken = "Getting Login Token...";
+HintConnect = "Connecting Server...";
+HintSelectServer = "Selecting Server...";
+HintGetServerToken = "Getting Server Token...";
+HintVerifyPassword = "Verifying Password...";
+HintLogin = "Logging In...";
+HintNeedVerify = "Server Needs Your Verify Code";
+HintLoginSuccess = "Login Success";
+HintLoginFailed = "Login Failed";
+HintDownloadGroupName = "Downloading Group Name...";
+HintDownloadFriendGroup = "Downloading Friend Group...";
+HintDownloadFriend = "Downloading Friend List...";
+
+//////////////////////////////////////
+// UIMain
+//////////////////////////////////////
+
+Myself = "Myself";
+Friends = "Friends";
+Clusters = "Clusters";
+Search = "Search";
+Message = "Message";
+Recent = "Recent";
+Customize = "Customize Buttons";
+History = "ChatLog";
+UploadingGroupNames = "Uploading group names...";
+UploadingFriendGroup = "Uploading friend groups...";
+
+//////////////////////////////////////
+// UIPreference
+//////////////////////////////////////
+
+DisplayGroup = "Display Setting";
+MessageGroup = "Message Setting";
+SoundGroup = "Sound Setting";
+ShowOnlineOnly = "Show Online Only";
+ShowNick = "Show Nick Name";
+ShowStatusMessage = "Show Status Msg";
+ShowSignature = "Show Signature";
+ShowLevel = "Show User Level";
+ButtonBarCount = "Main Button Count";
+RejectStrangerMessage = "Reject Stranger Message";
+EnableSound = "Enable Sound";
+SoundScheme = "Sound Scheme";
+UpdateFriendGroup = "Update Friend Group";
+SelectSoundScheme = "Select Sound Scheme";
+UpdatingGroupName = "Updating Group Name...";
+UpdatingFriendGroup = "Updating Friend Group...";
+UpdatingFriendList = "Updating Friend List...";
+
+//////////////////////////////////////
+// UISelectHead
+//////////////////////////////////////
+
+SelectHead = "Select Head";
+HeadMale = "Male";
+HeadFemale = "Female";
+HeadPet = "Pet";
+HeadQQTang = "QQ Tang";
+HeadQQFantasy = "QQ Fantasy";
+HeadQQSonic = "QQ Sonic";
+HeadQQHuaXia = "QQ HuaXia";
+
+//////////////////////////////////////
+// UISelectValue
+//////////////////////////////////////
+
+SelectValue = "Select Value";
+
+//////////////////////////////////////
+// UIUserAuth/UIClusterAuth
+//////////////////////////////////////
+
+ApproveOrReject = "Approve or Reject";
+AddHimAsFriend = "Add Him As Friend";
+AddHimToGroup = "Add To Group";
+RejectReason = "Reject Reason";
+Approve = "Approve";
+Reject = "Reject";
+GroupAddHim = "If approve, do you want to add him?";
+GroupReject = "If reject, input your reason";
+GroupForbidAddHim = "The user doesn't allow you to add him";
+RejectingRequest = "Rejecting request...";
+ApprovingRequest = "Approving request...";
+
+//////////////////////////////////////
+// UIUserInfo
+//////////////////////////////////////
+
+MyInfo = "My Info";
+UserInfo = "User Info";
+RefreshInfo = "Refresh Info";
+SaveInfo = "Save Info";
+Head = "Head";
+Nick = "Nick Name";
+Name = "Name";
+Age = "Age";
+HomePage = "Home Page";
+Zodiac = "Zodiac";
+Horoscope = "Horoscope";
+Occupation = "Occupation";
+Gender = "Gender";
+Blood = "Blood";
+College = "College";
+Email = "Email";
+Telephone = "Telephone";
+Mobile = "Mobile";
+Country = "Country";
+Province = "Province";
+City = "City";
+Address = "Address";
+Zipcode = "Zipcode";
+Introduction = "Introduction";
+AuthGroup = "Authorization Type";
+NoAuth = "Everyone Can Add Me";
+NeedAuth = "Need Auth Before Add Me";
+DenyAll = "Nobody Can Add Me";
+NeedQuestion = "Answer Question Before Add Me";
+AuthQuestion = "Auth Question";
+AuthAnswer = "Auth Answer";
+ContactGroup = "Contact Visibility";
+ContactOpen = "Visible To All";
+ContactVisibleToFriend = "Only Visible To Friends";
+ContactSecret = "Invisible To Anybody";
+Signature = "Signature";
+RefreshingUserInfo = "Refreshing User Info...";
+GettingSignature = "Getting Signature...";
+GettingMyQuestion = "Getting My Auth Question...";
+GettingAuthInfo = "Getting Auth Info...";
+ModifyingUserInfo = "Modifying User Info...";
+ModifyingSignature = "Modifying Signature...";
+DeletingSignature = "Deleting Signature...";
+ModifyingAuthQuestion = "Modifying Auth Question...";
+
+//////////////////////////////////////
+// UIUserOperation
+//////////////////////////////////////
+
+ViewUserInfo = "View User Info";
+ChatWithUser = "Chat With User";
+ModifyRemarkName = "Modify Remark Name";
+MoveUser = "Move User To Other Group";
+DeleteUser = "Delete User";
+MoveToGroup = "Move To Group";
+RemarkName = "Remark Name";
+DeletingUser = "Deleting User...";
+GettingDeleteAuthInfo = "Getting Delete Auth Info...";
+RemovingUserFromServerList = "Removing User From Server List...";
+
+//////////////////////////////////////
+// GroupManager
+//////////////////////////////////////
+
+GroupStranger = "Stranger";
+GroupBlacklist = "Blacklist";
+GroupMyFriends = "My Friends";
+
+//////////////////////////////////////
+// HistoryTableDataSource
+//////////////////////////////////////
+
+ChatLogWithUser = "Chat Log with User \"%@\"";
+ChatLogWithCluster = "Chat Log in Cluster \"%@\"";
+
+//////////////////////////////////////
+// MyselfTableDataSource
+//////////////////////////////////////
+
+ViewPersonalInfo = "View Personal Info";
+ApplyChange = "Apply Change";
+GroupChangeStatus = "Change Status";
+StatusMessage = "Status Message";
+
+//////////////////////////////////////
+// SearchTableDataSource
+//////////////////////////////////////
+
+SearchUser = "Search User";
+SearchCluster = "Search Cluster";
+ClusterID = "Cluster ID";
+GroupSearchUser = "Search User";
+GroupSearchCluster = "Search Cluster";
+
+//////////////////////////////////////
+// Auth message
+//////////////////////////////////////
+
+MessageRejectJoinCluster = "Admin %u of cluster %u rejected your request.\nAttached message: %@";
+MessageYouAreNotAdminNow = "You are resigned to admin of cluster \"%@\"";
+MessageAmdinRoleUnset = "%u is resigned to admin of cluster \"%@\"";
+MessageYouAreAdminNow = "You are assigned as admin of cluster \"%@\"";
+MessageAdminRoleSet = "%u is assigned as admin of cluster \"%@\"";
+MessageYouAreClusterOwner = "You are owner of cluster %u(%@) now";
+MessageOwnerChanged = "%u became owner of cluster %u(%@)";
+MessageYouAreKickedByAdmin = "You are lopped off from cluster %u(%@) by admin %u";
+MessageKickedByAdmin = "%u have been lopped off from cluster %u(%@) by admin %u";
+MessageMemberExit = "%u has exited cluster %u(%@)";
+MessageRequestJoinCluster = "%u request to join cluster %u(%@).\nAttached message: %@";
+MessageClusterCreated = "Cluster %u is created and admin %u added you in it";
+MessageYouJoinedCluster = "You have joined cluster %u";
+MessageJoinedCluster = "%u have joined cluster %u";
+MessageYouDismissedCluster = "You have dismissed cluster %u(%@) successfully";
+MessageClusterDismissed = "Cluster %u is dismissed";
+MessageApproveJoinCluster = "Admin %u of cluster %u approved your request";
+
+MessageRequestAddMe = "%u request to add you as friend.\nAttached message: %@";
+MessageApproveAddHim = "%u approve your request";
+MessageApproveAddHimAndAddMe = "%u approve your request and add you as friend too";
+MessageRejectAddHim = "%u reject your request.\nAttached message: %@";
+MessageOtherAddedMe = "%u has added you as friend";
+
+//////////////////////////////////////
+// Common
+//////////////////////////////////////
+
+Edit = "Edit";
+Add = "Add";
+Done = "Done";
+Warning = "Warning";
+Account = "Account";
+Save = "Save";
+Cancel = "Cancel";
+OK = "OK";
+Login = "Login";
+Logout = "Logout";
+Preference = "Preference";
+Back = "Back";
+Question = "Question";
+Success = "Success";
+Level = "LV";
+Unread = "Unread";
+Fail = "Fail";
+ChatLog = "Chat Log";
+Search = "Search";
+Delete = "Delete";
+DeleteAll = "Delete All";
+Send = "Send";
+Yes = "Yes";
+No = "No";
+Clear = "Clear";
+CustomFace = "Custom Face";
+Screenshot = "Screenshot";
+Incomplete = "Function Incomplete";
+More = "More";
+
+Author = "Author: luma@smth";
+LumaQQ = "LumaQQ for iPhone";
+Build = "Build No.: %@";
+Sponsor = "Sponsor: iBook@smth Venmos";
+Artwork = "Artwork: mrpeng randomdot SimWong xiaotong";
+ThanksDonator = "Thanks All Donator";
+SpecialThanks = "Special Thanks to holly 小猪快跑 baxia chujs enosss kenshinxx mirror servalry 罐罐 weizhangxiang xiakefeng978";
+
+StatusOnline = "Online";
+StatusQMe = "Q Me";
+StatusBusy = "Busy";
+StatusMute = "Mute";
+StatusAway = "Away";
+StatusHidden = "Hidden";
+StatusOffline = "Offline";
+
+Occupation.count = "23";
+Occupation.0 = "Service";
+Occupation.1 = "Engineer";
+Occupation.2 = "IT";
+Occupation.3 = "Parttime";
+Occupation.4 = "Education";
+Occupation.5 = "Finance";
+Occupation.6 = "Boss";
+Occupation.7 = "Fulltime";
+Occupation.8 = "Business";
+Occupation.9 = "Out of work";
+Occupation.10 = "Retired";
+Occupation.11 = "Sales";
+Occupation.12 = "Marketing";
+Occupation.13 = "Advertisement";
+Occupation.14 = "Student";
+Occupation.15 = "Government";
+Occupation.16 = "Manufacture";
+Occupation.17 = "Killer";
+Occupation.18 = "Writer";
+Occupation.19 = "Singer";
+Occupation.20 = "Real Estate";
+Occupation.21 = "Gangdom";
+Occupation.22 = "Mistress";
+
+Gender.count = "4";
+Gender.0 = "Male";
+Gender.1 = "Female";
+Gender.2 = "Bisexuality";
+Gender.3 = "Transsexual";
+
+Zodiac.count = "13";
+Zodiac.0 = "<Not Set>";
+Zodiac.1 = "Rat";
+Zodiac.2 = "Ox";
+Zodiac.3 = "Tiger";
+Zodiac.4 = "Hare";
+Zodiac.5 = "Dragon";
+Zodiac.6 = "Snake";
+Zodiac.7 = "Horse";
+Zodiac.8 = "Sheep";
+Zodiac.9 = "Monkey";
+Zodiac.10 = "Cock";
+Zodiac.11 = "Dog";
+Zodiac.12 = "Boar";
+
+Horoscope.count = "13";
+Horoscope.0 = "<Not Set>";
+Horoscope.1 = "Aquarius";
+Horoscope.2 = "Pisces";
+Horoscope.3 = "Aries";
+Horoscope.4 = "Taurus";
+Horoscope.5 = "Gemini";
+Horoscope.6 = "Cancer";
+Horoscope.7 = "Leo";
+Horoscope.8 = "Virgo";
+Horoscope.9 = "Libra";
+Horoscope.10 = "Scorpio";
+Horoscope.11 = "Sagittarius";
+Horoscope.12 = "Capricom";
+
+Blood.count = "6";
+Blood.0 = "<Not Set>";
+Blood.1 = "A";
+Blood.2 = "B";
+Blood.3 = "O";
+Blood.4 = "AB";
+Blood.5 = "Other";
+
+// for default face
+DefaultFace.0 = "微笑";
+DefaultFace.1 = "撇嘴";
+DefaultFace.2 = "色";
+DefaultFace.3 = "发呆";
+DefaultFace.4 = "得意";
+DefaultFace.5 = "流泪";
+DefaultFace.6 = "害羞";
+DefaultFace.7 = "闭嘴";
+DefaultFace.8 = "睡";
+DefaultFace.9 = "大哭";
+DefaultFace.10 = "尴尬";
+DefaultFace.11 = "发怒";
+DefaultFace.12 = "调皮";
+DefaultFace.13 = "呲牙";
+DefaultFace.14 = "惊讶";
+DefaultFace.15 = "难过";
+DefaultFace.16 = "酷";
+DefaultFace.17 = "冷汗";
+DefaultFace.18 = "抓狂";
+DefaultFace.19 = "吐";
+DefaultFace.20 = "偷笑";
+DefaultFace.21 = "可爱";
+DefaultFace.22 = "白眼";
+DefaultFace.23 = "傲慢";
+DefaultFace.24 = "饥饿";
+DefaultFace.25 = "困";
+DefaultFace.26 = "惊恐";
+DefaultFace.27 = "流汗";
+DefaultFace.28 = "憨笑";
+DefaultFace.29 = "大兵";
+DefaultFace.30 = "奋斗";
+DefaultFace.31 = "咒骂";
+DefaultFace.32 = "疑问";
+DefaultFace.33 = "嘘...";
+DefaultFace.34 = "晕";
+DefaultFace.35 = "折磨";
+DefaultFace.36 = "衰";
+DefaultFace.37 = "骷髅";
+DefaultFace.38 = "敲打";
+DefaultFace.39 = "再见";
+DefaultFace.40 = "擦汗";
+DefaultFace.41 = "抠鼻";
+DefaultFace.42 = "鼓掌";
+DefaultFace.43 = "糗大了";
+DefaultFace.44 = "坏笑";
+DefaultFace.45 = "左哼哼";
+DefaultFace.46 = "右哼哼";
+DefaultFace.47 = "哈欠";
+DefaultFace.48 = "鄙视";
+DefaultFace.49 = "委屈";
+DefaultFace.50 = "快哭了";
+DefaultFace.51 = "阴险";
+DefaultFace.52 = "亲亲";
+DefaultFace.53 = "吓";
+DefaultFace.54 = "可怜";
+DefaultFace.55 = "菜刀";
+DefaultFace.56 = "西瓜";
+DefaultFace.57 = "啤酒";
+DefaultFace.58 = "篮球";
+DefaultFace.59 = "乒乓";
+DefaultFace.60 = "咖啡";
+DefaultFace.61 = "饭";
+DefaultFace.62 = "猪头";
+DefaultFace.63 = "玫瑰";
+DefaultFace.64 = "凋谢";
+DefaultFace.65 = "示爱";
+DefaultFace.66 = "爱心";
+DefaultFace.67 = "心碎";
+DefaultFace.68 = "蛋糕";
+DefaultFace.69 = "闪电";
+DefaultFace.70 = "炸弹";
+DefaultFace.71 = "刀";
+DefaultFace.72 = "足球";
+DefaultFace.73 = "瓢虫";
+DefaultFace.74 = "便便";
+DefaultFace.75 = "月亮";
+DefaultFace.76 = "太阳";
+DefaultFace.77 = "礼物";
+DefaultFace.78 = "拥抱";
+DefaultFace.79 = "强";
+DefaultFace.80 = "弱";
+DefaultFace.81 = "握手";
+DefaultFace.82 = "胜利";
+DefaultFace.83 = "抱拳";
+DefaultFace.84 = "勾引";
+DefaultFace.85 = "拳头";
+DefaultFace.86 = "差劲";
+DefaultFace.87 = "爱你";
+DefaultFace.88 = "NO";
+DefaultFace.89 = "OK";
+DefaultFace.90 = "爱情";
+DefaultFace.91 = "飞吻";
+DefaultFace.92 = "跳跳";
+DefaultFace.93 = "发抖";
+DefaultFace.94 = "怄火";
+DefaultFace.95 = "转圈";
+DefaultFace.96 = "磕头";
+DefaultFace.97 = "回头";
+DefaultFace.98 = "跳绳";
+DefaultFace.99 = "挥手";
+DefaultFace.100 = "激动";
+DefaultFace.101 = "街舞";
+DefaultFace.102 = "献吻";
+DefaultFace.103 = "左太极";
+DefaultFace.104 = "右太极";
+DefaultFace.105 = "非典";
+DefaultFace.106 = "闪人";
+DefaultFace.107 = "找";
+DefaultFace.108 = "美眉";
+DefaultFace.109 = "猫咪";
+DefaultFace.110 = "小狗";
+DefaultFace.111 = "钱";
+DefaultFace.112 = "灯泡";
+DefaultFace.113 = "酒杯";
+DefaultFace.114 = "音乐";
+DefaultFace.115 = "药丸";
+DefaultFace.116 = "吻";
+DefaultFace.117 = "会议";
+DefaultFace.118 = "电话";
+DefaultFace.119 = "时间";
+DefaultFace.120 = "邮件";
+DefaultFace.121 = "电视";
+DefaultFace.122 = "多多";
+DefaultFace.123 = "美女";
+DefaultFace.124 = "汉良";
+DefaultFace.125 = "毛毛";
+DefaultFace.126 = "Q仔";
+DefaultFace.127 = "白酒";
+DefaultFace.128 = "汽水";
+DefaultFace.129 = "下雨";
+DefaultFace.130 = "多云";
+DefaultFace.131 = "雪人";
+DefaultFace.132 = "星星";
+DefaultFace.133 = "女";
+DefaultFace.134 = "男";

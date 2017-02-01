@@ -1,0 +1,30 @@
+/* localized string for growl */
+
+LQNotificationUserOnline = "好友上线";
+LQNotificationUserOffline = "好友下线";
+LQNotificationUserMessage = "用户消息";
+LQNotificationClusterMessage = "群消息";
+LQNotificationSystemMessage = "系统消息";
+LQNotificationMobileMessage = "手机消息";
+LQNotificationLogin = "登录";
+LQNotificationLogout = "登出";
+
+LQTitleLoginSuccess = "登录成功(%u)";
+LQTitleKickedOut = "被踢出(%u)";
+LQTitleLogout = "登出(%u)";
+LQTitleUserOnline = "%@来了!";
+LQTitleUserOffline = "%@走了!";
+LQTitleNormalIM = "%@对你说";
+LQTitleClusterIM = "%@, 来自群%@";
+LQTitleSubjectIM = "%@, 来自讨论组\"%@\"";
+LQTitleDialogIM = "%@, 来自多人对话\"%@\"";
+LQTitleMobileIM = "手机好友%@";
+LQTitleMobileIMFromUser = "%@, 从手机发来问候";
+LQTitleSystemIM = "系统消息";
+LQTitleTempSessionIM = "%@通过临时会话对你说";
+
+LQDescLoginSuccess = "上次登录时间: %@\n本次登录IP: %@";
+LQDescKickedOut = "你的帐号在其他地点登录, 你被迫下线";
+LQDescLogout = "你退出本次会话";
+LQDescUserOnline = "%@上线了, 点击这里开始和他聊天";
+LQDescUserOffline = "%@悄悄的走了，没有带走一片云彩";

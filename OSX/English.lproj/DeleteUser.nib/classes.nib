@@ -1,0 +1,19 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {onClose = id; }; 
+            CLASS = DeleteUserWindowController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                "m_headControl" = HeadControl; 
+                "m_piBusy" = NSProgressIndicator; 
+                "m_txtHint" = NSTextField; 
+                "m_txtTitle" = NSTextField; 
+            }; 
+            SUPERCLASS = NSWindowController; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = HeadControl; LANGUAGE = ObjC; SUPERCLASS = NSControl; }
+    ); 
+    IBVersion = 1; 
+}

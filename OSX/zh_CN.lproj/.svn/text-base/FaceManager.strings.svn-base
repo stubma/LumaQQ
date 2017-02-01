@@ -1,0 +1,8 @@
+/* localized string for face manager */
+
+LQTitle = "自定义表情管理器(%u)";
+LQDefaultGroup = "我的表情";
+
+LQWarningAtLeastOne = "至少需要保留一个组";
+LQWarningDeleteGroupFailed = "删除表情组失败";
+LQConfirmIncludeGroups = "你是否想导入组设定?";

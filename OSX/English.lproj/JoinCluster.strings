@@ -1,0 +1,12 @@
+/* localized string for join cluster window */
+
+LQHintJoinCluster = "Joining Cluster...";
+LQHintGetVerifyCode = "Getting Verify Code...";
+LQHintGetAuthInfo = "Getting Cluster Auth Info...";
+LQHintClusterAuth = "Send Authoriaztion...";
+
+LQMessageNeedAuth = "The cluster creator need your authorization";
+LQMessageReject = "The cluster doesn't accept new member any more";
+LQMessageVerifyCodeError = "Your input verify code is error, please retry";
+LQMessageJoinOK = "You successfully joined the cluster";
+LQMessageAuthSent = "Your authorization is successfully sent, please wait approval";

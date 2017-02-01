@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mac/!svn/ver/667/LumaQQ_iPhone/Sources/Core/Packet
+END
+PacketParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mac/!svn/ver/305/LumaQQ_iPhone/Sources/Core/Packet/PacketParser.m
+END
+BasicConnectionAdvisor.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mac/!svn/ver/300/LumaQQ_iPhone/Sources/Core/Packet/BasicConnectionAdvisor.h
+END
+AuxiliaryInPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mac/!svn/ver/300/LumaQQ_iPhone/Sources/Core/Packet/AuxiliaryInPacket.m
+END
+AuxiliaryOutPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mac/!svn/ver/300/LumaQQ_iPhone/Sources/Core/Packet/AuxiliaryOutPacket.m
+END
+BasicConnectionAdvisor.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mac/!svn/ver/300/LumaQQ_iPhone/Sources/Core/Packet/BasicConnectionAdvisor.m
+END
+InPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/300/LumaQQ_iPhone/Sources/Core/Packet/InPacket.h
+END
+OutPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/300/LumaQQ_iPhone/Sources/Core/Packet/OutPacket.h
+END
+BasicInPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mac/!svn/ver/300/LumaQQ_iPhone/Sources/Core/Packet/BasicInPacket.h
+END
+BasicOutPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mac/!svn/ver/300/LumaQQ_iPhone/Sources/Core/Packet/BasicOutPacket.h
+END
+InPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/300/LumaQQ_iPhone/Sources/Core/Packet/InPacket.m
+END
+OutPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/300/LumaQQ_iPhone/Sources/Core/Packet/OutPacket.m
+END
+BasicInPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mac/!svn/ver/300/LumaQQ_iPhone/Sources/Core/Packet/BasicInPacket.m
+END
+BasicOutPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mac/!svn/ver/300/LumaQQ_iPhone/Sources/Core/Packet/BasicOutPacket.m
+END
+Packet.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/392/LumaQQ_iPhone/Sources/Core/Packet/Packet.h
+END
+Packet.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/300/LumaQQ_iPhone/Sources/Core/Packet/Packet.m
+END
+AuxiliaryConnectionAdvisor.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mac/!svn/ver/300/LumaQQ_iPhone/Sources/Core/Packet/AuxiliaryConnectionAdvisor.h
+END
+AuxiliaryConnectionAdvisor.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mac/!svn/ver/300/LumaQQ_iPhone/Sources/Core/Packet/AuxiliaryConnectionAdvisor.m
+END
+PacketParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mac/!svn/ver/305/LumaQQ_iPhone/Sources/Core/Packet/PacketParser.h
+END
+AuxiliaryInPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mac/!svn/ver/300/LumaQQ_iPhone/Sources/Core/Packet/AuxiliaryInPacket.h
+END
+AuxiliaryOutPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mac/!svn/ver/300/LumaQQ_iPhone/Sources/Core/Packet/AuxiliaryOutPacket.h
+END

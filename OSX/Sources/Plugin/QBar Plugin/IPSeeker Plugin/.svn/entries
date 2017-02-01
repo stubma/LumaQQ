@@ -1,0 +1,58 @@
+8
+
+dir
+834
+http://svn.lumaqq.cn/mac/Sources/Plugin/QBar%20Plugin/IPSeeker%20Plugin
+http://svn.lumaqq.cn/mac
+
+
+
+2007-06-01T06:26:37.535764Z
+92
+luma
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a41e418f-192f-0410-99b4-9833888f77e5
+
+IPSeekerQBar.h
+file
+
+
+
+
+2008-01-27T09:34:22.000000Z
+7d30cd6e0e153be6ed684d8b1ffc4852
+2007-06-01T06:26:37.535764Z
+92
+luma
+
+IPSeekerQBar.mm
+file
+
+
+
+
+2008-01-27T09:34:22.000000Z
+f833eeeb7acf9a40ee326ec7bca7eb88
+2007-06-01T06:26:37.535764Z
+92
+luma
+
+zh_CN.lproj
+dir
+
+English.lproj
+dir
+

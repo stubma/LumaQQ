@@ -1,0 +1,31 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {
+                onClose = id; 
+                onDeleteFace = id; 
+                onDeleteGroup = id; 
+                onGroupChanged = id; 
+                onImportFacePackage = id; 
+                onImportPicture = id; 
+                onInputCancel = id; 
+                onInputOK = id; 
+                onNewGroup = id; 
+            }; 
+            CLASS = FaceManagerWindowController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                "m_faceTable" = NSTableView; 
+                "m_inputWindow" = NSWindow; 
+                "m_ivPreview" = NSImageView; 
+                "m_pbGroup" = NSPopUpButton; 
+                "m_progressBar" = NSProgressIndicator; 
+                "m_progressWindow" = NSWindow; 
+                "m_txtInput" = NSTextField; 
+            }; 
+            SUPERCLASS = NSWindowController; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }
+    ); 
+    IBVersion = 1; 
+}

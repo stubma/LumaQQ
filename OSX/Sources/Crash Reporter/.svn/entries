@@ -1,0 +1,52 @@
+8
+
+dir
+834
+http://svn.lumaqq.cn/mac/Sources/Crash%20Reporter
+http://svn.lumaqq.cn/mac
+
+
+
+2007-05-08T16:17:17.729585Z
+3
+luma
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a41e418f-192f-0410-99b4-9833888f77e5
+
+LQCrashHandler.h
+file
+
+
+
+
+2008-01-27T09:33:14.000000Z
+081f9373db6a3b50d7dc822d58dc5c7b
+2007-05-08T16:17:17.729585Z
+3
+luma
+
+LQCrashHandler.mm
+file
+
+
+
+
+2008-01-27T09:33:14.000000Z
+a947879b93a78c4450a9e9d9f2491cc6
+2007-05-08T16:17:17.729585Z
+3
+luma
+

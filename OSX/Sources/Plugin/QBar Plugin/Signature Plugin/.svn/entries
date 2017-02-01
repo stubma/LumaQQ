@@ -1,0 +1,58 @@
+8
+
+dir
+834
+http://svn.lumaqq.cn/mac/Sources/Plugin/QBar%20Plugin/Signature%20Plugin
+http://svn.lumaqq.cn/mac
+
+
+
+2007-09-24T16:04:47.234686Z
+131
+luma
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a41e418f-192f-0410-99b4-9833888f77e5
+
+SignatureQBar.mm
+file
+
+
+
+
+2008-01-27T09:34:21.000000Z
+ec860cf00798ada6ac9b9eca165cb84e
+2007-09-24T16:04:47.234686Z
+131
+luma
+
+zh_CN.lproj
+dir
+
+SignatureQBar.h
+file
+
+
+
+
+2008-01-27T09:34:21.000000Z
+8de45f8831a778d87ffc77070f3014cc
+2007-05-08T16:17:17.729585Z
+3
+luma
+
+English.lproj
+dir
+

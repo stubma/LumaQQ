@@ -1,0 +1,809 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/236/Sources/Core/Packet/BasicFamily/Outcoming
+END
+ClusterCommandPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/ClusterCommandPacket.mm
+END
+PropertyOpPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/PropertyOpPacket.mm
+END
+ClusterModifyCardPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/ClusterModifyCardPacket.mm
+END
+ClusterGetMemberInfoPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetMemberInfoPacket.mm
+END
+ClusterSearchPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/ClusterSearchPacket.h
+END
+TempSessionOpPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Outcoming/TempSessionOpPacket.h
+END
+TempClusterActivatePacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterActivatePacket.mm
+END
+AdvancedSearchUserPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/AdvancedSearchUserPacket.mm
+END
+ClusterModifyMessageSettingPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/ClusterModifyMessageSettingPacket.mm
+END
+ClusterCommandPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Outcoming/ClusterCommandPacket.h
+END
+ClusterModifyMemberPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/ClusterModifyMemberPacket.h
+END
+ClusterActivatePacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/ClusterActivatePacket.mm
+END
+TempClusterActivatePacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mac/!svn/ver/6/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterActivatePacket.h
+END
+TempClusterModifyMemberPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterModifyMemberPacket.mm
+END
+GetServerTokenPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mac/!svn/ver/162/Sources/Core/Packet/BasicFamily/Outcoming/GetServerTokenPacket.mm
+END
+LoginPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mac/!svn/ver/851/Sources/Core/Packet/BasicFamily/Outcoming/LoginPacket.mm
+END
+AuthInfoOpPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/AuthInfoOpPacket.mm
+END
+ClusterAuthorizePacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/ClusterAuthorizePacket.mm
+END
+WeatherOpPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Outcoming/WeatherOpPacket.h
+END
+ClusterBatchGetCardPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/ClusterBatchGetCardPacket.mm
+END
+ClusterModifyMemberPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/ClusterModifyMemberPacket.mm
+END
+ClusterGetVersionIdPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetVersionIdPacket.h
+END
+LoginPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mac/!svn/ver/847/Sources/Core/Packet/BasicFamily/Outcoming/LoginPacket.h
+END
+LogoutPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mac/!svn/ver/161/Sources/Core/Packet/BasicFamily/Outcoming/LogoutPacket.h
+END
+ReceivedIMReplyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/ReceivedIMReplyPacket.mm
+END
+ClusterExitPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/ClusterExitPacket.h
+END
+DeleteFriendPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mac/!svn/ver/172/Sources/Core/Packet/BasicFamily/Outcoming/DeleteFriendPacket.mm
+END
+ClusterGetLastTalkTimePacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetLastTalkTimePacket.mm
+END
+ReceivedIMReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/ReceivedIMReplyPacket.h
+END
+LogoutPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mac/!svn/ver/161/Sources/Core/Packet/BasicFamily/Outcoming/LogoutPacket.mm
+END
+ClusterGetCardPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetCardPacket.mm
+END
+ClusterGetLastTalkTimePacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetLastTalkTimePacket.h
+END
+ClusterSetRolePacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/ClusterSetRolePacket.mm
+END
+KeepAlivePacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/KeepAlivePacket.h
+END
+SelectServerPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/SelectServerPacket.h
+END
+LevelOpPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Outcoming/LevelOpPacket.h
+END
+ClusterGetMessageSettingPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mac/!svn/ver/236/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetMessageSettingPacket.mm
+END
+TempClusterModifyMemberPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mac/!svn/ver/7/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterModifyMemberPacket.h
+END
+GetServerTokenPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Outcoming/GetServerTokenPacket.h
+END
+PasswordVerifyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mac/!svn/ver/857/Sources/Core/Packet/BasicFamily/Outcoming/PasswordVerifyPacket.mm
+END
+GetLoginTokenPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mac/!svn/ver/127/Sources/Core/Packet/BasicFamily/Outcoming/GetLoginTokenPacket.h
+END
+PrivacyOpPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Outcoming/PrivacyOpPacket.h
+END
+GetOnlineOpPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Outcoming/GetOnlineOpPacket.h
+END
+GetFriendGroupPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mac/!svn/ver/195/Sources/Core/Packet/BasicFamily/Outcoming/GetFriendGroupPacket.h
+END
+ClusterModifyInfoPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/ClusterModifyInfoPacket.mm
+END
+GetLoginTokenPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/GetLoginTokenPacket.mm
+END
+ClusterDismissPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/ClusterDismissPacket.mm
+END
+TempClusterExitPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterExitPacket.h
+END
+SendIMPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/SendIMPacket.mm
+END
+ModifyInfoPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mac/!svn/ver/129/Sources/Core/Packet/BasicFamily/Outcoming/ModifyInfoPacket.h
+END
+GetFriendListPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/GetFriendListPacket.h
+END
+SendSMSPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/SendSMSPacket.h
+END
+ClusterSetRolePacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/ClusterSetRolePacket.h
+END
+TempClusterGetInfoPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterGetInfoPacket.h
+END
+TempClusterExitPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterExitPacket.mm
+END
+ClusterGetMemberInfoPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetMemberInfoPacket.h
+END
+PasswordVerifyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mac/!svn/ver/856/Sources/Core/Packet/BasicFamily/Outcoming/PasswordVerifyPacket.h
+END
+TempClusterSendIMPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterSendIMPacket.mm
+END
+RemoveSelfPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/RemoveSelfPacket.mm
+END
+ChangeStatusPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mac/!svn/ver/157/Sources/Core/Packet/BasicFamily/Outcoming/ChangeStatusPacket.h
+END
+ClusterSubOpPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/ClusterSubOpPacket.h
+END
+TempClusterModifyInfoPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mac/!svn/ver/7/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterModifyInfoPacket.h
+END
+ClusterExitPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/ClusterExitPacket.mm
+END
+ClusterGetOnlineMemberPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetOnlineMemberPacket.mm
+END
+ClusterSendIMExPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/ClusterSendIMExPacket.mm
+END
+ClusterModifyChannelSettingPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/ClusterModifyChannelSettingPacket.mm
+END
+SearchUserPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Outcoming/SearchUserPacket.h
+END
+GroupDataOpPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/GroupDataOpPacket.mm
+END
+AuthorizePacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Outcoming/AuthorizePacket.h
+END
+ChangeStatusPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mac/!svn/ver/157/Sources/Core/Packet/BasicFamily/Outcoming/ChangeStatusPacket.mm
+END
+ClusterBatchGetCardPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/ClusterBatchGetCardPacket.h
+END
+SendIMPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/SendIMPacket.h
+END
+ClusterGetInfoPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetInfoPacket.mm
+END
+ClusterModifyChannelSettingPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/ClusterModifyChannelSettingPacket.h
+END
+ClusterGetVersionIdPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetVersionIdPacket.mm
+END
+UploadFriendGroupPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mac/!svn/ver/19/Sources/Core/Packet/BasicFamily/Outcoming/UploadFriendGroupPacket.h
+END
+TempClusterCreatePacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mac/!svn/ver/6/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterCreatePacket.h
+END
+ClusterModifyMessageSettingPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/ClusterModifyMessageSettingPacket.h
+END
+AddFriendPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/AddFriendPacket.mm
+END
+GetOnlineOpPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/GetOnlineOpPacket.mm
+END
+TempClusterSendIMPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterSendIMPacket.h
+END
+RemoveSelfPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/RemoveSelfPacket.h
+END
+ClusterUpdateOrganizationPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/ClusterUpdateOrganizationPacket.h
+END
+GetKeyPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/GetKeyPacket.mm
+END
+AuthQuestionOpPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/AuthQuestionOpPacket.mm
+END
+UploadFriendGroupPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/UploadFriendGroupPacket.mm
+END
+AuthInfoOpPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mac/!svn/ver/138/Sources/Core/Packet/BasicFamily/Outcoming/AuthInfoOpPacket.h
+END
+ClusterAuthorizePacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/ClusterAuthorizePacket.h
+END
+ClusterSubOpPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/ClusterSubOpPacket.mm
+END
+AddFriendPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/AddFriendPacket.h
+END
+PropertyOpPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Outcoming/PropertyOpPacket.h
+END
+ClusterModifyCardPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/ClusterModifyCardPacket.h
+END
+ModifyInfoPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/ModifyInfoPacket.mm
+END
+GetFriendListPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/GetFriendListPacket.mm
+END
+GetKeyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Outcoming/GetKeyPacket.h
+END
+AuthQuestionOpPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Outcoming/AuthQuestionOpPacket.h
+END
+GetUserInfoPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/GetUserInfoPacket.h
+END
+ClusterGetChannelSettingPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetChannelSettingPacket.mm
+END
+ClusterTransferRolePacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/ClusterTransferRolePacket.mm
+END
+ClusterUpdateOrganizationPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/ClusterUpdateOrganizationPacket.mm
+END
+AuthorizePacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/AuthorizePacket.mm
+END
+PrivacyOpPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/PrivacyOpPacket.mm
+END
+ClusterJoinPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/ClusterJoinPacket.h
+END
+TempClusterGetInfoPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterGetInfoPacket.mm
+END
+ClusterModifyInfoPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/ClusterModifyInfoPacket.h
+END
+GetFriendGroupPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/GetFriendGroupPacket.mm
+END
+ClusterGetChannelSettingPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetChannelSettingPacket.h
+END
+ClusterTransferRolePacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/ClusterTransferRolePacket.h
+END
+TempClusterModifyInfoPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterModifyInfoPacket.mm
+END
+ClusterDismissPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/ClusterDismissPacket.h
+END
+ClusterGetOnlineMemberPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetOnlineMemberPacket.h
+END
+ClusterSendIMExPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/ClusterSendIMExPacket.h
+END
+WeatherOpPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Outcoming/WeatherOpPacket.mm
+END
+SignatureOpPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/SignatureOpPacket.mm
+END
+ClusterJoinPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/ClusterJoinPacket.mm
+END
+ClusterGetMessageSettingPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mac/!svn/ver/228/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetMessageSettingPacket.h
+END
+KeepAlivePacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/KeepAlivePacket.mm
+END
+ClusterSearchPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/ClusterSearchPacket.mm
+END
+AdvancedSearchUserPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Outcoming/AdvancedSearchUserPacket.h
+END
+SendSMSPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/SendSMSPacket.mm
+END
+SignatureOpPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mac/!svn/ver/139/Sources/Core/Packet/BasicFamily/Outcoming/SignatureOpPacket.h
+END
+ClusterActivatePacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/ClusterActivatePacket.h
+END
+ClusterGetCardPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetCardPacket.h
+END
+GetUserInfoPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/GetUserInfoPacket.mm
+END
+TempClusterCreatePacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterCreatePacket.mm
+END
+FriendDataOpPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/FriendDataOpPacket.mm
+END
+GroupDataOpPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Outcoming/GroupDataOpPacket.h
+END
+SearchUserPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/SearchUserPacket.mm
+END
+SelectServerPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/SelectServerPacket.mm
+END
+LevelOpPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mac/!svn/ver/150/Sources/Core/Packet/BasicFamily/Outcoming/LevelOpPacket.mm
+END
+DeleteFriendPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mac/!svn/ver/172/Sources/Core/Packet/BasicFamily/Outcoming/DeleteFriendPacket.h
+END
+TempSessionOpPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Outcoming/TempSessionOpPacket.mm
+END
+ClusterGetInfoPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mac/!svn/ver/3/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetInfoPacket.h
+END
+FriendDataOpPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mac/!svn/ver/120/Sources/Core/Packet/BasicFamily/Outcoming/FriendDataOpPacket.h
+END

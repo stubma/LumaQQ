@@ -1,0 +1,413 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/mac/!svn/ver/247/Sources/Core/Bean
+END
+CustomFace.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mac/!svn/ver/3/Sources/Core/Bean/CustomFace.h
+END
+SubCluster.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mac/!svn/ver/3/Sources/Core/Bean/SubCluster.h
+END
+MobileIM.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mac/!svn/ver/3/Sources/Core/Bean/MobileIM.h
+END
+FriendStatus.mm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mac/!svn/ver/157/Sources/Core/Bean/FriendStatus.mm
+END
+LastTalkTime.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mac/!svn/ver/3/Sources/Core/Bean/LastTalkTime.h
+END
+ReceivedIMPacketHeader.mm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/3/Sources/Core/Bean/ReceivedIMPacketHeader.mm
+END
+NormalIM.mm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mac/!svn/ver/22/Sources/Core/Bean/NormalIM.mm
+END
+SignatureChangedNotification.mm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mac/!svn/ver/3/Sources/Core/Bean/SignatureChangedNotification.mm
+END
+ContactInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mac/!svn/ver/3/Sources/Core/Bean/ContactInfo.h
+END
+CustomFace.mm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mac/!svn/ver/17/Sources/Core/Bean/CustomFace.mm
+END
+SearchedUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mac/!svn/ver/3/Sources/Core/Bean/SearchedUser.h
+END
+MobileIM.mm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mac/!svn/ver/3/Sources/Core/Bean/MobileIM.mm
+END
+TempSessionIM.mm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mac/!svn/ver/3/Sources/Core/Bean/TempSessionIM.mm
+END
+FriendLevel.mm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mac/!svn/ver/3/Sources/Core/Bean/FriendLevel.mm
+END
+NormalIMHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mac/!svn/ver/3/Sources/Core/Bean/NormalIMHeader.h
+END
+Member.mm
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/mac/!svn/ver/3/Sources/Core/Bean/Member.mm
+END
+Friend.mm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mac/!svn/ver/125/Sources/Core/Bean/Friend.mm
+END
+ClusterNameCard.mm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mac/!svn/ver/3/Sources/Core/Bean/ClusterNameCard.mm
+END
+SearchedUser.mm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/3/Sources/Core/Bean/SearchedUser.mm
+END
+Weather.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/mac/!svn/ver/3/Sources/Core/Bean/Weather.h
+END
+QQUser.mm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mac/!svn/ver/846/Sources/Core/Bean/QQUser.mm
+END
+UserProperty.mm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mac/!svn/ver/237/Sources/Core/Bean/UserProperty.mm
+END
+QQOrganization.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mac/!svn/ver/3/Sources/Core/Bean/QQOrganization.h
+END
+FriendGroup.mm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mac/!svn/ver/3/Sources/Core/Bean/FriendGroup.mm
+END
+FontStyle.mm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mac/!svn/ver/3/Sources/Core/Bean/FontStyle.mm
+END
+SystemIM.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mac/!svn/ver/3/Sources/Core/Bean/SystemIM.h
+END
+FriendStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mac/!svn/ver/157/Sources/Core/Bean/FriendStatus.h
+END
+ClusterNameCard.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mac/!svn/ver/3/Sources/Core/Bean/ClusterNameCard.h
+END
+SMSReply.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mac/!svn/ver/3/Sources/Core/Bean/SMSReply.h
+END
+CustomHead.mm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/180/Sources/Core/Bean/CustomHead.mm
+END
+LastTalkTime.mm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/3/Sources/Core/Bean/LastTalkTime.mm
+END
+QQUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mac/!svn/ver/846/Sources/Core/Bean/QQUser.h
+END
+FriendGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mac/!svn/ver/3/Sources/Core/Bean/FriendGroup.h
+END
+AdvancedSearchedUser.mm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/3/Sources/Core/Bean/AdvancedSearchedUser.mm
+END
+CustomFaceList.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mac/!svn/ver/226/Sources/Core/Bean/CustomFaceList.h
+END
+ClusterIM.mm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mac/!svn/ver/22/Sources/Core/Bean/ClusterIM.mm
+END
+CustomHead.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mac/!svn/ver/180/Sources/Core/Bean/CustomHead.h
+END
+TempSessionIM.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/3/Sources/Core/Bean/TempSessionIM.h
+END
+FriendLevel.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mac/!svn/ver/3/Sources/Core/Bean/FriendLevel.h
+END
+Member.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/mac/!svn/ver/3/Sources/Core/Bean/Member.h
+END
+CustomFaceList.mm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mac/!svn/ver/226/Sources/Core/Bean/CustomFaceList.mm
+END
+Friend.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mac/!svn/ver/125/Sources/Core/Bean/Friend.h
+END
+FriendRemark.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mac/!svn/ver/3/Sources/Core/Bean/FriendRemark.h
+END
+ClusterNotification.mm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mac/!svn/ver/3/Sources/Core/Bean/ClusterNotification.mm
+END
+SubCluster.mm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mac/!svn/ver/3/Sources/Core/Bean/SubCluster.mm
+END
+NormalIM.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mac/!svn/ver/22/Sources/Core/Bean/NormalIM.h
+END
+FriendStatusChangedNotification.mm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mac/!svn/ver/157/Sources/Core/Bean/FriendStatusChangedNotification.mm
+END
+SignatureChangedNotification.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/3/Sources/Core/Bean/SignatureChangedNotification.h
+END
+UserProperty.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mac/!svn/ver/237/Sources/Core/Bean/UserProperty.h
+END
+FontStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mac/!svn/ver/3/Sources/Core/Bean/FontStyle.h
+END
+QQOrganization.mm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mac/!svn/ver/3/Sources/Core/Bean/QQOrganization.mm
+END
+ClusterNotification.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mac/!svn/ver/3/Sources/Core/Bean/ClusterNotification.h
+END
+ContactInfo.mm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mac/!svn/ver/3/Sources/Core/Bean/ContactInfo.mm
+END
+FriendRemark.mm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/3/Sources/Core/Bean/FriendRemark.mm
+END
+SystemIM.mm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mac/!svn/ver/3/Sources/Core/Bean/SystemIM.mm
+END
+FriendStatusChangedNotification.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mac/!svn/ver/157/Sources/Core/Bean/FriendStatusChangedNotification.h
+END
+ClusterInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/236/Sources/Core/Bean/ClusterInfo.h
+END
+SMSReply.mm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mac/!svn/ver/3/Sources/Core/Bean/SMSReply.mm
+END
+Signature.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mac/!svn/ver/3/Sources/Core/Bean/Signature.h
+END
+AdvancedSearchedUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mac/!svn/ver/3/Sources/Core/Bean/AdvancedSearchedUser.h
+END
+ClusterMessageSetting.mm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/3/Sources/Core/Bean/ClusterMessageSetting.mm
+END
+ClusterIM.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mac/!svn/ver/22/Sources/Core/Bean/ClusterIM.h
+END
+NormalIMHeader.mm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mac/!svn/ver/3/Sources/Core/Bean/NormalIMHeader.mm
+END
+ReceivedIMPacketHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/3/Sources/Core/Bean/ReceivedIMPacketHeader.h
+END
+ClusterInfo.mm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mac/!svn/ver/236/Sources/Core/Bean/ClusterInfo.mm
+END
+Weather.mm
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mac/!svn/ver/3/Sources/Core/Bean/Weather.mm
+END
+Signature.mm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mac/!svn/ver/53/Sources/Core/Bean/Signature.mm
+END
+ClusterMessageSetting.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/3/Sources/Core/Bean/ClusterMessageSetting.h
+END

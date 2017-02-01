@@ -1,0 +1,4 @@
+/** string for weather QBar window */
+
+LQPluginDescription = "Provide a handy tool to make it easy to search any IP you like";
+LQHintErrorIP = "Illegal IP Format";

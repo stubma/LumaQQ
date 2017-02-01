@@ -1,0 +1,437 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mac/!svn/ver/667/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming
+END
+GetUserInfoReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/GetUserInfoReplyPacket.h
+END
+GetUserInfoReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/GetUserInfoReplyPacket.m
+END
+FriendDataOpReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/FriendDataOpReplyPacket.h
+END
+SearchUserReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/SearchUserReplyPacket.h
+END
+FriendDataOpReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/FriendDataOpReplyPacket.m
+END
+SelectServerReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/SelectServerReplyPacket.h
+END
+LevelOpReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/LevelOpReplyPacket.h
+END
+RemoveSelfReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/RemoveSelfReplyPacket.h
+END
+TempSessionOpReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/TempSessionOpReplyPacket.h
+END
+SearchUserReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/SearchUserReplyPacket.m
+END
+FriendStatusChangedPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/FriendStatusChangedPacket.h
+END
+SelectServerReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/SelectServerReplyPacket.m
+END
+LevelOpReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/LevelOpReplyPacket.m
+END
+RemoveSelfReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/RemoveSelfReplyPacket.m
+END
+TempSessionOpReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/TempSessionOpReplyPacket.m
+END
+FriendStatusChangedPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/FriendStatusChangedPacket.m
+END
+ClusterCommandReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mac/!svn/ver/541/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/ClusterCommandReplyPacket.h
+END
+PropertyOpReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/PropertyOpReplyPacket.h
+END
+GroupDataOpReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/GroupDataOpReplyPacket.h
+END
+ClusterCommandReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mac/!svn/ver/850/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/ClusterCommandReplyPacket.m
+END
+PropertyOpReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/PropertyOpReplyPacket.m
+END
+ChangeStatusReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/ChangeStatusReplyPacket.h
+END
+GroupDataOpReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/GroupDataOpReplyPacket.m
+END
+AdvancedSearchUserReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/AdvancedSearchUserReplyPacket.h
+END
+ChangeStatusReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/ChangeStatusReplyPacket.m
+END
+AdvancedSearchUserReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/AdvancedSearchUserReplyPacket.m
+END
+ReceivedIMPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mac/!svn/ver/602/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/ReceivedIMPacket.h
+END
+ReceivedIMPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mac/!svn/ver/602/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/ReceivedIMPacket.m
+END
+GetServerTokenReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/GetServerTokenReplyPacket.h
+END
+LoginReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/LoginReplyPacket.h
+END
+GetServerTokenReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/GetServerTokenReplyPacket.m
+END
+AuthInfoOpReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/AuthInfoOpReplyPacket.h
+END
+LoginReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/LoginReplyPacket.m
+END
+SystemNotificationPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/SystemNotificationPacket.h
+END
+AddFriendReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/AddFriendReplyPacket.h
+END
+AuthInfoOpReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/AuthInfoOpReplyPacket.m
+END
+GetOnlineOpReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mac/!svn/ver/529/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/GetOnlineOpReplyPacket.h
+END
+SystemNotificationPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mac/!svn/ver/667/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/SystemNotificationPacket.m
+END
+AddFriendReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/AddFriendReplyPacket.m
+END
+AuthQuestionOpReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/AuthQuestionOpReplyPacket.h
+END
+GetKeyReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/GetKeyReplyPacket.h
+END
+GetOnlineOpReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mac/!svn/ver/536/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/GetOnlineOpReplyPacket.m
+END
+UploadFriendGroupReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/UploadFriendGroupReplyPacket.h
+END
+DeleteFriendReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/DeleteFriendReplyPacket.h
+END
+AuthQuestionOpReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/AuthQuestionOpReplyPacket.m
+END
+GetKeyReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/GetKeyReplyPacket.m
+END
+UploadFriendGroupReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/UploadFriendGroupReplyPacket.m
+END
+DeleteFriendReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/DeleteFriendReplyPacket.m
+END
+ModifyInfoReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/ModifyInfoReplyPacket.h
+END
+GetFriendListReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/GetFriendListReplyPacket.h
+END
+ModifyInfoReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/ModifyInfoReplyPacket.m
+END
+GetFriendListReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/GetFriendListReplyPacket.m
+END
+AuthorizeReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/AuthorizeReplyPacket.h
+END
+PrivacyOpReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/PrivacyOpReplyPacket.h
+END
+AuthorizeReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/AuthorizeReplyPacket.m
+END
+PrivacyOpReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/PrivacyOpReplyPacket.m
+END
+GetFriendGroupReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/GetFriendGroupReplyPacket.h
+END
+PasswordVerifyReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/PasswordVerifyReplyPacket.h
+END
+GetFriendGroupReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/GetFriendGroupReplyPacket.m
+END
+PasswordVerifyReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/PasswordVerifyReplyPacket.m
+END
+WeatherOpReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/WeatherOpReplyPacket.h
+END
+SignatureOpReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/SignatureOpReplyPacket.h
+END
+WeatherOpReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/WeatherOpReplyPacket.m
+END
+SignatureOpReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/SignatureOpReplyPacket.m
+END
+KeepAliveReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/KeepAliveReplyPacket.h
+END
+GetLoginTokenReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/GetLoginTokenReplyPacket.h
+END
+KeepAliveReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/KeepAliveReplyPacket.m
+END
+SendSMSReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/SendSMSReplyPacket.h
+END
+GetLoginTokenReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/GetLoginTokenReplyPacket.m
+END
+SendIMReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/SendIMReplyPacket.h
+END
+SendSMSReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/SendSMSReplyPacket.m
+END
+SendIMReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mac/!svn/ver/303/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Incoming/SendIMReplyPacket.m
+END

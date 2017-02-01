@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/mac/!svn/ver/141/Sources/UI/DataSource
+END
+UserOutlineDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/3/Sources/UI/DataSource/UserOutlineDataSource.h
+END
+MobileTableDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/3/Sources/UI/DataSource/MobileTableDataSource.h
+END
+ClusterOutlineDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/3/Sources/UI/DataSource/ClusterOutlineDataSource.h
+END
+FaceSelectorDataSource.mm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mac/!svn/ver/141/Sources/UI/DataSource/FaceSelectorDataSource.mm
+END
+FriendTreeDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/12/Sources/UI/DataSource/FriendTreeDataSource.h
+END
+RecentTableDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/3/Sources/UI/DataSource/RecentTableDataSource.h
+END
+SearchClusterDataSource.mm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/3/Sources/UI/DataSource/SearchClusterDataSource.mm
+END
+ClusterMemberTreeDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mac/!svn/ver/5/Sources/UI/DataSource/ClusterMemberTreeDataSource.h
+END
+HistoryTableDataSource.mm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/3/Sources/UI/DataSource/HistoryTableDataSource.mm
+END
+SearchedUserDataSource.mm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/3/Sources/UI/DataSource/SearchedUserDataSource.mm
+END
+FaceSelectorDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/3/Sources/UI/DataSource/FaceSelectorDataSource.h
+END
+UserOutlineDataSource.mm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/3/Sources/UI/DataSource/UserOutlineDataSource.mm
+END
+ParentLocatableOutlineDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mac/!svn/ver/12/Sources/UI/DataSource/ParentLocatableOutlineDataSource.h
+END
+MobileTableDataSource.mm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/3/Sources/UI/DataSource/MobileTableDataSource.mm
+END
+ClusterOutlineDataSource.mm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mac/!svn/ver/12/Sources/UI/DataSource/ClusterOutlineDataSource.mm
+END
+SearchClusterDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/3/Sources/UI/DataSource/SearchClusterDataSource.h
+END
+HistoryTableDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/3/Sources/UI/DataSource/HistoryTableDataSource.h
+END
+FriendTreeDataSource.mm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/12/Sources/UI/DataSource/FriendTreeDataSource.mm
+END
+RecentTableDataSource.mm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/3/Sources/UI/DataSource/RecentTableDataSource.mm
+END
+ClusterMemberTreeDataSource.mm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mac/!svn/ver/12/Sources/UI/DataSource/ClusterMemberTreeDataSource.mm
+END
+SearchedUserDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/3/Sources/UI/DataSource/SearchedUserDataSource.h
+END

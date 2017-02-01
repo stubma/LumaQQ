@@ -1,0 +1,13 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {onInput = id; }; 
+            CLASS = QConsoleWindowController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {"m_txtConsole" = NSTextView; "m_txtInput" = NSTextField; }; 
+            SUPERCLASS = NSWindowController; 
+        }
+    ); 
+    IBVersion = 1; 
+}

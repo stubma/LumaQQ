@@ -1,0 +1,13 @@
+/** localized string for preference window */
+
+LQTitle = "Preference of %u";
+
+LQWarningConflictedExtractMessageKey = "The new extract message key has been registered by others, please choose another";
+LQWarningErrorSoundFile = "Can't open the sound file, please check the file path";
+LQWarningDuplicatedHotKey = "Some hot keys you set are same, please make a change";
+LQWarningConflictedScreenscrapKey = "The new screenscrap key has been registered by others, please choose another";
+
+LQBasic = "Basic Setting";
+LQHotKey = "Hot Key";
+LQSound = "Sound Scheme";
+LQRecentContact = "Recent Contact";

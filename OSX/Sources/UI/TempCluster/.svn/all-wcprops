@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/mac/!svn/ver/22/Sources/UI/TempCluster
+END
+TempClusterBaseWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mac/!svn/ver/12/Sources/UI/TempCluster/TempClusterBaseWindowController.h
+END
+CreateDialogWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mac/!svn/ver/12/Sources/UI/TempCluster/CreateDialogWindowController.h
+END
+CreateSubjectWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mac/!svn/ver/12/Sources/UI/TempCluster/CreateSubjectWindowController.h
+END
+TempClusterBaseWindowController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mac/!svn/ver/22/Sources/UI/TempCluster/TempClusterBaseWindowController.mm
+END
+CreateDialogWindowController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mac/!svn/ver/22/Sources/UI/TempCluster/CreateDialogWindowController.mm
+END
+CreateSubjectWindowController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mac/!svn/ver/12/Sources/UI/TempCluster/CreateSubjectWindowController.mm
+END
+ModifyDialogWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mac/!svn/ver/12/Sources/UI/TempCluster/ModifyDialogWindowController.h
+END
+ModifySubjectWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mac/!svn/ver/12/Sources/UI/TempCluster/ModifySubjectWindowController.h
+END
+ModifyDialogWindowController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mac/!svn/ver/22/Sources/UI/TempCluster/ModifyDialogWindowController.mm
+END
+ModifySubjectWindowController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mac/!svn/ver/22/Sources/UI/TempCluster/ModifySubjectWindowController.mm
+END

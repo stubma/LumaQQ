@@ -1,0 +1,36 @@
+/* localized string for user/cluster auth window */
+
+LQClusterAuthTitle = "群系统消息";
+LQUserAuthTitle = "搜索/添加用户";
+
+LQOptionBlock = "拒绝再接受此人请求";
+LQOptionAddReverse = "添加对方为我的好友";
+
+LQMessageRejectJoinCluster = "管理员%u(群%u)拒绝了你的请求.\n附加消息: %@";
+LQMessageYouAreNotAdminNow = "你已经被取消了群\"%@\"的管理员权限";
+LQMessageAmdinRoleUnset = "用户%u被取消了群\"%@\"的管理员权限";
+LQMessageYouAreAdminNow = "你被指定为群\"%@\"的管理员";
+LQMessageAdminRoleSet = "用户%u被指定为群\"%@\"的管理员";
+LQMessageYouAreClusterOwner = "你已成为群%u(%@)的拥有者";
+LQMessageOwnerChanged = "%u成为了群%u(%@)的拥有者";
+LQMessageYouAreKickedByAdmin = "你已经被群%u(%@)的管理员%u清出了该群";
+LQMessageKickedByAdmin = "%u已经被群%u(%@)的管理员%u清出了该群";
+LQMessageMemberExit = "%u已经退出了群%u(%@)";
+LQMessageRequestJoinCluster = "%u请求加入群%u(%@).\n附加消息: %@";
+LQMessageClusterCreated = "群%u已创建，同时管理员%u把你添加到了该群";
+LQMessageYouJoinedCluster = "你已经加入了群%u";
+LQMessageJoinedCluster = "%u已经加入了群%u";
+LQMessageYouDismissedCluster = "你已经成功的解散了群%u(%@)";
+LQMessageClusterDismissed = "群%u已经被解散";
+LQMessageApproveJoinCluster = "群%u的管理员%u批准了你的请求";
+
+LQMessageRequestAddMe = "%u请求加你为好友.\n附加消息: %@";
+LQMessageApproveAddHim = "%u同意了你的请求";
+LQMessageApproveAddHimAndAddMe = "%u同意了你的请求并添加你为好友";
+LQMessageRejectAddHim = "%u拒绝了你的请求.\n附加消息: %@";
+LQMessageOtherAddedMe = "%u已添加你为好友";
+
+LQHintApprove = "正在批准对方请求...";
+LQHintReject = "正在拒绝对方请求...";
+LQHintSuccess = "你的决定已经成功提交";
+LQHintFail = "发送失败，可能是网络正忙，请稍后重试";

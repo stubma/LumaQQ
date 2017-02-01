@@ -1,0 +1,809 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mac/!svn/ver/305/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming
+END
+ClusterGetInfoPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetInfoPacket.m
+END
+FriendDataOpPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/FriendDataOpPacket.m
+END
+ClusterSearchPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterSearchPacket.h
+END
+TempSessionOpPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/TempSessionOpPacket.h
+END
+ClusterSearchPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterSearchPacket.m
+END
+TempSessionOpPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/TempSessionOpPacket.m
+END
+ClusterCommandPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterCommandPacket.h
+END
+ClusterModifyMemberPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterModifyMemberPacket.h
+END
+ClusterCommandPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterCommandPacket.m
+END
+ClusterModifyMemberPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterModifyMemberPacket.m
+END
+TempClusterActivatePacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterActivatePacket.h
+END
+TempClusterActivatePacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterActivatePacket.m
+END
+WeatherOpPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/WeatherOpPacket.h
+END
+WeatherOpPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mac/!svn/ver/305/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/WeatherOpPacket.m
+END
+ClusterGetVersionIdPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetVersionIdPacket.h
+END
+LoginPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mac/!svn/ver/850/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/LoginPacket.h
+END
+ClusterGetVersionIdPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetVersionIdPacket.m
+END
+LogoutPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/LogoutPacket.h
+END
+ClusterExitPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterExitPacket.h
+END
+LoginPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mac/!svn/ver/850/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/LoginPacket.m
+END
+LogoutPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/LogoutPacket.m
+END
+ClusterExitPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterExitPacket.m
+END
+ReceivedIMReplyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ReceivedIMReplyPacket.h
+END
+ReceivedIMReplyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ReceivedIMReplyPacket.m
+END
+ClusterGetLastTalkTimePacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetLastTalkTimePacket.h
+END
+ClusterGetLastTalkTimePacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetLastTalkTimePacket.m
+END
+KeepAlivePacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/KeepAlivePacket.h
+END
+LevelOpPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/LevelOpPacket.h
+END
+SelectServerPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/SelectServerPacket.h
+END
+GetServerTokenPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/GetServerTokenPacket.h
+END
+TempClusterModifyMemberPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterModifyMemberPacket.h
+END
+GetLoginTokenPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/GetLoginTokenPacket.h
+END
+KeepAlivePacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/KeepAlivePacket.m
+END
+SelectServerPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/SelectServerPacket.m
+END
+LevelOpPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/LevelOpPacket.m
+END
+TempClusterModifyMemberPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterModifyMemberPacket.m
+END
+PrivacyOpPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/PrivacyOpPacket.h
+END
+GetServerTokenPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/GetServerTokenPacket.m
+END
+GetLoginTokenPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/GetLoginTokenPacket.m
+END
+PrivacyOpPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/PrivacyOpPacket.m
+END
+GetOnlineOpPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/GetOnlineOpPacket.h
+END
+GetFriendGroupPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/GetFriendGroupPacket.h
+END
+GetOnlineOpPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/GetOnlineOpPacket.m
+END
+GetFriendGroupPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/GetFriendGroupPacket.m
+END
+TempClusterExitPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterExitPacket.h
+END
+ModifyInfoPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ModifyInfoPacket.h
+END
+GetFriendListPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/GetFriendListPacket.h
+END
+TempClusterExitPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterExitPacket.m
+END
+ModifyInfoPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ModifyInfoPacket.m
+END
+GetFriendListPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/GetFriendListPacket.m
+END
+SendSMSPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/SendSMSPacket.h
+END
+ClusterSetRolePacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterSetRolePacket.h
+END
+SendSMSPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/SendSMSPacket.m
+END
+TempClusterGetInfoPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterGetInfoPacket.h
+END
+ClusterSetRolePacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterSetRolePacket.m
+END
+ClusterGetMemberInfoPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetMemberInfoPacket.h
+END
+PasswordVerifyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/855/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/PasswordVerifyPacket.h
+END
+TempClusterGetInfoPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterGetInfoPacket.m
+END
+ChangeStatusPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ChangeStatusPacket.h
+END
+ClusterGetMemberInfoPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetMemberInfoPacket.m
+END
+ClusterSubOpPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterSubOpPacket.h
+END
+TempClusterModifyInfoPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterModifyInfoPacket.h
+END
+PasswordVerifyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/857/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/PasswordVerifyPacket.m
+END
+ChangeStatusPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ChangeStatusPacket.m
+END
+ClusterSubOpPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterSubOpPacket.m
+END
+TempClusterModifyInfoPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterModifyInfoPacket.m
+END
+SearchUserPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/SearchUserPacket.h
+END
+SearchUserPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/SearchUserPacket.m
+END
+AuthorizePacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/AuthorizePacket.h
+END
+ClusterBatchGetCardPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterBatchGetCardPacket.h
+END
+AuthorizePacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/AuthorizePacket.m
+END
+SendIMPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/SendIMPacket.h
+END
+ClusterModifyChannelSettingPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterModifyChannelSettingPacket.h
+END
+ClusterBatchGetCardPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterBatchGetCardPacket.m
+END
+SendIMPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/SendIMPacket.m
+END
+ClusterModifyChannelSettingPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterModifyChannelSettingPacket.m
+END
+UploadFriendGroupPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/UploadFriendGroupPacket.h
+END
+TempClusterCreatePacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterCreatePacket.h
+END
+ClusterModifyMessageSettingPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterModifyMessageSettingPacket.h
+END
+UploadFriendGroupPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/UploadFriendGroupPacket.m
+END
+TempClusterCreatePacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterCreatePacket.m
+END
+ClusterModifyMessageSettingPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterModifyMessageSettingPacket.m
+END
+RemoveSelfPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/RemoveSelfPacket.h
+END
+TempClusterSendIMPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterSendIMPacket.h
+END
+ClusterUpdateOrganizationPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterUpdateOrganizationPacket.h
+END
+ClusterAuthorizePacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterAuthorizePacket.h
+END
+AuthInfoOpPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/AuthInfoOpPacket.h
+END
+RemoveSelfPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/RemoveSelfPacket.m
+END
+TempClusterSendIMPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/TempClusterSendIMPacket.m
+END
+ClusterUpdateOrganizationPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterUpdateOrganizationPacket.m
+END
+AddFriendPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/AddFriendPacket.h
+END
+ClusterAuthorizePacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterAuthorizePacket.m
+END
+AuthInfoOpPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/AuthInfoOpPacket.m
+END
+ClusterModifyCardPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterModifyCardPacket.h
+END
+PropertyOpPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/PropertyOpPacket.h
+END
+AddFriendPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/AddFriendPacket.m
+END
+ClusterModifyCardPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterModifyCardPacket.m
+END
+AuthQuestionOpPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/AuthQuestionOpPacket.h
+END
+GetKeyPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/GetKeyPacket.h
+END
+PropertyOpPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/PropertyOpPacket.m
+END
+GetUserInfoPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/GetUserInfoPacket.h
+END
+AuthQuestionOpPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/AuthQuestionOpPacket.m
+END
+GetKeyPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/GetKeyPacket.m
+END
+GetUserInfoPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/GetUserInfoPacket.m
+END
+ClusterJoinPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterJoinPacket.h
+END
+ClusterModifyInfoPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterModifyInfoPacket.h
+END
+ClusterJoinPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterJoinPacket.m
+END
+ClusterTransferRolePacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterTransferRolePacket.h
+END
+ClusterGetChannelSettingPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetChannelSettingPacket.h
+END
+ClusterModifyInfoPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterModifyInfoPacket.m
+END
+ClusterTransferRolePacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterTransferRolePacket.m
+END
+ClusterDismissPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterDismissPacket.h
+END
+ClusterGetChannelSettingPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetChannelSettingPacket.m
+END
+ClusterSendIMExPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterSendIMExPacket.h
+END
+ClusterGetOnlineMemberPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetOnlineMemberPacket.h
+END
+ClusterDismissPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterDismissPacket.m
+END
+ClusterSendIMExPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterSendIMExPacket.m
+END
+ClusterGetOnlineMemberPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetOnlineMemberPacket.m
+END
+ClusterGetMessageSettingPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetMessageSettingPacket.h
+END
+ClusterGetMessageSettingPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetMessageSettingPacket.m
+END
+AdvancedSearchUserPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/AdvancedSearchUserPacket.h
+END
+AdvancedSearchUserPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/AdvancedSearchUserPacket.m
+END
+SignatureOpPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/SignatureOpPacket.h
+END
+ClusterActivatePacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterActivatePacket.h
+END
+SignatureOpPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/SignatureOpPacket.m
+END
+ClusterActivatePacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterActivatePacket.m
+END
+ClusterGetCardPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetCardPacket.h
+END
+ClusterGetCardPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetCardPacket.m
+END
+GroupDataOpPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/GroupDataOpPacket.h
+END
+GroupDataOpPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/GroupDataOpPacket.m
+END
+DeleteFriendPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/DeleteFriendPacket.h
+END
+ClusterGetInfoPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/ClusterGetInfoPacket.h
+END
+DeleteFriendPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/DeleteFriendPacket.m
+END
+FriendDataOpPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mac/!svn/ver/304/LumaQQ_iPhone/Sources/Core/Packet/BasicFamily/Outcoming/FriendDataOpPacket.h
+END

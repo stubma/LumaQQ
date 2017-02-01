@@ -1,0 +1,94 @@
+8
+
+dir
+834
+http://svn.lumaqq.cn/mac/Sources
+http://svn.lumaqq.cn/mac
+
+
+
+2008-01-24T04:36:50.602414Z
+823
+luma
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a41e418f-192f-0410-99b4-9833888f77e5
+
+POIFS
+dir
+
+QConsole
+dir
+
+Crash Reporter
+dir
+
+ANTLRRuntime
+dir
+
+QDiskDriver
+dir
+
+Core
+dir
+
+main.mm
+file
+
+
+
+
+2008-01-27T09:44:06.000000Z
+42120689fc7c5e84c5025f91ed550965
+2007-05-08T16:17:17.729585Z
+3
+luma
+
+Plugin
+dir
+
+Constants.h
+file
+847
+
+
+
+2008-04-26T18:00:54.000000Z
+f921fc0ef5916b3eea472d88f3328771
+2008-04-26T10:04:14.805656Z
+847
+luma
+
+HMDTAppKit
+dir
+
+LQUtilities
+dir
+
+Luminance
+dir
+
+PSMTabBarControl
+dir
+
+UI
+dir
+
+Spotlight
+dir
+
+LQPlugins
+dir
+

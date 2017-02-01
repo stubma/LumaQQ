@@ -1,0 +1,38 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = HMBlkContentView; LANGUAGE = ObjC; SUPERCLASS = NSView; }, 
+        {CLASS = HeadControl; LANGUAGE = ObjC; SUPERCLASS = NSControl; }, 
+        {CLASS = LevelControl; LANGUAGE = ObjC; SUPERCLASS = NSControl; }, 
+        {
+            CLASS = OutlineTooltipController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                "m_clusterHeadControl" = HeadControl; 
+                "m_clusterTipView" = NSView; 
+                "m_headControl" = HeadControl; 
+                "m_levelControl" = LevelControl; 
+                "m_memberHeadControl" = HeadControl; 
+                "m_memberTipView" = NSView; 
+                "m_mobileTipView" = NSView; 
+                "m_txtBelongToCluster" = NSTextField; 
+                "m_txtClusterNameCard" = NSTextField; 
+                "m_txtClusterType" = NSTextField; 
+                "m_txtCreator" = NSTextField; 
+                "m_txtMemberCount" = NSTextField; 
+                "m_txtMemberRemarkName" = NSTextField; 
+                "m_txtMemberRole" = NSTextField; 
+                "m_txtNotice" = NSTextField; 
+                "m_txtRemarkName" = NSTextField; 
+                "m_txtSignature" = NSTextField; 
+                "m_txtStatusMessage" = NSTextField; 
+                "m_userFlagControl" = UserFlagControl; 
+                "m_userTipView" = NSView; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = UserFlagCell; LANGUAGE = ObjC; SUPERCLASS = NSActionCell; }, 
+        {CLASS = UserFlagControl; LANGUAGE = ObjC; SUPERCLASS = NSControl; }
+    ); 
+    IBVersion = 1; 
+}

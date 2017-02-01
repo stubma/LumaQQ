@@ -1,0 +1,18 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {onDateChanged = id; }; 
+            CLASS = HistoryDrawerController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                "m_datePicker" = NSDatePicker; 
+                "m_drawer" = NSDrawer; 
+                "m_historyTable" = NSTableView; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = NSDatePicker; LANGUAGE = ObjC; SUPERCLASS = NSControl; }
+    ); 
+    IBVersion = 1; 
+}

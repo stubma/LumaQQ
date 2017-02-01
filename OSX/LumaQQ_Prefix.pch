@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'LumaQQ' target in the 'LumaQQ' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

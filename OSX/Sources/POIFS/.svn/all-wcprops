@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/mac/!svn/ver/73/Sources/POIFS
+END
+POIFSConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mac/!svn/ver/73/Sources/POIFS/POIFSConstants.h
+END
+Property.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/mac/!svn/ver/3/Sources/POIFS/Property.h
+END
+POIFSFileSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mac/!svn/ver/3/Sources/POIFS/POIFSFileSystem.h
+END
+Property.mm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/mac/!svn/ver/3/Sources/POIFS/Property.mm
+END
+POIFSFileSystem.mm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/73/Sources/POIFS/POIFSFileSystem.mm
+END

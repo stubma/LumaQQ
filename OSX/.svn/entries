@@ -1,0 +1,170 @@
+8
+
+dir
+834
+http://svn.lumaqq.cn/mac
+http://svn.lumaqq.cn/mac
+
+
+
+2008-02-23T03:46:46.593989Z
+834
+luma
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a41e418f-192f-0410-99b4-9833888f77e5
+
+MailPal
+dir
+
+Frameworks
+dir
+
+Sources
+dir
+
+Other Sources
+dir
+
+LumaQQ_Prefix.pch
+file
+
+
+
+
+2008-01-27T09:58:08.000000Z
+5fd198786f6df3ca76fd88cfb3e3f30b
+2007-05-08T16:17:17.729585Z
+3
+luma
+
+zh_CN.lproj
+dir
+
+QQWry.dat
+file
+
+
+
+
+2008-01-27T09:58:09.000000Z
+6984052ffdb2a75e11b794a3650dc63a
+2007-05-21T04:51:35.578671Z
+30
+luma
+has-props
+
+QQGG_Offline.icns
+file
+
+
+
+
+2008-01-27T09:58:09.000000Z
+bde9ed0e08beb720698d437c607726c9
+2007-05-08T16:17:17.729585Z
+3
+luma
+has-props
+
+LumaQQ.xcodeproj
+dir
+
+Installer
+dir
+
+Face
+dir
+
+QQGG_Online.icns
+file
+
+
+
+
+2008-01-27T09:58:09.000000Z
+9403df5ee8fb944d083ecebee00c735e
+2007-05-08T16:17:17.729585Z
+3
+luma
+has-props
+
+QQGG_Message.icns
+file
+
+
+
+
+2008-01-27T09:58:09.000000Z
+96c35f522e3bcb8f3eecc02e76a6dc5c
+2007-05-08T16:17:17.729585Z
+3
+luma
+has-props
+
+Head
+dir
+
+LumaQQ_iPhone
+dir
+
+Images
+dir
+
+QQMM_Offline.icns
+file
+
+
+
+
+2008-01-27T09:58:09.000000Z
+d56a0ce0d8bf5d0c865768a9c9fb06a6
+2007-05-08T16:17:17.729585Z
+3
+luma
+has-props
+
+Contributor
+dir
+
+QQMM_Message.icns
+file
+
+
+
+
+2008-01-27T09:58:09.000000Z
+4b88d14e25c097830a6628a3517d13d4
+2007-05-08T16:17:17.729585Z
+3
+luma
+has-props
+
+QQMM_Online.icns
+file
+
+
+
+
+2008-01-27T09:58:09.000000Z
+d40b3c6a28f7408f9bfb86448ccc7184
+2007-05-08T16:17:17.729585Z
+3
+luma
+has-props
+
+English.lproj
+dir
+

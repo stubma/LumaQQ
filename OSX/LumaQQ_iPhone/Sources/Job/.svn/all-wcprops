@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/mac/!svn/ver/801/LumaQQ_iPhone/Sources/Job
+END
+UploadFriendGroupJob.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mac/!svn/ver/781/LumaQQ_iPhone/Sources/Job/UploadFriendGroupJob.m
+END
+GetFriendLevelJob.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/345/LumaQQ_iPhone/Sources/Job/GetFriendLevelJob.h
+END
+GetFriendLevelJob.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/781/LumaQQ_iPhone/Sources/Job/GetFriendLevelJob.m
+END
+GetCustomHeadInfoJob.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mac/!svn/ver/345/LumaQQ_iPhone/Sources/Job/GetCustomHeadInfoJob.h
+END
+JobDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/392/LumaQQ_iPhone/Sources/Job/JobDelegate.h
+END
+BaseJob.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mac/!svn/ver/781/LumaQQ_iPhone/Sources/Job/BaseJob.h
+END
+GetClusterNameCardJob.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mac/!svn/ver/801/LumaQQ_iPhone/Sources/Job/GetClusterNameCardJob.h
+END
+GetCustomHeadInfoJob.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mac/!svn/ver/361/LumaQQ_iPhone/Sources/Job/GetCustomHeadInfoJob.m
+END
+Job.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/392/LumaQQ_iPhone/Sources/Job/Job.h
+END
+BaseJob.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mac/!svn/ver/781/LumaQQ_iPhone/Sources/Job/BaseJob.m
+END
+GetRemarkJob.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/345/LumaQQ_iPhone/Sources/Job/GetRemarkJob.h
+END
+GetClusterNameCardJob.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mac/!svn/ver/801/LumaQQ_iPhone/Sources/Job/GetClusterNameCardJob.m
+END
+GetUserPropertyJob.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/345/LumaQQ_iPhone/Sources/Job/GetUserPropertyJob.h
+END
+GetFriendGroupJob.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/781/LumaQQ_iPhone/Sources/Job/GetFriendGroupJob.h
+END
+GetRemarkJob.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/781/LumaQQ_iPhone/Sources/Job/GetRemarkJob.m
+END
+GetCustomHeadDataJob.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mac/!svn/ver/392/LumaQQ_iPhone/Sources/Job/GetCustomHeadDataJob.h
+END
+GetUserPropertyJob.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/781/LumaQQ_iPhone/Sources/Job/GetUserPropertyJob.m
+END
+GetFriendGroupJob.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/781/LumaQQ_iPhone/Sources/Job/GetFriendGroupJob.m
+END
+GetCustomHeadDataJob.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mac/!svn/ver/588/LumaQQ_iPhone/Sources/Job/GetCustomHeadDataJob.m
+END
+GetClusterInfoJob.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/541/LumaQQ_iPhone/Sources/Job/GetClusterInfoJob.h
+END
+GetSignatureJob.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/345/LumaQQ_iPhone/Sources/Job/GetSignatureJob.h
+END
+GetClusterInfoJob.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/781/LumaQQ_iPhone/Sources/Job/GetClusterInfoJob.m
+END
+GetClusterVersionIdJob.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mac/!svn/ver/541/LumaQQ_iPhone/Sources/Job/GetClusterVersionIdJob.h
+END
+GetSignatureJob.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/781/LumaQQ_iPhone/Sources/Job/GetSignatureJob.m
+END
+GetClusterVersionIdJob.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mac/!svn/ver/781/LumaQQ_iPhone/Sources/Job/GetClusterVersionIdJob.m
+END
+GetOnlineMemberJob.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/541/LumaQQ_iPhone/Sources/Job/GetOnlineMemberJob.h
+END
+GetOnlineMemberJob.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/781/LumaQQ_iPhone/Sources/Job/GetOnlineMemberJob.m
+END
+GetMessageSettingJob.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mac/!svn/ver/561/LumaQQ_iPhone/Sources/Job/GetMessageSettingJob.h
+END
+GetMemberInfoJob.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/541/LumaQQ_iPhone/Sources/Job/GetMemberInfoJob.h
+END
+JobController.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/801/LumaQQ_iPhone/Sources/Job/JobController.h
+END
+GetMessageSettingJob.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mac/!svn/ver/781/LumaQQ_iPhone/Sources/Job/GetMessageSettingJob.m
+END
+JobController.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/540/LumaQQ_iPhone/Sources/Job/JobController.m
+END
+GetMemberInfoJob.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/781/LumaQQ_iPhone/Sources/Job/GetMemberInfoJob.m
+END
+UploadFriendGroupJob.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mac/!svn/ver/614/LumaQQ_iPhone/Sources/Job/UploadFriendGroupJob.h
+END

@@ -1,0 +1,43 @@
+8
+
+dir
+834
+http://svn.lumaqq.cn/mac/Sources/Plugin/QBar%20Plugin/Weather%20Plugin/English.lproj
+http://svn.lumaqq.cn/mac
+
+
+
+2007-05-19T11:16:48.105719Z
+23
+luma
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a41e418f-192f-0410-99b4-9833888f77e5
+
+WeatherQBar.nib
+dir
+
+WeatherQBar.strings
+file
+
+
+
+
+2008-01-27T09:34:26.000000Z
+9c61d78de865a029e32254366792af30
+2007-05-19T11:16:48.105719Z
+23
+luma
+

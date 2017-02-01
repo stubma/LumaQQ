@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mac/!svn/ver/244/Sources/LQUtilities/CustomFace
+END
+FaceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/48/Sources/LQUtilities/CustomFace/FaceManager.h
+END
+FaceGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/48/Sources/LQUtilities/CustomFace/FaceGroup.h
+END
+FaceManager.mm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/48/Sources/LQUtilities/CustomFace/FaceManager.mm
+END
+FaceGroup.mm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/48/Sources/LQUtilities/CustomFace/FaceGroup.mm
+END
+Face.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mac/!svn/ver/48/Sources/LQUtilities/CustomFace/Face.h
+END
+Face.mm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mac/!svn/ver/48/Sources/LQUtilities/CustomFace/Face.mm
+END
+FaceConfigParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mac/!svn/ver/72/Sources/LQUtilities/CustomFace/FaceConfigParser.h
+END
+FaceConfigParser.mm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mac/!svn/ver/244/Sources/LQUtilities/CustomFace/FaceConfigParser.mm
+END

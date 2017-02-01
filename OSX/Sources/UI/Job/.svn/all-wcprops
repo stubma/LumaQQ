@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/mac/!svn/ver/186/Sources/UI/Job
+END
+GetFriendLevelJob.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mac/!svn/ver/108/Sources/UI/Job/GetFriendLevelJob.h
+END
+GetSignatureJob.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mac/!svn/ver/108/Sources/UI/Job/GetSignatureJob.h
+END
+GetRemarkJob.mm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mac/!svn/ver/108/Sources/UI/Job/GetRemarkJob.mm
+END
+JobController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/180/Sources/UI/Job/JobController.mm
+END
+GetUserPropertyJob.mm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mac/!svn/ver/165/Sources/UI/Job/GetUserPropertyJob.mm
+END
+GetCustomHeadDataJob.mm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mac/!svn/ver/186/Sources/UI/Job/GetCustomHeadDataJob.mm
+END
+GetCustomHeadInfoJob.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mac/!svn/ver/182/Sources/UI/Job/GetCustomHeadInfoJob.h
+END
+JobDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mac/!svn/ver/108/Sources/UI/Job/JobDelegate.h
+END
+BaseJob.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/mac/!svn/ver/180/Sources/UI/Job/BaseJob.h
+END
+Job.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/mac/!svn/ver/180/Sources/UI/Job/Job.h
+END
+GetFriendLevelJob.mm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mac/!svn/ver/108/Sources/UI/Job/GetFriendLevelJob.mm
+END
+GetRemarkJob.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mac/!svn/ver/108/Sources/UI/Job/GetRemarkJob.h
+END
+GetSignatureJob.mm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mac/!svn/ver/165/Sources/UI/Job/GetSignatureJob.mm
+END
+GetUserPropertyJob.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mac/!svn/ver/108/Sources/UI/Job/GetUserPropertyJob.h
+END
+JobController.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mac/!svn/ver/185/Sources/UI/Job/JobController.h
+END
+GetCustomHeadDataJob.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mac/!svn/ver/185/Sources/UI/Job/GetCustomHeadDataJob.h
+END
+GetCustomHeadInfoJob.mm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mac/!svn/ver/183/Sources/UI/Job/GetCustomHeadInfoJob.mm
+END
+BaseJob.mm
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/mac/!svn/ver/180/Sources/UI/Job/BaseJob.mm
+END

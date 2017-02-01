@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/mac/!svn/ver/835/MailPal/Sources
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/mac/!svn/ver/837/MailPal/Sources/main.m
+END
+LocalizedStringTool.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mac/!svn/ver/837/MailPal/Sources/LocalizedStringTool.h
+END
+Mailbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/mac/!svn/ver/837/MailPal/Sources/Mailbox.h
+END
+LocalizedStringTool.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mac/!svn/ver/837/MailPal/Sources/LocalizedStringTool.m
+END
+Mailbox.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/mac/!svn/ver/837/MailPal/Sources/Mailbox.m
+END
+ByteTool.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mac/!svn/ver/841/MailPal/Sources/ByteTool.h
+END
+ByteTool.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mac/!svn/ver/841/MailPal/Sources/ByteTool.m
+END
+UIKitComplement.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mac/!svn/ver/837/MailPal/Sources/UIKitComplement.h
+END
+UIUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/mac/!svn/ver/837/MailPal/Sources/UIUtil.h
+END
+Constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mac/!svn/ver/835/MailPal/Sources/Constants.h
+END
+UIUnit.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/mac/!svn/ver/837/MailPal/Sources/UIUnit.h
+END
+MailPal.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/mac/!svn/ver/843/MailPal/Sources/MailPal.h
+END
+UIUtil.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/mac/!svn/ver/837/MailPal/Sources/UIUtil.m
+END
+MailPalApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mac/!svn/ver/837/MailPal/Sources/MailPalApp.h
+END
+UIController.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mac/!svn/ver/837/MailPal/Sources/UIController.h
+END
+UIMain.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/mac/!svn/ver/837/MailPal/Sources/UIMain.h
+END
+MailPal.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/mac/!svn/ver/843/MailPal/Sources/MailPal.m
+END
+MailPalApp.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mac/!svn/ver/837/MailPal/Sources/MailPalApp.m
+END
+UIController.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mac/!svn/ver/837/MailPal/Sources/UIController.m
+END
+UIMain.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/mac/!svn/ver/837/MailPal/Sources/UIMain.m
+END

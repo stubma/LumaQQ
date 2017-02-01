@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/mac/!svn/ver/54/Sources/LQPlugins
+END
+PluginManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mac/!svn/ver/54/Sources/LQPlugins/PluginManager.h
+END
+LQPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mac/!svn/ver/53/Sources/LQPlugins/LQPlugin.h
+END
+PluginManager.mm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mac/!svn/ver/54/Sources/LQPlugins/PluginManager.mm
+END
+QBarPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mac/!svn/ver/53/Sources/LQPlugins/QBarPlugin.h
+END
+SoundSchemaPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mac/!svn/ver/54/Sources/LQPlugins/SoundSchemaPlugin.h
+END

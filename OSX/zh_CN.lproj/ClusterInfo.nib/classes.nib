@@ -1,0 +1,51 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {
+                onAddAsFriend = id; 
+                onApply = id; 
+                onCancel = id; 
+                onOK = id; 
+                onRemoveMember = id; 
+                onSetMembers = id; 
+            }; 
+            CLASS = ClusterInfoWindowController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                "m_btnAddAsFriend" = NSButton; 
+                "m_btnApply" = NSButton; 
+                "m_btnCancel" = NSButton; 
+                "m_btnModify" = NSButton; 
+                "m_btnRemove" = NSButton; 
+                "m_btnSetMembers" = NSButton; 
+                "m_cbLevel1" = NSComboBox; 
+                "m_cbLevel2" = NSComboBox; 
+                "m_cbLevel3" = NSComboBox; 
+                "m_chkManaged" = NSButton; 
+                "m_chkSaveInServer" = NSButton; 
+                "m_headControl" = HeadControl; 
+                "m_matrixAuth" = NSMatrix; 
+                "m_matrixMessage" = NSMatrix; 
+                "m_matrixNotification" = NSMatrix; 
+                "m_memberTable" = NSTableView; 
+                "m_pbGender" = NSPopUpButton; 
+                "m_piBusy" = NSProgressIndicator; 
+                "m_tabMain" = NSTabView; 
+                "m_txtCreator" = NSTextField; 
+                "m_txtDescription" = NSTextView; 
+                "m_txtEmail" = NSTextField; 
+                "m_txtHint" = NSTextField; 
+                "m_txtId" = NSTextField; 
+                "m_txtName" = NSTextField; 
+                "m_txtNameCardName" = NSTextField; 
+                "m_txtNotice" = NSTextView; 
+                "m_txtPhone" = NSTextField; 
+                "m_txtRemark" = NSTextView; 
+            }; 
+            SUPERCLASS = NSWindowController; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = HeadControl; LANGUAGE = ObjC; SUPERCLASS = NSControl; }
+    ); 
+    IBVersion = 1; 
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIconFile</key>
+	<string>QQGG_Offline</string>
+	<key>CFBundleIdentifier</key>
+	<string>edu.tsinghua.LumaQQ</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleSignature</key>
+	<string>LUMA</string>
+	<key>CFBundleVersion</key>
+	<string>2006</string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>LumaQQApplication</string>
+	
+	<key>UTExportedTypeDeclarations</key>
+	<array>
+		<dict>
+			<key>UTTypeIdentifier</key>
+			<string>edu.tsinghua.lumaqq.chatlog</string>
+			<key>UTTypeReferenceURL</key>
+			<string>http://lumaqq.linuxsir.org/LumaQQ4Mac</string>
+			<key>UTTypeDescription</key>
+			<string>LumaQQ Chat Log</string>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.data</string>
+				<string>public.content</string>
+			</array>
+			<key>UTTypeTagSpecification</key>
+			<dict>
+				<key>com.apple.ostype</key>
+				<string>LQCL</string>
+				<key>public.filename-extension</key>
+				<array>
+					<string>lumaqqchatlog</string>
+				</array>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

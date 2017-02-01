@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/mac/!svn/ver/226/Sources/Core/CustomFace
+END
+ClusterFaceSender.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/3/Sources/Core/CustomFace/ClusterFaceSender.h
+END
+ClusterFaceSender.mm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/182/Sources/Core/CustomFace/ClusterFaceSender.mm
+END
+ClusterFaceReceiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/3/Sources/Core/CustomFace/ClusterFaceReceiver.h
+END
+ClusterFaceReceiver.mm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/3/Sources/Core/CustomFace/ClusterFaceReceiver.mm
+END

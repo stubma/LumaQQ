@@ -1,0 +1,102 @@
+8
+
+dir
+835
+http://svn.lumaqq.cn/mac/MailPal
+http://svn.lumaqq.cn/mac
+
+
+
+2008-02-27T16:42:08.072920Z
+835
+luma
+
+
+svn:special svn:externals svn:needs-lock
+
+build
+dir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+deleted
+
+Sources
+dir
+
+Info.plist
+file
+
+
+
+
+2008-02-28T00:34:47.000000Z
+5d0be640301d56fcc369a1db3f51c5ff
+2008-02-27T16:42:08.072920Z
+835
+luma
+
+zh_CN.lproj
+dir
+
+Default.png
+file
+
+
+
+
+2008-02-28T00:32:26.000000Z
+7ee72bc27a791f47a665bd9f854bda0f
+2008-02-27T16:42:08.072920Z
+835
+luma
+has-props
+
+icon.png
+file
+
+
+
+
+2008-02-28T00:32:26.000000Z
+2ed3af75281aad516b5794426c51a583
+2008-02-27T16:42:08.072920Z
+835
+luma
+has-props
+
+MailPal.xcodeproj
+dir
+
+Makefile
+file
+841
+
+
+
+2008-03-01T13:40:11.000000Z
+fccc5aaaffd73bc998165e82313e70f6
+2008-03-01T07:30:21.644457Z
+841
+luma
+
+English.lproj
+dir
+

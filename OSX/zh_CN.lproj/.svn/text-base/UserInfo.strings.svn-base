@@ -1,0 +1,28 @@
+/* Localized versions of User Info Window */
+
+LQTitleWindow = "用户资料(%u)";
+
+LQHintModifySignature = "正在修改个性签名...";
+LQHintModifyAuthQuestion = "正在修改认证问题...";
+LQHintChangePrivacy = "正在修改隐私设置...";
+LQHintModifyInfo = "正在修改个人信息...";
+LQHintModifyCard = "正在修改群名片...";
+LQHintGetInfo = "正在获取个人信息...";
+LQHintGetCard = "正在获取群名片...";
+LQHintGetLevel = "正在获取等级信息...";
+LQHintDeleteSignature = "正在删除个性签名...";
+LQHintGetQuestion = "正在获取认证问题...";
+LQHintGetSignature = "正在获取个性签名...";
+LQHintSetSearchMeByQQ = "正在修改防打扰设置...";
+
+LQAlertModifyInfoOK = "信息修改成功";
+LQAlertModifyInfoFailed = "信息修改失败，请稍后重试";
+LQAlertGetInfoOK = "信息成功刷新";
+LQAlertGetInfoFailed = "无法得到用户信息，请重试";
+
+LQHeadPet = "宠物";
+LQHeadQQTang = "QQ堂";
+LQHeadQQFantasy = "QQ幻想";
+LQHeadQQSonic = "QQ音速";
+LQHeadQQHuaXia = "QQ华夏";
+LQHeadOther = "其它";

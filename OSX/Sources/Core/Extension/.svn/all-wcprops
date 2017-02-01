@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/mac/!svn/ver/169/Sources/Core/Extension
+END
+NSString-Filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mac/!svn/ver/3/Sources/Core/Extension/NSString-Filter.h
+END
+NSData-Base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mac/!svn/ver/3/Sources/Core/Extension/NSData-Base64.h
+END
+NSData-MD5.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mac/!svn/ver/3/Sources/Core/Extension/NSData-MD5.h
+END
+NSData-QQCrypt.mm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/849/Sources/Core/Extension/NSData-QQCrypt.mm
+END
+NSMutableData-Trim.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/3/Sources/Core/Extension/NSMutableData-Trim.h
+END
+NSString-Validate.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/3/Sources/Core/Extension/NSString-Validate.h
+END
+NSString-Converter.mm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/169/Sources/Core/Extension/NSString-Converter.mm
+END
+NSData-BytesOperation.mm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mac/!svn/ver/158/Sources/Core/Extension/NSData-BytesOperation.mm
+END
+NSMutableData-CustomAppending.mm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mac/!svn/ver/134/Sources/Core/Extension/NSMutableData-CustomAppending.mm
+END
+NSNumber-Serialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/3/Sources/Core/Extension/NSNumber-Serialization.h
+END
+NSData-CRC32.mm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mac/!svn/ver/846/Sources/Core/Extension/NSData-CRC32.mm
+END
+NSData-QQCrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/846/Sources/Core/Extension/NSData-QQCrypt.h
+END
+NSString-Filter.mm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/3/Sources/Core/Extension/NSString-Filter.mm
+END
+NSString-Converter.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/3/Sources/Core/Extension/NSString-Converter.h
+END
+NSData-Base64.mm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mac/!svn/ver/3/Sources/Core/Extension/NSData-Base64.mm
+END
+NSData-MD5.mm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mac/!svn/ver/3/Sources/Core/Extension/NSData-MD5.mm
+END
+NSMutableData-Trim.mm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/3/Sources/Core/Extension/NSMutableData-Trim.mm
+END
+NSData-BytesOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/134/Sources/Core/Extension/NSData-BytesOperation.h
+END
+NSString-Validate.mm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/3/Sources/Core/Extension/NSString-Validate.mm
+END
+NSMutableData-CustomAppending.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mac/!svn/ver/134/Sources/Core/Extension/NSMutableData-CustomAppending.h
+END
+NSData-CRC32.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mac/!svn/ver/846/Sources/Core/Extension/NSData-CRC32.h
+END
+NSNumber-Serialization.mm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/3/Sources/Core/Extension/NSNumber-Serialization.mm
+END

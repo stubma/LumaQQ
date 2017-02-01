@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mac/!svn/ver/142/Sources/LQUtilities/Tooltip
+END
+SmoothTooltipTrackerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mac/!svn/ver/67/Sources/LQUtilities/Tooltip/SmoothTooltipTrackerDelegate.h
+END
+SmoothTooltipTracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mac/!svn/ver/142/Sources/LQUtilities/Tooltip/SmoothTooltipTracker.h
+END
+SmoothTooltipTracker.mm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mac/!svn/ver/142/Sources/LQUtilities/Tooltip/SmoothTooltipTracker.mm
+END

@@ -1,0 +1,21 @@
+/* localized string for outline tooltip */
+
+LQTooltipRemarkName = "备注名称: %@";
+LQTooltipStatusMessage = "状态信息: %@";
+LQTooltipUnknownGroup = "未知组";
+LQTooltipNotSet = "<无>";
+LQTooltipBelongToCluster = "所在群: %@(%u)";
+LQTooltipClusterNameCard = "群名片: %@";
+LQTooltipMemberRole = "用户在群中的角色: %@";
+LQTooltipCreator = "创建者: %@(%u)";
+LQTooltipMemberCount = "成员数: %u";
+
+LQRoleCreator = "创建者";
+LQRoleAdmin = "管理员";
+LQRoleStockholder = "股东";
+LQRoleNormal = "普通成员";
+
+LQTypeNormalCluster = "普通群";
+LQTypeAdvancedCluster = "高级群";
+LQTypeSubject = "讨论组";
+LQTypeDialog = "多人对话";

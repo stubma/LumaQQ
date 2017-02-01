@@ -1,0 +1,9 @@
+/* string for delete user window */
+
+LQTitle = "把用户%@(%u)从好友列表删除";
+
+LQHintGetAuthInfo = "正在获取认证信息...";
+LQHintDeleteOK = "成功把用户从好友列表删除";
+LQHintDeleteFailed = "删除用户失败，请重试";
+LQHintDeleteFriend = "正在删除好友...";
+LQHintRemoveFromServerList = "正在把用户从服务器端好友列表中删除...";

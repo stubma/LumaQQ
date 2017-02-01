@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mac/!svn/ver/813/LumaQQ_iPhone/Sources/UI/View
+END
+GroupCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/526/LumaQQ_iPhone/Sources/UI/View/GroupCell.h
+END
+ImageProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/715/LumaQQ_iPhone/Sources/UI/View/ImageProvider.h
+END
+ImageChooserDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mac/!svn/ver/716/LumaQQ_iPhone/Sources/UI/View/ImageChooserDelegate.h
+END
+GroupCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/723/LumaQQ_iPhone/Sources/UI/View/GroupCell.m
+END
+UserIMCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/457/LumaQQ_iPhone/Sources/UI/View/UserIMCell.h
+END
+AccountTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/395/LumaQQ_iPhone/Sources/UI/View/AccountTable.h
+END
+ImageChooser.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/715/LumaQQ_iPhone/Sources/UI/View/ImageChooser.h
+END
+ChatLogIMCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/624/LumaQQ_iPhone/Sources/UI/View/ChatLogIMCell.h
+END
+ClusterIMCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/457/LumaQQ_iPhone/Sources/UI/View/ClusterIMCell.h
+END
+UserIMCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/671/LumaQQ_iPhone/Sources/UI/View/UserIMCell.m
+END
+AccountTable.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/395/LumaQQ_iPhone/Sources/UI/View/AccountTable.m
+END
+SystemIMCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/649/LumaQQ_iPhone/Sources/UI/View/SystemIMCell.h
+END
+ImageChooser.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/715/LumaQQ_iPhone/Sources/UI/View/ImageChooser.m
+END
+ChatLogIMCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/789/LumaQQ_iPhone/Sources/UI/View/ChatLogIMCell.m
+END
+ClusterIMCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/671/LumaQQ_iPhone/Sources/UI/View/ClusterIMCell.m
+END
+UserCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/802/LumaQQ_iPhone/Sources/UI/View/UserCell.h
+END
+SystemIMCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/671/LumaQQ_iPhone/Sources/UI/View/SystemIMCell.m
+END
+UISwipeDeleteTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mac/!svn/ver/797/LumaQQ_iPhone/Sources/UI/View/UISwipeDeleteTable.h
+END
+ClusterCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/570/LumaQQ_iPhone/Sources/UI/View/ClusterCell.h
+END
+BubbleIMCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/625/LumaQQ_iPhone/Sources/UI/View/BubbleIMCell.h
+END
+PushButtonTableCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mac/!svn/ver/399/LumaQQ_iPhone/Sources/UI/View/PushButtonTableCell.h
+END
+UserCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/804/LumaQQ_iPhone/Sources/UI/View/UserCell.m
+END
+UISwipeDeleteTable.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mac/!svn/ver/798/LumaQQ_iPhone/Sources/UI/View/UISwipeDeleteTable.m
+END
+ClusterCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/813/LumaQQ_iPhone/Sources/UI/View/ClusterCell.m
+END
+BubbleIMCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/789/LumaQQ_iPhone/Sources/UI/View/BubbleIMCell.m
+END
+PushButtonTableCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mac/!svn/ver/418/LumaQQ_iPhone/Sources/UI/View/PushButtonTableCell.m
+END

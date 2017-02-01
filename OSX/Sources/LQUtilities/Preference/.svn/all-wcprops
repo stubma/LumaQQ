@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mac/!svn/ver/217/Sources/LQUtilities/Preference
+END
+PreferenceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mac/!svn/ver/51/Sources/LQUtilities/Preference/PreferenceManager.h
+END
+PreferenceConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mac/!svn/ver/189/Sources/LQUtilities/Preference/PreferenceConstants.h
+END
+PreferenceManager.mm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mac/!svn/ver/51/Sources/LQUtilities/Preference/PreferenceManager.mm
+END
+PreferenceCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mac/!svn/ver/155/Sources/LQUtilities/Preference/PreferenceCache.h
+END
+FontTool.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/217/Sources/LQUtilities/Preference/FontTool.h
+END
+PreferenceCache.mm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mac/!svn/ver/155/Sources/LQUtilities/Preference/PreferenceCache.mm
+END
+FontTool.mm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/217/Sources/LQUtilities/Preference/FontTool.mm
+END

@@ -1,0 +1,28 @@
+/* Localized versions of Add Friend window */
+
+LQTitle = "添加 %@(%u) 为好友";
+
+LQHintReady = "准备好进行下一步操作";
+LQHintAddFriend = "正在添加好友...";
+LQHintGetAuthInfo = "正在请求验证信息...";
+LQHintGetVerifyCodeImage = "正在获取验证码图片...";
+LQHintNeedAuth = "对方需要你的验证信息";
+LQHintAdded = "你已成功添加对方为好友";
+LQHintDenied = "对方拒绝任何人添加他为好友";
+LQHintVerifyCodeImageRefreshed = "验证码图片已经刷新";
+LQHintAuthorize = "正在发送认证信息...";
+LQHintAnswerQuestion = "正在提交认证问题答案...";
+LQHintSubmitVerifyCode = "正在提交验证码...";
+LQHintVerifyCodeRetry = "验证码错误，请重新输入";
+LQHintAnswerRetry = "认证问题答案错误，请重新输入";
+LQHintAuthorizeOK = "验证信息已成功发送，请等待对方批准.";
+LQHintAuthorizeFailed = "验证信息发送失败，请重试";
+LQHintNeedAnswer = "对方需要你回答他的认证问题";
+LQHintGetQuestionFailed = "无法得到对方的认证问题，请重试";
+LQHintGetQuestion = "正在获取对方的认证问题...";
+LQHintAddFriendTimeout = "添加好友超时，请稍后重试";
+LQHintAuthInfoTimeout = "获取验证信息超时，请稍后重试";
+LQHintQuestionOpTimeout = "提交认证问题答案超时，请稍后重试";
+LQHintAuthorizeTimeout = "提交验证信息超时，请稍后重试";
+
+LQWarningOperating = "当前有操作进行中，请等待完成后再关闭窗口";

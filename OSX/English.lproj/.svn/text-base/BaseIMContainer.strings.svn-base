@@ -1,0 +1,20 @@
+/** localized string for base im container */
+
+LQTooltipFont = "Change Font";
+LQTooltipColor = "Change Font Color";
+LQTooltipFace = "Select Face";
+LQTooltipSendPicture = "Send Picture";
+LQTooltipScreenscrap = "Send Screenscrap";
+LQTooltipKeySetting = "Key Setting";
+LQTooltipHistory = "Chat History";
+LQTooltipOwner = "%@	(Click to See More Info)";
+LQTooltipSwitchMemberView = "Show/Hide Member List";
+
+LQWarningEmptyMessage = "Can't send empty message!";
+LQWarningHasPendingMessage = "Some sending message will be cancelled if you close this window. Do you still want to close?";
+LQWarningTooManyPicture = "Too many pictures, can't send";
+LqWarningTooLong = "Message is too long to send";
+
+LQHintTimeoutHeader = "\nThe message:\"";
+LQHintTimeoutTail = "\" is failed to send, please retry";
+LQHintCustomFaceFailedToSend = "\nCustom face send failed: %@";

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/mac/!svn/ver/319/Sources/Core/Tool
+END
+ByteBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mac/!svn/ver/846/Sources/Core/Tool/ByteBuffer.h
+END
+ByteBuffer.mm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/846/Sources/Core/Tool/ByteBuffer.mm
+END
+ByteTool.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mac/!svn/ver/846/Sources/Core/Tool/ByteTool.h
+END
+SystemTool.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mac/!svn/ver/847/Sources/Core/Tool/SystemTool.h
+END
+ByteTool.mm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mac/!svn/ver/851/Sources/Core/Tool/ByteTool.mm
+END
+SystemTool.mm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/847/Sources/Core/Tool/SystemTool.mm
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/mac/!svn/ver/138/Sources/Luminance
+END
+LuminanceWindowController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/132/Sources/Luminance/LuminanceWindowController.mm
+END
+StringInterpreter.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mac/!svn/ver/134/Sources/Luminance/StringInterpreter.h
+END
+Md5Interpreter.mm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mac/!svn/ver/134/Sources/Luminance/Md5Interpreter.mm
+END
+LuminanceViewController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/131/Sources/Luminance/LuminanceViewController.mm
+END
+IPInterpreter.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mac/!svn/ver/134/Sources/Luminance/IPInterpreter.h
+END
+DataInterpreter.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mac/!svn/ver/134/Sources/Luminance/DataInterpreter.h
+END
+IntegerInterpreter.mm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/134/Sources/Luminance/IntegerInterpreter.mm
+END
+LuminanceView.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mac/!svn/ver/134/Sources/Luminance/LuminanceView.h
+END
+LuminanceWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/132/Sources/Luminance/LuminanceWindowController.h
+END
+Md5Interpreter.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mac/!svn/ver/134/Sources/Luminance/Md5Interpreter.h
+END
+LuminanceViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/131/Sources/Luminance/LuminanceViewController.h
+END
+StringInterpreter.mm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mac/!svn/ver/138/Sources/Luminance/StringInterpreter.mm
+END
+IPInterpreter.mm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mac/!svn/ver/134/Sources/Luminance/IPInterpreter.mm
+END
+IntegerInterpreter.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mac/!svn/ver/134/Sources/Luminance/IntegerInterpreter.h
+END
+LuminanceView.mm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mac/!svn/ver/134/Sources/Luminance/LuminanceView.mm
+END

@@ -1,0 +1,71 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = HeadControl; LANGUAGE = ObjC; SUPERCLASS = NSControl; }, 
+        {
+            CLASS = ImageSelector; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {"m_dataSource" = id; }; 
+            SUPERCLASS = NSControl; 
+        }, 
+        {CLASS = LevelControl; LANGUAGE = ObjC; SUPERCLASS = NSControl; }, 
+        {
+            ACTIONS = {
+                onApply = id; 
+                onAuthTypeChanged = id; 
+                onCancel = id; 
+                onHead = id; 
+                onOK = id; 
+                onRefreshQQShow = id; 
+            }; 
+            CLASS = UserInfoWindowController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                "m_btnApplyOrCancel" = NSButton; 
+                "m_btnCancelOrUpdate" = NSButton; 
+                "m_btnOK" = NSButton; 
+                "m_btnRefreshQQShow" = NSButton; 
+                "m_cbCity" = NSComboBox; 
+                "m_cbCountry" = NSComboBox; 
+                "m_cbGender" = NSComboBox; 
+                "m_cbOccupation" = NSComboBox; 
+                "m_cbProvince" = NSComboBox; 
+                "m_cbQuestion" = NSComboBox; 
+                "m_chkSearchByQQ" = NSButton; 
+                "m_headControl" = HeadControl; 
+                "m_ivQQShow" = NSImageView; 
+                "m_levelControl" = LevelControl; 
+                "m_matrixAuthType" = NSMatrix; 
+                "m_pbBlood" = NSPopUpButton; 
+                "m_pbHoroscope" = NSPopUpButton; 
+                "m_pbNameCardGender" = NSPopUpButton; 
+                "m_pbVisibility" = NSPopUpButton; 
+                "m_pbZodiac" = NSPopUpButton; 
+                "m_piBusy" = NSProgressIndicator; 
+                "m_piDownloading" = NSProgressIndicator; 
+                "m_tabMain" = NSTabView; 
+                "m_txtAddress" = NSTextField; 
+                "m_txtAge" = NSTextField; 
+                "m_txtAnswer" = NSTextField; 
+                "m_txtCollege" = NSTextField; 
+                "m_txtEmail" = NSTextField; 
+                "m_txtHint" = NSTextField; 
+                "m_txtHomepage" = NSTextField; 
+                "m_txtIntroduction" = NSTextView; 
+                "m_txtMobile" = NSTextField; 
+                "m_txtName" = NSTextField; 
+                "m_txtNameCardEmail" = NSTextField; 
+                "m_txtNameCardName" = NSTextField; 
+                "m_txtNameCardPhone" = NSTextField; 
+                "m_txtNameCardRemark" = NSTextView; 
+                "m_txtNick" = NSTextField; 
+                "m_txtQQ" = NSTextField; 
+                "m_txtSignature" = NSTextView; 
+                "m_txtTelephone" = NSTextField; 
+                "m_txtZipcode" = NSTextField; 
+            }; 
+            SUPERCLASS = NSWindowController; 
+        }
+    ); 
+    IBVersion = 1; 
+}

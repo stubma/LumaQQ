@@ -1,0 +1,185 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = HeadControl; LANGUAGE = ObjC; SUPERCLASS = NSControl; }, 
+        {CLASS = MainQQListener; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {
+                onActionButton = id; 
+                onAddAsFriend = id; 
+                onAddCluster = id; 
+                onAddUser = id; 
+                onApplyForAllClusters = id; 
+                onAway = id; 
+                onBusy = id; 
+                onCancel = id; 
+                onChangeStatusMessage = id; 
+                onChat = id; 
+                onClearAllRecentContacts = id; 
+                onClearFilter = id; 
+                onClearStatusHistory = id; 
+                onClusterMessageSetting = id; 
+                onColorChanged = id; 
+                onCreateDialog = id; 
+                onCreateSubject = id; 
+                onDeleteGroup = id; 
+                onDeleteMobile = id; 
+                onDeleteUser = id; 
+                onDisplaySetting = id; 
+                onDisplaySettingCancel = id; 
+                onDisplaySettingOK = id; 
+                onDoubleClick = id; 
+                onEditOrganization = id; 
+                onExitCluster = id; 
+                onExtractMessage = id; 
+                onFilter = id; 
+                onFontChanged = id; 
+                onGroupSelectCancel = id; 
+                onGroupSelectOK = id; 
+                onHeadItem = id; 
+                onHidden = id; 
+                onInputCancel = id; 
+                onInputOK = id; 
+                onLogoutAndClose = id; 
+                onMobileInfoCancel = id; 
+                onMobileInfoOK = id; 
+                onModifyMobile = id; 
+                onModifyNickFont = id; 
+                onModifyRemarkName = id; 
+                onModifySignatureFont = id; 
+                onMoveToBlacklist = id; 
+                onMute = id; 
+                onMyInfo = id; 
+                onNewGroup = id; 
+                onNewMobile = id; 
+                onNickFontColorWell = id; 
+                onNickName = id; 
+                onOffline = id; 
+                onOnline = id; 
+                onOpenFaceManager = id; 
+                onOutlineBackgroundColorWell = id; 
+                onPreference = id; 
+                onQBarPluginCancel = id; 
+                onQBarPluginOK = id; 
+                onQMe = id; 
+                onQQNumber = id; 
+                onQuicklyAddUser = id; 
+                onRealName = id; 
+                onRefreshFriendList = id; 
+                onRefreshFriendRemark = id; 
+                onRefreshFriendSignature = id; 
+                onRemoveFromRecentContact = id; 
+                onRenameGroup = id; 
+                onRestoreFromAutoHide = id; 
+                onScreenscrap = id; 
+                onSearch = id; 
+                onSendSMSToMobile = id; 
+                onSendSMSToQQ = id; 
+                onSignature = id; 
+                onSignatureFontColorWell = id; 
+                onStatusHistory = id; 
+                onSystemMessageList = id; 
+                onTempSession = id; 
+                onUpdateOrganization = id; 
+                onUserInfo = id; 
+                onViewInfo = id; 
+            }; 
+            CLASS = MainWindowController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                "m_actionMenu" = NSMenu; 
+                "m_btnDisplaySetting" = NSButton; 
+                "m_btnSearchWizard" = NSButton; 
+                "m_btnSystemMessageList" = NSButton; 
+                "m_cbGroup" = NSComboBox; 
+                "m_chkAlternatingRowBackground" = NSButton; 
+                "m_chkShowClusterNameCard" = NSButton; 
+                "m_chkShowFriendLevel" = NSButton; 
+                "m_chkShowHorizontalLine" = NSButton; 
+                "m_chkShowLargeUserHead" = NSButton; 
+                "m_chkShowNickName" = NSButton; 
+                "m_chkShowOnlineOnly" = NSButton; 
+                "m_chkShowRealName" = NSButton; 
+                "m_chkShowSignature" = NSButton; 
+                "m_chkShowStatusMessage" = NSButton; 
+                "m_chkShowUserProperty" = NSButton; 
+                "m_clusterOutline" = QQOutlineView; 
+                "m_displaySettingDrawer" = NSDrawer; 
+                "m_groupSelectWindow" = NSWindow; 
+                "m_headMenu" = NSMenu; 
+                "m_inputWindow" = NSWindow; 
+                "m_ivSide" = NSImageView; 
+                "m_messageSettingMenu" = NSMenu; 
+                "m_mobileInfoWindow" = NSWindow; 
+                "m_mobileTable" = QQTableView; 
+                "m_nickNameItem" = NSMenuItem; 
+                "m_outlineBackgroundColorWell" = NSColorWell; 
+                "m_outlineDefaultFontColorWell" = NSColorWell; 
+                "m_outlineSwitcher" = PSMTabBarControl; 
+                "m_piLogin" = NSProgressIndicator; 
+                "m_pluginTable" = NSTableView; 
+                "m_progressBar" = NSProgressIndicator; 
+                "m_progressWindow" = NSWindow; 
+                "m_qbarView" = QBarView; 
+                "m_qqItem" = NSMenuItem; 
+                "m_realNameItem" = NSMenuItem; 
+                "m_recentTable" = QQTableView; 
+                "m_searchField" = NSSearchField; 
+                "m_searchMenu" = NSMenu; 
+                "m_sideView" = SideView; 
+                "m_signatureFontColorWell" = NSColorWell; 
+                "m_signatureItem" = NSMenuItem; 
+                "m_tabGroup" = NSTabView; 
+                "m_tabMain" = NSTabView; 
+                "m_txtHint" = NSTextField; 
+                "m_txtInput" = NSTextField; 
+                "m_txtInputTitle" = NSTextField; 
+                "m_txtMobileName" = NSTextField; 
+                "m_txtMobileNumber" = NSTextField; 
+                "m_txtProgressHint" = NSTextField; 
+                "m_txtQBarPluginCount" = NSTextField; 
+                "m_txtSide" = NSTextField; 
+                "m_userOutline" = QQOutlineView; 
+                "m_verifyCodeWindowController" = VerifyCodeWindowController; 
+                "m_winQBarPlugins" = NSWindow; 
+            }; 
+            SUPERCLASS = NSWindowController; 
+        }, 
+        {CLASS = NSObject; LANGUAGE = ObjC; }, 
+        {CLASS = NSSegmentedControl; LANGUAGE = ObjC; SUPERCLASS = NSControl; }, 
+        {
+            CLASS = PSMTabBarControl; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {delegate = id; partnerView = id; style = id; tabView = NSTabView; }; 
+            SUPERCLASS = NSControl; 
+        }, 
+        {
+            CLASS = QBarView; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {"m_box" = NSBox; }; 
+            SUPERCLASS = NSView; 
+        }, 
+        {CLASS = QQOutlineView; LANGUAGE = ObjC; SUPERCLASS = NSOutlineView; }, 
+        {CLASS = QQTableView; LANGUAGE = ObjC; SUPERCLASS = NSTableView; }, 
+        {CLASS = ShortcutTextField; LANGUAGE = ObjC; SUPERCLASS = NSTextField; }, 
+        {CLASS = SideView; LANGUAGE = ObjC; SUPERCLASS = NSView; }, 
+        {CLASS = TrackBox; LANGUAGE = ObjC; SUPERCLASS = NSBox; }, 
+        {
+            ACTIONS = {onCancel = id; onChangeImage = id; onOK = id; }; 
+            CLASS = VerifyCodeWindowController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                btnCancel = NSButton; 
+                btnChangeImage = NSButton; 
+                btnOK = NSButton; 
+                imgVerifyCode = NSImageView; 
+                mainWindowController = MainWindowController; 
+                piBusy = NSProgressIndicator; 
+                txtVerifyCode = NSTextField; 
+                winVerifyCode = NSWindow; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}

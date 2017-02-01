@@ -1,0 +1,46 @@
+8
+
+dir
+834
+http://svn.lumaqq.cn/mac/Sources/Spotlight/Resources
+http://svn.lumaqq.cn/mac
+
+
+
+2007-10-17T14:48:00.589528Z
+230
+luma
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a41e418f-192f-0410-99b4-9833888f77e5
+
+schema.xml
+file
+
+
+
+
+2008-01-27T09:44:05.000000Z
+715d8bcd78b15879157f049b00b5057e
+2007-10-17T14:48:00.589528Z
+230
+luma
+
+zh_CN.lproj
+dir
+
+English.lproj
+dir
+

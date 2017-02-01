@@ -1,0 +1,23 @@
+/* localized string for temp cluster windows */
+
+LQTitleCreateSubject = "Create Subject In %@(%u)";
+LQTitleModifySubject = "Modify Subject %@";
+LQTitleCreateDialog = "Create Dialog";
+LQTitleModifyDialog = "Modify Dialog %@";
+
+LQWarningEmptyName = "Please input a name";
+LQWarningNeedMoreMember = "Please include at least two members";
+LQWarningCreateFailed = "Create failed, please retry";
+LQWarningModifyFailed = "Modify failed, please retry";
+LQInfoCreateSuccess = "Create successfully";
+LQInfoModifySuccess = "Modify successfully";
+
+LQHintCreateSubject = "Creating Subject...";
+LQHintModifySubjectName = "Modifying Subject Name...";
+LQHintAddSubjectMember = "Adding Subject Member...";
+LQHintRemoveSubjectMember = "Removing Subject Member...";
+LQHintActivateSubject = "Activating Subject...";
+LQHintCreateDialog = "Creating Dialog...";
+LQHintActivateDialog = "Activating Dialog...";
+LQHintGetSubjectInfo = "Getting Subject Info...";
+LQHintGetDialogInfo = "Getting Dialog Info...";

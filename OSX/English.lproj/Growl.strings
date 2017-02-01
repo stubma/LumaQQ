@@ -1,0 +1,30 @@
+/* localized string for growl */
+
+LQNotificationUserOnline = "User Online";
+LQNotificationUserOffline = "User Offline";
+LQNotificationUserMessage = "User Message";
+LQNotificationClusterMessage = "Cluster Message";
+LQNotificationSystemMessage = "System Message";
+LQNotificationMobileMessage = "Mobile Message";
+LQNotificationLogin = "Login";
+LQNotificationLogout = "Logout";
+
+LQTitleLoginSuccess = "Login Successfully (%u)";
+LQTitleKickedOut = "Kicked Out (%u)";
+LQTitleLogout = "Logout (%u)";
+LQTitleUserOnline = "Here comes friend %@!";
+LQTitleUserOffline = "%@ has gone";
+LQTitleNormalIM = "%@ Said To You";
+LQTitleClusterIM = "%@, From Cluster %@";
+LQTitleSubjectIM = "%@, From Subject %@";
+LQTitleDialogIM = "%@, From Dialog %@";   
+LQTitleMobileIM = "Mobile Friend %@";
+LQTitleMobileIMFromUser = "%@, From Mobile";
+LQTitleSystemIM = "System Message";
+LQTitleTempSessionIM = "%@ Talk to You Thru Temp Session";
+
+LQDescLoginSuccess = "Last Login Time: %@\nCurrent Login IP: %@";
+LQDescKickedOut = "Your account is logged in elsewhere, you have to be offline";
+LQDescLogout = "You logged out";
+LQDescUserOnline = "%@ is online, click here to chat with him";
+LQDescUserOffline = "%@ has gone with the wind";

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/mac/!svn/ver/222/Sources/UI/Shared
+END
+ApplicationController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/222/Sources/UI/Shared/ApplicationController.mm
+END
+HistoryDrawerController.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/3/Sources/UI/Shared/HistoryDrawerController.h
+END
+KeyboardShortcutWindowController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mac/!svn/ver/22/Sources/UI/Shared/KeyboardShortcutWindowController.mm
+END
+HistoryDrawerController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/3/Sources/UI/Shared/HistoryDrawerController.mm
+END
+AnimatedWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/3/Sources/UI/Shared/AnimatedWindowController.h
+END
+AnimatedWindowController.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/3/Sources/UI/Shared/AnimatedWindowController.m
+END
+LumaQQApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mac/!svn/ver/3/Sources/UI/Shared/LumaQQApplication.h
+END
+AboutWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/3/Sources/UI/Shared/AboutWindowController.h
+END
+LumaQQApplication.mm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mac/!svn/ver/161/Sources/UI/Shared/LumaQQApplication.mm
+END
+ApplicationController.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/220/Sources/UI/Shared/ApplicationController.h
+END
+AboutWindowController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/125/Sources/UI/Shared/AboutWindowController.mm
+END
+KeyboardShortcutWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mac/!svn/ver/3/Sources/UI/Shared/KeyboardShortcutWindowController.h
+END

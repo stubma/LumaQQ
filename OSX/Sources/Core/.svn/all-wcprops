@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/mac/!svn/ver/704/Sources/Core
+END
+Network.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/mac/!svn/ver/226/Sources/Core/Network.h
+END
+Packets.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/mac/!svn/ver/226/Sources/Core/Packets.h
+END
+QQClientDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/183/Sources/Core/QQClientDelegate.h
+END
+QQConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mac/!svn/ver/851/Sources/Core/QQConstants.h
+END
+QQClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/mac/!svn/ver/856/Sources/Core/QQClient.h
+END
+QQ.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/mac/!svn/ver/226/Sources/Core/QQ.h
+END
+QQClient.mm
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/mac/!svn/ver/856/Sources/Core/QQClient.mm
+END
+Events.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/mac/!svn/ver/226/Sources/Core/Events.h
+END
+Beans.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/mac/!svn/ver/226/Sources/Core/Beans.h
+END

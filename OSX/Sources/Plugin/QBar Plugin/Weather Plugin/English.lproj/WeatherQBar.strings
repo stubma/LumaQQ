@@ -1,0 +1,21 @@
+/** string for weather QBar window */
+
+LQPluginDescription = "Display weather of today, including temperature, wind bearing";
+LQTemperature = "Temp.: %d℃ ~ %d℃";
+LQWindBearing = "Wind: %@";
+LQCityWeather = "%@: %@";
+
+LQSunny = "晴";
+LQCloudy = "多云";
+LQOverCast = "阴";
+LQShower = "阵雨";
+LQSpit = "小雨";
+LQModerateRain = "中雨";
+LQDownfall = "大雨";
+LQThundershower = "雷阵雨";
+LQLightSnow = "小雪";
+LQMiddleSnow = "中雪";
+LQHeavySnow = "大雪";
+LQFog = "雾";
+LQHail = "冰雹";
+LQTurnInto = "转";

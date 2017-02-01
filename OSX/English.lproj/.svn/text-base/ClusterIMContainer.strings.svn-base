@@ -1,0 +1,8 @@
+/* localized string for normal IM window */
+
+LQClusterTitle = "%@(%u)";
+LQSubjectTitle = "Subject: %@";
+LQDialogTitle = "Dialog: %@";
+
+LQSubjectNotice = "This subject belongs to cluster \"%@\"";
+LQDialogNotice = "Dialog Creator: %@";

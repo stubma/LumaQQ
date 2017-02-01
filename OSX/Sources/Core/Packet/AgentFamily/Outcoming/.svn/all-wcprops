@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/3/Sources/Core/Packet/AgentFamily/Outcoming
+END
+ClientTransferPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mac/!svn/ver/3/Sources/Core/Packet/AgentFamily/Outcoming/ClientTransferPacket.h
+END
+ClientTransferPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mac/!svn/ver/3/Sources/Core/Packet/AgentFamily/Outcoming/ClientTransferPacket.mm
+END
+RequestAgentPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mac/!svn/ver/3/Sources/Core/Packet/AgentFamily/Outcoming/RequestAgentPacket.h
+END
+RequestFacePacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mac/!svn/ver/3/Sources/Core/Packet/AgentFamily/Outcoming/RequestFacePacket.h
+END
+RequestAgentPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mac/!svn/ver/3/Sources/Core/Packet/AgentFamily/Outcoming/RequestAgentPacket.mm
+END
+RequestFacePacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mac/!svn/ver/3/Sources/Core/Packet/AgentFamily/Outcoming/RequestFacePacket.mm
+END
+RequestBeginPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mac/!svn/ver/3/Sources/Core/Packet/AgentFamily/Outcoming/RequestBeginPacket.h
+END
+RequestBeginPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mac/!svn/ver/3/Sources/Core/Packet/AgentFamily/Outcoming/RequestBeginPacket.mm
+END

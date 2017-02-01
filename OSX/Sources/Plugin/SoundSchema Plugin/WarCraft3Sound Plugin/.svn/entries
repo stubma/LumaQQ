@@ -1,0 +1,61 @@
+8
+
+dir
+834
+http://svn.lumaqq.cn/mac/Sources/Plugin/SoundSchema%20Plugin/WarCraft3Sound%20Plugin
+http://svn.lumaqq.cn/mac
+
+
+
+2007-08-07T03:57:27.204268Z
+111
+luma
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a41e418f-192f-0410-99b4-9833888f77e5
+
+zh_CN.lproj
+dir
+
+Resources
+dir
+
+WarCraft3Sound.h
+file
+
+
+
+
+2008-01-27T09:37:46.000000Z
+b2ad207d97bdfa64fbfeb6141cae1117
+2007-08-07T03:57:27.204268Z
+111
+luma
+
+WarCraft3Sound.mm
+file
+
+
+
+
+2008-01-27T09:37:46.000000Z
+73298a817948d59f1aa10c0a371eac0b
+2007-08-07T03:57:27.204268Z
+111
+luma
+
+English.lproj
+dir
+

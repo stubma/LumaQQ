@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mac/!svn/ver/202/Sources/LQUtilities/HotKey
+END
+KeyDevour.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mac/!svn/ver/45/Sources/LQUtilities/HotKey/KeyDevour.h
+END
+HotKeyManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/45/Sources/LQUtilities/HotKey/HotKeyManager.h
+END
+HotKeyManager.mm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/202/Sources/LQUtilities/HotKey/HotKeyManager.mm
+END
+HotKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mac/!svn/ver/45/Sources/LQUtilities/HotKey/HotKey.h
+END
+HotKey.mm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mac/!svn/ver/202/Sources/LQUtilities/HotKey/HotKey.mm
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/mac/!svn/ver/838/MailPal/Sources/Extension
+END
+NSString-Filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/838/MailPal/Sources/Extension/NSString-Filter.h
+END
+NSData-Base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/838/MailPal/Sources/Extension/NSData-Base64.h
+END
+NSMutableData-Trim.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/838/MailPal/Sources/Extension/NSMutableData-Trim.h
+END
+NSData-MD5.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mac/!svn/ver/838/MailPal/Sources/Extension/NSData-MD5.h
+END
+NSString-Validate.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/838/MailPal/Sources/Extension/NSString-Validate.h
+END
+NSString-Filter.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/838/MailPal/Sources/Extension/NSString-Filter.m
+END
+NSData-Base64.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/838/MailPal/Sources/Extension/NSData-Base64.m
+END
+NSMutableData-Trim.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/838/MailPal/Sources/Extension/NSMutableData-Trim.m
+END
+NSData-MD5.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mac/!svn/ver/838/MailPal/Sources/Extension/NSData-MD5.m
+END
+NSString-Validate.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/838/MailPal/Sources/Extension/NSString-Validate.m
+END
+NSNumber-Serialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mac/!svn/ver/838/MailPal/Sources/Extension/NSNumber-Serialization.h
+END
+NSNumber-Serialization.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mac/!svn/ver/838/MailPal/Sources/Extension/NSNumber-Serialization.m
+END
+NSString-Converter.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/838/MailPal/Sources/Extension/NSString-Converter.h
+END
+NSData-BytesOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mac/!svn/ver/838/MailPal/Sources/Extension/NSData-BytesOperation.h
+END
+NSString-Converter.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/838/MailPal/Sources/Extension/NSString-Converter.m
+END
+NSMutableData-CustomAppending.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mac/!svn/ver/838/MailPal/Sources/Extension/NSMutableData-CustomAppending.h
+END
+NSData-BytesOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mac/!svn/ver/838/MailPal/Sources/Extension/NSData-BytesOperation.m
+END
+NSMutableData-CustomAppending.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mac/!svn/ver/838/MailPal/Sources/Extension/NSMutableData-CustomAppending.m
+END

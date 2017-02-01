@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/mac/!svn/ver/695/Sources/UI/Auth
+END
+AddFriendWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/145/Sources/UI/Auth/AddFriendWindowController.h
+END
+UserAuthWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/695/Sources/UI/Auth/UserAuthWindowController.h
+END
+AuthWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mac/!svn/ver/3/Sources/UI/Auth/AuthWindowController.h
+END
+JoinClusterWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/147/Sources/UI/Auth/JoinClusterWindowController.h
+END
+AddFriendWindowController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/145/Sources/UI/Auth/AddFriendWindowController.mm
+END
+UserAuthWindowController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/695/Sources/UI/Auth/UserAuthWindowController.mm
+END
+AuthWindowController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mac/!svn/ver/3/Sources/UI/Auth/AuthWindowController.mm
+END
+ClusterAuthWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/3/Sources/UI/Auth/ClusterAuthWindowController.h
+END
+JoinClusterWindowController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/147/Sources/UI/Auth/JoinClusterWindowController.mm
+END
+ClusterAuthWindowController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/3/Sources/UI/Auth/ClusterAuthWindowController.mm
+END

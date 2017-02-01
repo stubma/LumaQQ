@@ -1,0 +1,7 @@
+/* Localized versions of login UI */
+
+LQEmptyQQ = "Please supply QQ number!";
+LQInvalidQQ = "QQ number should be larger than 10000";
+LQWarningEmptyPassword = "You have an empty password, are you sure?";
+
+LQQuestion1 = "Your password is inconsistent with last login, do you still want to continute?";

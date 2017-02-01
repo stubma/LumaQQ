@@ -1,0 +1,49 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {
+                onColor = id; 
+                onColorChanged = id; 
+                onFaceManager = id; 
+                onFont = id; 
+                onScreenscrap = id; 
+                onSend = id; 
+                onSendPicture = id; 
+                onSmiley = id; 
+            }; 
+            CLASS = BaseIMContainer; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                "m_imView" = NSView; 
+                "m_obj" = id; 
+                "m_txtInput" = QQTextView; 
+                "m_txtOutput" = QQTextView; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = HeadControl; LANGUAGE = ObjC; SUPERCLASS = NSControl; }, 
+        {CLASS = NSLevelIndicator; LANGUAGE = ObjC; SUPERCLASS = NSControl; }, 
+        {CLASS = NSSegmentedControl; LANGUAGE = ObjC; SUPERCLASS = NSControl; }, 
+        {
+            CLASS = NormalIMContainerController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                "m_split" = QQSplitView; 
+                "m_txtLocation" = NSTextField; 
+                "m_txtSignature" = NSTextField; 
+            }; 
+            SUPERCLASS = BaseIMContainer; 
+        }, 
+        {
+            ACTIONS = {onClose = id; onKeySetting = id; }; 
+            CLASS = NormalIMWindowController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {"m_btnKeySetting" = NSButton; "m_btnSend" = NSButton; "m_imBox" = NSBox; }; 
+            SUPERCLASS = NSWindowController; 
+        }, 
+        {CLASS = QQSplitView; LANGUAGE = ObjC; SUPERCLASS = NSSplitView; }, 
+        {CLASS = QQTextView; LANGUAGE = ObjC; SUPERCLASS = NSTextView; }
+    ); 
+    IBVersion = 1; 
+}

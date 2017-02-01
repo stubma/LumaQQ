@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/mac/!svn/ver/539/Sources/Core/Packet
+END
+Packet.mm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mac/!svn/ver/201/Sources/Core/Packet/Packet.mm
+END
+BasicConnectionAdvisor.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/3/Sources/Core/Packet/BasicConnectionAdvisor.h
+END
+InPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mac/!svn/ver/3/Sources/Core/Packet/InPacket.h
+END
+OutPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mac/!svn/ver/3/Sources/Core/Packet/OutPacket.h
+END
+AgentInPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mac/!svn/ver/178/Sources/Core/Packet/AgentInPacket.mm
+END
+BasicInPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mac/!svn/ver/120/Sources/Core/Packet/BasicInPacket.h
+END
+AgentOutPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mac/!svn/ver/185/Sources/Core/Packet/AgentOutPacket.mm
+END
+BasicOutPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mac/!svn/ver/120/Sources/Core/Packet/BasicOutPacket.h
+END
+AuxiliaryConnectionAdvisor.mm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mac/!svn/ver/181/Sources/Core/Packet/AuxiliaryConnectionAdvisor.mm
+END
+KeyProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/3/Sources/Core/Packet/KeyProvider.h
+END
+PacketParser.mm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mac/!svn/ver/181/Sources/Core/Packet/PacketParser.mm
+END
+AgentConnectionAdvisor.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/3/Sources/Core/Packet/AgentConnectionAdvisor.h
+END
+Packet.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mac/!svn/ver/178/Sources/Core/Packet/Packet.h
+END
+AuxiliaryInPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/181/Sources/Core/Packet/AuxiliaryInPacket.mm
+END
+AuxiliaryOutPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/185/Sources/Core/Packet/AuxiliaryOutPacket.mm
+END
+BasicConnectionAdvisor.mm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/174/Sources/Core/Packet/BasicConnectionAdvisor.mm
+END
+AgentInPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mac/!svn/ver/3/Sources/Core/Packet/AgentInPacket.h
+END
+AgentOutPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mac/!svn/ver/179/Sources/Core/Packet/AgentOutPacket.h
+END
+AuxiliaryConnectionAdvisor.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mac/!svn/ver/181/Sources/Core/Packet/AuxiliaryConnectionAdvisor.h
+END
+InPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mac/!svn/ver/3/Sources/Core/Packet/InPacket.mm
+END
+OutPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mac/!svn/ver/3/Sources/Core/Packet/OutPacket.mm
+END
+BasicInPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mac/!svn/ver/178/Sources/Core/Packet/BasicInPacket.mm
+END
+BasicOutPacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mac/!svn/ver/178/Sources/Core/Packet/BasicOutPacket.mm
+END
+PacketParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mac/!svn/ver/3/Sources/Core/Packet/PacketParser.h
+END
+AuxiliaryInPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/178/Sources/Core/Packet/AuxiliaryInPacket.h
+END
+AuxiliaryOutPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/179/Sources/Core/Packet/AuxiliaryOutPacket.h
+END
+AgentConnectionAdvisor.mm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/174/Sources/Core/Packet/AgentConnectionAdvisor.mm
+END

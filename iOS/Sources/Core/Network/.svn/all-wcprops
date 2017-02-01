@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mac/!svn/ver/802/LumaQQ_iPhone/Sources/Core/Network
+END
+ConnectionDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mac/!svn/ver/802/LumaQQ_iPhone/Sources/Core/Network/ConnectionDelegate.h
+END
+Socks5Interceptor.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mac/!svn/ver/802/LumaQQ_iPhone/Sources/Core/Network/Socks5Interceptor.m
+END
+HttpInterceptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mac/!svn/ver/802/LumaQQ_iPhone/Sources/Core/Network/HttpInterceptor.h
+END
+Interceptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mac/!svn/ver/655/LumaQQ_iPhone/Sources/Core/Network/Interceptor.h
+END
+QQConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mac/!svn/ver/802/LumaQQ_iPhone/Sources/Core/Network/QQConnection.h
+END
+HttpInterceptor.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mac/!svn/ver/802/LumaQQ_iPhone/Sources/Core/Network/HttpInterceptor.m
+END
+QQConnection.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mac/!svn/ver/802/LumaQQ_iPhone/Sources/Core/Network/QQConnection.m
+END
+Socks5Interceptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mac/!svn/ver/802/LumaQQ_iPhone/Sources/Core/Network/Socks5Interceptor.h
+END
+ConnectionAdvisor.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mac/!svn/ver/299/LumaQQ_iPhone/Sources/Core/Network/ConnectionAdvisor.h
+END

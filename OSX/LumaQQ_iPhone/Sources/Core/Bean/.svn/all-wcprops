@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/780/LumaQQ_iPhone/Sources/Core/Bean
+END
+ClusterMessageSetting.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/ClusterMessageSetting.m
+END
+SubCluster.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/SubCluster.h
+END
+MobileIM.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/393/LumaQQ_iPhone/Sources/Core/Bean/MobileIM.h
+END
+LastTalkTime.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/LastTalkTime.h
+END
+SubCluster.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/SubCluster.m
+END
+MobileIM.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/MobileIM.m
+END
+LastTalkTime.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/LastTalkTime.m
+END
+ContactInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/ContactInfo.h
+END
+ContactInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/ContactInfo.m
+END
+SearchedUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/393/LumaQQ_iPhone/Sources/Core/Bean/SearchedUser.h
+END
+SearchedUser.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/SearchedUser.m
+END
+NormalIMHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mac/!svn/ver/393/LumaQQ_iPhone/Sources/Core/Bean/NormalIMHeader.h
+END
+NormalIMHeader.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/NormalIMHeader.m
+END
+Weather.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/Weather.h
+END
+Weather.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/Weather.m
+END
+QQOrganization.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/QQOrganization.h
+END
+SystemIM.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/SystemIM.h
+END
+QQOrganization.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/QQOrganization.m
+END
+FriendStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/393/LumaQQ_iPhone/Sources/Core/Bean/FriendStatus.h
+END
+ClusterNameCard.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/ClusterNameCard.h
+END
+SMSReply.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/SMSReply.h
+END
+SystemIM.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/SystemIM.m
+END
+QQUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/850/LumaQQ_iPhone/Sources/Core/Bean/QQUser.h
+END
+FriendStatus.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/FriendStatus.m
+END
+ClusterNameCard.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/ClusterNameCard.m
+END
+SMSReply.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/SMSReply.m
+END
+FriendGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/FriendGroup.h
+END
+QQUser.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/850/LumaQQ_iPhone/Sources/Core/Bean/QQUser.m
+END
+FriendGroup.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/FriendGroup.m
+END
+CustomHead.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/393/LumaQQ_iPhone/Sources/Core/Bean/CustomHead.h
+END
+FriendLevel.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/FriendLevel.h
+END
+TempSessionIM.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mac/!svn/ver/393/LumaQQ_iPhone/Sources/Core/Bean/TempSessionIM.h
+END
+CustomHead.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/CustomHead.m
+END
+TempSessionIM.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/TempSessionIM.m
+END
+FriendLevel.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/FriendLevel.m
+END
+Member.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/Member.h
+END
+Friend.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/Friend.h
+END
+FriendRemark.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/FriendRemark.h
+END
+Member.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/Member.m
+END
+Friend.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/Friend.m
+END
+NormalIM.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/393/LumaQQ_iPhone/Sources/Core/Bean/NormalIM.h
+END
+FriendRemark.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/FriendRemark.m
+END
+SignatureChangedNotification.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/SignatureChangedNotification.h
+END
+UserProperty.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/UserProperty.h
+END
+NormalIM.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/NormalIM.m
+END
+SignatureChangedNotification.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/SignatureChangedNotification.m
+END
+FontStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/393/LumaQQ_iPhone/Sources/Core/Bean/FontStyle.h
+END
+UserProperty.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/UserProperty.m
+END
+ClusterNotification.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mac/!svn/ver/393/LumaQQ_iPhone/Sources/Core/Bean/ClusterNotification.h
+END
+FontStyle.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/780/LumaQQ_iPhone/Sources/Core/Bean/FontStyle.m
+END
+FriendStatusChangedNotification.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/FriendStatusChangedNotification.h
+END
+ClusterNotification.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/ClusterNotification.m
+END
+ClusterInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/393/LumaQQ_iPhone/Sources/Core/Bean/ClusterInfo.h
+END
+Signature.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/Signature.h
+END
+FriendStatusChangedNotification.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/FriendStatusChangedNotification.m
+END
+ClusterInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/ClusterInfo.m
+END
+AdvancedSearchedUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mac/!svn/ver/393/LumaQQ_iPhone/Sources/Core/Bean/AdvancedSearchedUser.h
+END
+Signature.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/Signature.m
+END
+ClusterIM.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/393/LumaQQ_iPhone/Sources/Core/Bean/ClusterIM.h
+END
+AdvancedSearchedUser.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/AdvancedSearchedUser.m
+END
+ClusterIM.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/ClusterIM.m
+END
+ReceivedIMPacketHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mac/!svn/ver/393/LumaQQ_iPhone/Sources/Core/Bean/ReceivedIMPacketHeader.h
+END
+ReceivedIMPacketHeader.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/ReceivedIMPacketHeader.m
+END
+ClusterMessageSetting.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mac/!svn/ver/298/LumaQQ_iPhone/Sources/Core/Bean/ClusterMessageSetting.h
+END

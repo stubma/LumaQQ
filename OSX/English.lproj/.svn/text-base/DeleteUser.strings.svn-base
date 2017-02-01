@@ -1,0 +1,9 @@
+/* string for delete user window */
+
+LQTitle = "Delete user %@(%u) from your friend list";
+
+LQHintGetAuthInfo = "Getting auth info...";
+LQHintDeleteOK = "The user is deleted from your friend list";
+LQHintDeleteFailed = "Fail to delete this user, please retry";
+LQHintDeleteFriend = "Deleting friend...";
+LQHintRemoveFromServerList = "Removing friend from server list...";

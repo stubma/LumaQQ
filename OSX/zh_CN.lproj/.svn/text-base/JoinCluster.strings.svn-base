@@ -1,0 +1,12 @@
+/* localized string for join cluster window */
+
+LQHintJoinCluster = "正在加入群...";
+LQHintGetVerifyCode = "正在获取验证码...";
+LQHintGetAuthInfo = "正在获取群验证信息...";
+LQHintClusterAuth = "正在发送验证信息...";
+
+LQMessageNeedAuth = "群的创建者需要你的验证信息";
+LQMessageReject = "该群拒绝加入任何新人";
+LQMessageVerifyCodeError = "验证码错误，请重新输入";
+LQMessageJoinOK = "你已经成功的加入了群";
+LQMessageAuthSent = "验证信息已经成功发送，请等待批准";

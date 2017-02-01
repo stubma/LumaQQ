@@ -1,0 +1,5 @@
+/* localized string for normal IM window */
+
+LQTitle = "%@(%u)";
+
+LQHintNoSignature = "<<好友没有设置个性签名>>";

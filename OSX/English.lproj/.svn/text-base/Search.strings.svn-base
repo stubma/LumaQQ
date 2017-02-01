@@ -1,0 +1,21 @@
+/* Localized versions of Search Wizard */
+
+LQTitleSearchWhat = "Search What?";
+LQMessageSearchWhat = "Please select what you wanna search";
+LQTitleSearchUser = "Search User";
+LQMessageSearchUser = "Select a search mode and input parameters and click \"Go\" button";
+LQTitleSearchCluster = "Search Cluster";
+LQMessageSearchCluster = "Select a search mode and input parameters and click \"Go\" button";
+
+LQWarningAllEmpty = "Please supply at least one parameter";
+LQWarningInvalidQQ = "Please supply a valid QQ number";
+LQWarningInvalidClusterId = "Please supply a valid cluster ID";
+LQWarningSelectUser = "You must select a user before you proceed";
+LQWarningSelectCluster = "You must select a cluster before you proceed";
+LQWarningSearchUserFailed = "Error occurs during searching user, please retry";
+LQWarningSearchClusterFailed = "Error occurs during searching cluster, please retry";
+LQWarningSearchTimeout = "Search timeout, maybe network is busy, please retry later";
+
+LQHintOnlineCount = "Current Online Users: %u";
+LQHintSearchUser = "Searching Users...";
+LQHintSearchCluster = "Searching Clusters...";

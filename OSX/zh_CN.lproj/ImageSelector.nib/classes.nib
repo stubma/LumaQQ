@@ -1,0 +1,30 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {
+                nextPage = id; 
+                nextPanel = id; 
+                onNavigate = id; 
+                onPanelChanged = id; 
+                previousPage = id; 
+                previousPanel = id; 
+            }; 
+            CLASS = ImageSelector; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {"m_dataSource" = id; "m_delegate" = id; }; 
+            SUPERCLASS = NSControl; 
+        }, 
+        {
+            CLASS = ImageSelectorWindowController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                "m_dataSource" = id; 
+                "m_imageSelector" = ImageSelector; 
+                "m_imageSelectorDelegate" = id; 
+            }; 
+            SUPERCLASS = NSWindowController; 
+        }
+    ); 
+    IBVersion = 1; 
+}

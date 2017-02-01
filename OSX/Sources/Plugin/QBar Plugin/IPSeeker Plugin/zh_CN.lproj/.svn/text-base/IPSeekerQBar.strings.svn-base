@@ -1,0 +1,4 @@
+/** string for weather QBar window */
+
+LQPluginDescription = "提供一个简单实用的查询IP小工具";
+LQHintErrorIP = "IP格式不对";

@@ -1,0 +1,3 @@
+/** string for about window */
+
+LQBuildNumber = "Build No.: %@";

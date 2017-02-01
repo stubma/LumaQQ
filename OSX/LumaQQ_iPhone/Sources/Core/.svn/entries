@@ -1,0 +1,103 @@
+8
+
+dir
+834
+http://svn.lumaqq.cn/mac/LumaQQ_iPhone/Sources/Core
+http://svn.lumaqq.cn/mac
+
+
+
+2008-01-03T16:39:21.437160Z
+811
+luma
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a41e418f-192f-0410-99b4-9833888f77e5
+
+Service
+dir
+
+Event
+dir
+
+QQClientDelegate.h
+file
+
+
+
+
+2008-01-27T09:55:00.000000Z
+64d9b305a185039aed63bcffe67f270b
+2007-11-23T11:59:58.951529Z
+392
+luma
+
+QQConstants.h
+file
+853
+
+
+
+2008-04-27T13:38:59.000000Z
+095de92ae9c72956084e78cdf33e24d5
+2008-04-27T05:43:35.218676Z
+853
+luma
+
+Bean
+dir
+
+Foundation
+dir
+
+QQClient.h
+file
+855
+
+
+
+2008-05-04T22:10:20.000000Z
+df861257c5438c075daf398c46b1e06b
+2008-05-04T14:13:30.034653Z
+855
+luma
+
+Packet
+dir
+
+Network
+dir
+
+QQClient.m
+file
+855
+
+
+
+2008-06-20T20:58:09.000000Z
+b0bf0bccc0232240a95f3e3f1afccad3
+2008-05-04T14:13:30.034653Z
+855
+luma
+
+CustomHead
+dir
+
+Extension
+dir
+
+Tool
+dir
+

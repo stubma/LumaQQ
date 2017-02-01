@@ -1,0 +1,12 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {onHeadItem = id; onHistory = id; onKeySetting = id; onToolbarItem = id; }; 
+            CLASS = ClusterIMWindowController; 
+            LANGUAGE = ObjC; 
+            SUPERCLASS = NSWindowController; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }
+    ); 
+    IBVersion = 1; 
+}

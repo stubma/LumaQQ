@@ -1,0 +1,5 @@
+/** localized string for mobile im container */
+
+LQTitle = "手机好友: %@(%@)";
+
+LQHintTimeout = "短消息\"%@\"发送超时，请重试";

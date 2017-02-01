@@ -1,0 +1,14 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = NSDatePicker; LANGUAGE = ObjC; SUPERCLASS = NSControl; }, 
+        {
+            ACTIONS = {onClose = id; onDateChanged = id; onDoubleClick = id; }; 
+            CLASS = SystemMessageWindowController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {"m_datePicker" = NSDatePicker; "m_historyTable" = NSTableView; }; 
+            SUPERCLASS = NSWindowController; 
+        }
+    ); 
+    IBVersion = 1; 
+}

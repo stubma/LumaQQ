@@ -1,0 +1,120 @@
+8
+
+dir
+834
+http://svn.lumaqq.cn/mac/LumaQQ_iPhone
+http://svn.lumaqq.cn/mac
+
+
+
+2008-02-23T03:46:46.593989Z
+834
+luma
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a41e418f-192f-0410-99b4-9833888f77e5
+
+Sources
+dir
+
+Extra
+dir
+
+Info.plist
+file
+
+
+
+
+2008-01-27T09:56:21.000000Z
+fda4b9f167228ee33b8341b8ed251a31
+2007-12-29T15:12:10.207695Z
+795
+luma
+
+zh_CN.lproj
+dir
+
+Sound
+dir
+
+Package
+dir
+
+Theme.plist
+file
+
+
+
+
+2008-01-27T09:56:21.000000Z
+cfa4ae988c9542fbb536b0b5220b66c1
+2007-12-30T16:01:22.301610Z
+804
+luma
+
+LumaQQ_iPhone.xcodeproj
+dir
+
+Face
+dir
+
+Head
+dir
+
+Images
+dir
+
+Default.png
+file
+
+
+
+
+2008-01-27T09:56:21.000000Z
+7ee72bc27a791f47a665bd9f854bda0f
+2007-11-04T16:47:59.859985Z
+252
+luma
+has-props
+
+icon.png
+file
+
+
+
+
+2008-01-27T09:56:21.000000Z
+e89e91b792f5e2f00e03cf4aced8dd68
+2007-12-01T11:36:21.707444Z
+512
+luma
+has-props
+
+Makefile
+file
+850
+
+
+
+2008-05-01T23:18:25.000000Z
+4480c16bc2bd34f33d4d5f3042acd59f
+2008-04-26T14:49:17.851427Z
+850
+luma
+
+English.lproj
+dir
+

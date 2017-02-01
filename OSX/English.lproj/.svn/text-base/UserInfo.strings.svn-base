@@ -1,0 +1,28 @@
+/* Localized versions of User Info Window */
+
+LQTitleWindow = "User Info of %u";
+
+LQHintModifySignature = "Modifying Signature...";
+LQHintModifyAuthQuestion = "Modifying Auth Question...";
+LQHintChangePrivacy = "Changing Privacy...";
+LQHintModifyInfo = "Modifying Info...";
+LQHintModifyCard = "Modifying Cluster Name Card...";
+LQHintGetInfo = "Getting Info...";
+LQHintGetCard = "Getting Cluster Name Card...";
+LQHintGetLevel = "Getting Level...";
+LQHintDeleteSignature = "Deleting Signature...";
+LQHintGetQuestion = "Getting My Question...";
+LQHintGetSignature = "Getting Signature...";
+LQHintSetSearchMeByQQ = "Setting Anti-disturbing...";
+
+LQAlertModifyInfoOK = "Info is successfully modified";
+LQAlertModifyInfoFailed = "Modify info failed, please retry later";
+LQAlertGetInfoOK = "User info is successfully refreshed";
+LQAlertGetInfoFailed = "Failed to get user info, please retry";
+
+LQHeadPet = "Pet";
+LQHeadQQTang = "QQ Tang";
+LQHeadQQFantasy = "QQ Fantasy";
+LQHeadQQSonic = "QQ Sonic";
+LQHeadQQHuaXia = "QQ HuaXia";
+LQHeadOther = "Other";

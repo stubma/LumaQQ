@@ -1,0 +1,26 @@
+/* localized string for temp cluster windows */
+
+LQTitleCreateSubject = "在群%@(%u)中创建讨论组";
+LQTitleModifySubject = "修改讨论组: %@";
+LQTitleCreateDialog = "创建多人对话";
+LQTitleModifyDialog = "修改多人对话: %@";
+
+LQWarningEmptyName = "请输入一个名称";
+LQWarningNeedMoreMember = "请至少包括两个成员";
+LQWarningCreateFailed = "创建失败, 请重试";
+LQWarningModifyFailed = "修改失败，请重试";
+LQInfoCreateSuccess = "创建成功";
+LQInfoModifySuccess = "修改成功";
+
+LQHintCreateSubject = "正在创建讨论组...";
+LQHintModifySubjectName = "正在修改讨论组名称...";
+LQHintAddSubjectMember = "正在添加讨论组成员...";
+LQHintRemoveSubjectMember = "正在删除讨论组成员...";
+LQHintModifyDialogName = "正在修改多人对话名称...";
+LQHintAddDialogMember = "正在添加多人对话成员...";
+LQHintRemoveDialogMember = "正在删除多人对话成员...";
+LQHintActivateSubject = "正在激活讨论组...";
+LQHintCreateDialog = "正在创建多人对话...";
+LQHintActivateDialog = "正在激活多人对话...";
+LQHintGetSubjectInfo = "正在获取讨论组信息...";
+LQHintGetDialogInfo = "正在获取多人对话信息...";

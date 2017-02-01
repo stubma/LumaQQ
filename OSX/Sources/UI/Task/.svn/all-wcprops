@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/mac/!svn/ver/115/Sources/UI/Task
+END
+MessageWingTask.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/3/Sources/UI/Task/MessageWingTask.h
+END
+SystemMessageBlinkTask.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mac/!svn/ver/3/Sources/UI/Task/SystemMessageBlinkTask.h
+END
+MessageWingTask.mm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mac/!svn/ver/3/Sources/UI/Task/MessageWingTask.mm
+END
+SystemMessageBlinkTask.mm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/3/Sources/UI/Task/SystemMessageBlinkTask.mm
+END
+ModelEffectTask.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/3/Sources/UI/Task/ModelEffectTask.h
+END
+ModelEffectTask.mm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mac/!svn/ver/115/Sources/UI/Task/ModelEffectTask.mm
+END

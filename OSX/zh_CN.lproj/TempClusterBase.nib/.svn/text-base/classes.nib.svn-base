@@ -1,0 +1,19 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {onAction = id; onCancel = id; }; 
+            CLASS = TempClusterBaseWindowController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                "m_btnAction" = NSButton; 
+                "m_memberTable" = NSTableView; 
+                "m_piBusy" = NSProgressIndicator; 
+                "m_txtHint" = NSTextField; 
+                "m_txtName" = NSTextField; 
+            }; 
+            SUPERCLASS = NSWindowController; 
+        }
+    ); 
+    IBVersion = 1; 
+}

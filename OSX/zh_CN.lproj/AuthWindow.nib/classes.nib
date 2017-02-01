@@ -1,0 +1,27 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {onHead = id; onOK = id; onOptionChanged = id; onResponseChange = id; }; 
+            CLASS = AuthWindowController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                "m_boxApproveReject" = NSBox; 
+                "m_btnOK" = NSButton; 
+                "m_cbGroup" = NSComboBox; 
+                "m_chkOption" = NSButton; 
+                "m_headControl" = HeadControl; 
+                "m_matrixResponse" = NSMatrix; 
+                "m_object" = id; 
+                "m_piBusy" = NSProgressIndicator; 
+                "m_txtHint" = NSTextField; 
+                "m_txtMessage" = NSTextView; 
+                "m_txtRejectReason" = NSTextField; 
+                "m_txtToGroup" = NSTextField; 
+            }; 
+            SUPERCLASS = NSWindowController; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = HeadControl; LANGUAGE = ObjC; SUPERCLASS = NSControl; }
+    ); 
+    IBVersion = 1; 
+}

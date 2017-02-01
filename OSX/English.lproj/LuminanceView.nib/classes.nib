@@ -1,0 +1,26 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            CLASS = LuminanceView; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                "m_decryptMenu" = NSMenu; 
+                "m_encryptMenu" = NSMenu; 
+                "m_lblHint" = NSTextField; 
+                "m_packetView" = NSTableView; 
+                "m_textMenu" = NSMenu; 
+                "m_txtDecrypted" = NSTextView; 
+                "m_txtEncrypted" = NSTextView; 
+            }; 
+            SUPERCLASS = NSView; 
+        }, 
+        {
+            CLASS = LuminanceViewController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {"m_view" = LuminanceView; }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}

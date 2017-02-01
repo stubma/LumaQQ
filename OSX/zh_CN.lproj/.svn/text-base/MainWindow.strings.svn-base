@@ -1,0 +1,60 @@
+/* Localized versions of MainWindow */
+
+LQAlertTitle1 = "网络错误";
+LQAlertTitle2 = "登录失败";
+LQAlertTitle3 = "更新提示";
+LQErrorNetwork = "网络连接意外中止，请在登录框中修改网络设置，然后重试";
+LQErrorConnectionTimeout = "网络连接超时, 请重新登录";
+
+LQHintLogin = "正在登录";
+LQHintConnectInitialServer = "正在连接初始服务器";
+LQHintGetServerToken = "正在请求服务器令牌";
+LQHintGetLoginToken = "正在请求登录令牌";
+LQHintVerifyPassword = "正在校验密码";
+LQHintSelectServer = "正在选择服务器";
+LQHintDownloadGroupName = "正在下载分组名称";
+LQHintInitializeUI = "正在初始化界面";
+LQHintInitialize = "正在初始化核心层";
+LQHintDownloadFriend = "正在下载好友列表";
+LQHintDownloadFriendGroup = "正在下载好友分组";
+LQHintInputQQ = "输入你想添加为好友的QQ号码:";
+LQHintInputStatusMessage = "输入新的状态信息:";
+LQHintInputQQForTempSession = "输入你想发送临时会话消息的用户QQ号码:";
+LQHintErrorQQ = "QQ号码格式无效";
+LQHintInputRemarkName = "请输入好友的备注名称:";
+LQHintInputGroupName = "请输入新的组名:";
+LQHintUploadGroupName = "正在上传分组名称...";
+LQHintUploadFriendGroup = "正在上传好友分组...";
+LQHintToBeDeleted = "将被删除";
+LQHintQBarPluginFound = "找到%d个QBar插件";
+
+LQTooltipDisplaySetting = "好友列表显示设置";
+LQTooltipSearch = "搜索用户或者群";
+LQTooltipFriends = "好友列表";
+LQTooltipClusters = "群列表";
+LQTooltipMobiles = "移动QQ好友";
+LQTooltipRecent = "最近联系人";
+
+LQMenuItemViewInfo = "查看信息";
+LQMenuItemModifyInfo = "修改信息";
+LQMenuItemRefreshRemark = "更新好友备注";
+LQMenuItemRefreshingRemark = "正在刷新好友备注, 请等待...";
+LQMenuItemRefreshSignature = "更新用户签名";
+LQMenuItemRefreshingSignature = "正在刷新好友签名, 请等待...";
+LQMenuItemRefreshFriendList = "更新好友列表";
+LQMenuItemRefreshingFriendList = "正在刷新好友列表, 请等待...";
+LQMenuItemStatusMessage = "状态信息: %@";
+
+LQOperationSuffixGettInfo = "正在获取信息...";
+LQOperationSuffixExitCluster = "正在退出群...";
+
+LQWarningUpdate = "LumaQQ主页上有更新版本可用，如果你想下载，请去http://lumaqq.linuxsir.org查看最新信息\n\n%@";
+LQWarningUploadConfirm = "你改变了好友分组设置，你想现在就上传好友分组到服务器吗?";
+LQWarningCantDeleteUnfriendlyGroup = "不能删除非好友组";
+LQWarningCantDeleteDefaultFriendlyGroup = "不能删除缺省好友组";
+LQWarningMoveToSameAsToBeDeleted = "要删除的组和将好友移动到的组相同，无法继续删除操作";
+LQWarningCantRenameUnfriendlyGroup = "不能重命名非好友组";
+LQWarningCantRenameDefaultFriendlyGroup = "不能重命名缺省好友组";
+LQWarningHotKeyRegisterFailed = "某些热键注册失败，可能已被其他用户占用，请到偏好设定中检查热键设置. 不过冲突也没关系, 你可以使用任何一个不冲突的热键提取所有帐号的消息";
+LQWarningMoveToBlacklistConfirm = "你确定要把他移到黑名单并把自己从他的好友列表上删除吗?";
+LQWarningKickedOut = "你的QQ账号在另一地点登录，您被迫下线。QQ号被盗了? 还是女朋友正在用呢?";

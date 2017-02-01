@@ -1,0 +1,36 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = HeadControl; LANGUAGE = ObjC; SUPERCLASS = NSControl; }, 
+        {
+            ACTIONS = {
+                okCancel = id; 
+                onHead = id; 
+                onOK = id; 
+                onRefresh = id; 
+                onViewCreatorInfo = id; 
+            }; 
+            CLASS = JoinClusterWindowController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                "m_btnCancel" = NSButton; 
+                "m_btnOK" = NSButton; 
+                "m_btnRefresh" = NSButton; 
+                "m_headControl" = HeadControl; 
+                "m_ivVerifyCode" = NSImageView; 
+                "m_lastSeparator" = NSBox; 
+                "m_messageView" = NSView; 
+                "m_piBusy" = NSProgressIndicator; 
+                "m_txtAuth" = NSTextView; 
+                "m_txtCreator" = NSTextField; 
+                "m_txtHint" = NSTextField; 
+                "m_txtId" = NSTextField; 
+                "m_txtName" = NSTextField; 
+                "m_txtVerifyCode" = NSTextField; 
+                "m_verifyCodeView" = NSView; 
+            }; 
+            SUPERCLASS = NSWindowController; 
+        }
+    ); 
+    IBVersion = 1; 
+}

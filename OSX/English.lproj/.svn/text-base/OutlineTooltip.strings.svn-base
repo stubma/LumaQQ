@@ -1,0 +1,21 @@
+/* localized string for outline tooltip */
+
+LQTooltipRemarkName = "Remark Name: %@";
+LQTooltipStatusMessage = "Status Info: %@";
+LQTooltipUnknownGroup = "Unknown Group";
+LQTooltipNotSet = "<Not Set>";
+LQTooltipBelongToCluster = "Belong To Cluster: %@(%u)";
+LQTooltipClusterNameCard = "Cluster Name Card: %@";
+LQTooltipMemberRole = "Member Role In Cluster: %@";
+LQTooltipCreator = "Creator: %@(%u)";
+LQTooltipMemberCount = "Member Count: %u";
+
+LQRoleCreator = "Creator";
+LQRoleAdmin = "Administrator";
+LQRoleStockholder = "Stockholder";
+LQRoleNormal = "Normal Member";
+
+LQTypeNormalCluster = "Normal Cluster";
+LQTypeAdvancedCluster = "Advanced Cluster";
+LQTypeSubject = "Subject";
+LQTypeDialog = "Dialog";

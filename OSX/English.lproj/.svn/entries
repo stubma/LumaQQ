@@ -1,0 +1,389 @@
+8
+
+dir
+834
+http://svn.lumaqq.cn/mac/English.lproj
+http://svn.lumaqq.cn/mac
+
+
+
+2007-12-06T10:11:04.925329Z
+598
+luma
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a41e418f-192f-0410-99b4-9833888f77e5
+
+Login.nib
+dir
+
+MainMenu.nib
+dir
+
+FaceManager.strings
+file
+
+
+
+
+2008-01-27T09:58:08.000000Z
+68476864e9251d363d1d318458565c94
+2007-05-08T16:17:17.729585Z
+3
+luma
+
+UserInfo.strings
+file
+
+
+
+
+2008-01-27T09:58:08.000000Z
+ef2ea1904cf4e336e64823e3393ce655
+2007-09-23T13:58:57.472546Z
+124
+luma
+
+MainWindow.nib
+dir
+
+NormalIM.nib
+dir
+
+Preference.nib
+dir
+
+ClusterInfo.strings
+file
+
+
+
+
+2008-01-27T09:58:08.000000Z
+2da2f05f58d91a91caa20416ec8f0c69
+2007-05-08T16:17:17.729585Z
+3
+luma
+
+AddFriend.nib
+dir
+
+JoinCluster.strings
+file
+
+
+
+
+2008-01-27T09:58:08.000000Z
+0bdc90cfd6c18f41bcd171683a67aaad
+2007-05-08T16:17:17.729585Z
+3
+luma
+
+ImageSelector.nib
+dir
+
+QConsole.nib
+dir
+
+KeyboardShortcutWindow.nib
+dir
+
+InfoPlist.strings
+file
+
+
+
+
+2008-01-27T09:58:08.000000Z
+003822ad53c33626210b489da2ce6cac
+2007-05-08T16:17:17.729585Z
+3
+luma
+has-props
+
+FaceManager.nib
+dir
+
+UserInfo.nib
+dir
+
+About.strings
+file
+
+
+
+
+2008-01-27T09:58:08.000000Z
+971e1c56a4e7ec1b2239a18ce250477b
+2007-09-23T14:57:40.737973Z
+125
+luma
+
+ClusterIMContainer.strings
+file
+
+
+
+
+2008-01-27T09:58:08.000000Z
+1cad5c62ad4bb83204c89da0d8eaa89d
+2007-05-08T16:17:17.729585Z
+3
+luma
+
+ClusterInfo.nib
+dir
+
+TreeSelector.nib
+dir
+
+JoinCluster.nib
+dir
+
+Localizable.strings
+file
+
+
+
+
+2008-01-27T09:58:08.000000Z
+d43cf05251d1eddca02dc0baaf268d1f
+2007-09-29T09:02:58.031969Z
+162
+luma
+
+NormalIMContainer.strings
+file
+
+
+
+
+2008-01-27T09:58:08.000000Z
+96ed3aa573759d8cb64a76fa113bdfbd
+2007-05-21T05:28:13.626643Z
+31
+luma
+
+LuminanceView.nib
+dir
+
+ClusterIM.nib
+dir
+
+ClusterIMContainer.nib
+dir
+
+About.nib
+dir
+
+AuthWindow.strings
+file
+
+
+
+
+2008-01-27T09:58:08.000000Z
+54ef77f7f3113fe065970a4d95211e58
+2007-05-08T16:17:17.729585Z
+3
+luma
+
+Luminance.nib
+dir
+
+Growl.strings
+file
+
+
+
+
+2008-01-27T09:58:08.000000Z
+b320d4573608b7d86445fdaa9d4bc171
+2007-06-04T02:21:58.515401Z
+96
+luma
+
+OutlineTooltip.strings
+file
+
+
+
+
+2008-01-27T09:58:08.000000Z
+f5ee9e564108fda645aadc7335728d0b
+2007-09-29T06:22:13.775172Z
+159
+luma
+
+NormalIMContainer.nib
+dir
+
+MobileIMContainer.strings
+file
+
+
+
+
+2008-01-27T09:58:08.000000Z
+5c572da629805c460ffcc034b6b6c4a5
+2007-05-08T16:17:17.729585Z
+3
+luma
+
+DeleteUser.strings
+file
+
+
+
+
+2008-01-27T09:58:08.000000Z
+6d36fa62ea9281d025756f71ec57a8d1
+2007-10-09T02:52:41.665788Z
+172
+luma
+
+TempClusterBase.strings
+file
+
+
+
+
+2008-01-27T09:58:08.000000Z
+242fd9ffcc88fcb578d84a9a5f5f91ca
+2007-05-11T16:40:20.941701Z
+12
+luma
+
+TempSessionIMContainer.strings
+file
+
+
+
+
+2008-01-27T09:58:08.000000Z
+e2a8ea80bea3aeb80c7c5c5d1f989ece
+2007-05-08T16:17:17.729585Z
+3
+luma
+
+BaseIMContainer.strings
+file
+
+
+
+
+2008-01-27T09:58:08.000000Z
+57b268e19206a66092e6786c5cdd4b46
+2007-05-08T16:17:17.729585Z
+3
+luma
+
+Search.strings
+file
+
+
+
+
+2008-01-27T09:58:08.000000Z
+50162975c0143a8e1607a7f6a996b363
+2007-05-08T16:17:17.729585Z
+3
+luma
+
+SystemMessage.nib
+dir
+
+AuthWindow.nib
+dir
+
+Login.strings
+file
+
+
+
+
+2008-01-27T09:58:08.000000Z
+656c1a1441f0e690d5f8c9d46bc8594d
+2007-09-22T14:16:08.515066Z
+123
+luma
+
+OutlineTooltip.nib
+dir
+
+TabIM.nib
+dir
+
+MobileIM.nib
+dir
+
+MainWindow.strings
+file
+
+
+
+
+2008-01-27T09:58:08.000000Z
+f14f04764760b8a491dd6a0acc5e21a1
+2007-10-09T10:06:57.737531Z
+175
+luma
+
+TempSessionIM.nib
+dir
+
+Preference.strings
+file
+
+
+
+
+2008-01-27T09:58:08.000000Z
+880b5718ab042b2070a0b274fd4370bd
+2007-05-08T16:17:17.729585Z
+3
+luma
+
+MobileIMContainer.nib
+dir
+
+DeleteUser.nib
+dir
+
+AddFriend.strings
+file
+
+
+
+
+2008-01-27T09:58:08.000000Z
+dfa9c81fea7b4f5381ed9dafb5179042
+2007-05-08T16:17:17.729585Z
+3
+luma
+
+TempSessionIMContainer.nib
+dir
+
+TempClusterBase.nib
+dir
+
+Search.nib
+dir
+
+HistoryDrawer.nib
+dir
+

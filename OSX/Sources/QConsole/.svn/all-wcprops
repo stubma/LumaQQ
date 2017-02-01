@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/mac/!svn/ver/217/Sources/QConsole
+END
+BaseExecutor.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/217/Sources/QConsole/BaseExecutor.h
+END
+SetCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mac/!svn/ver/217/Sources/QConsole/SetCommand.h
+END
+ListCommand.mm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/217/Sources/QConsole/ListCommand.mm
+END
+CommandExecutor.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mac/!svn/ver/217/Sources/QConsole/CommandExecutor.h
+END
+LumaQQ.g
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/mac/!svn/ver/217/Sources/QConsole/LumaQQ.g
+END
+Predicate.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mac/!svn/ver/217/Sources/QConsole/Predicate.h
+END
+LumaQQLexer.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mac/!svn/ver/217/Sources/QConsole/LumaQQLexer.h
+END
+CommandContext.mm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mac/!svn/ver/217/Sources/QConsole/CommandContext.mm
+END
+LumaQQLexer.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mac/!svn/ver/217/Sources/QConsole/LumaQQLexer.m
+END
+LumaQQWalker.g
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/217/Sources/QConsole/LumaQQWalker.g
+END
+LumaQQWalker.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/217/Sources/QConsole/LumaQQWalker.h
+END
+HelpCommand.mm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/217/Sources/QConsole/HelpCommand.mm
+END
+SendCommand.mm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/217/Sources/QConsole/SendCommand.mm
+END
+ListCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mac/!svn/ver/217/Sources/QConsole/ListCommand.h
+END
+LumaQQWalker.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/217/Sources/QConsole/LumaQQWalker.m
+END
+BaseExecutor.mm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mac/!svn/ver/217/Sources/QConsole/BaseExecutor.mm
+END
+SetCommand.mm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mac/!svn/ver/217/Sources/QConsole/SetCommand.mm
+END
+LumaQQParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/217/Sources/QConsole/LumaQQParser.h
+END
+LumaQQParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/217/Sources/QConsole/LumaQQParser.m
+END
+Predicate.mm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mac/!svn/ver/217/Sources/QConsole/Predicate.mm
+END
+CommandContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mac/!svn/ver/217/Sources/QConsole/CommandContext.h
+END
+HelpCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mac/!svn/ver/217/Sources/QConsole/HelpCommand.h
+END
+SendCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mac/!svn/ver/217/Sources/QConsole/SendCommand.h
+END

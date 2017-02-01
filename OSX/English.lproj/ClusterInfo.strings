@@ -1,0 +1,22 @@
+/* localized string for cluster info window */
+
+LQTitle = "Cluster Info of \"%@\"";
+
+LQHintGetClusterInfo = "Getting cluster info...";
+LQHintModifyMessageSetting = "Modifying message setting...";
+LQHintModifyCard = "Modifying cluster name card...";
+LQHintModifyClusterInfo = "Modifying cluster info...";
+LQHintGetCard = "Getting Cluster Name Card...";
+LQHintGetMessageSetting = "Getting Message Setting...";
+LQHintGetChannelSetting = "Getting Channel Setting...";
+LQHintModifyChannelSetting = "Modifying Channel Setting...";
+LQHintGetLastTalkTime = "Getting Last Talk Time...";
+LQHintAddMember = "Adding Members...";
+LQHintRemoveMember = "Modifying Members...";
+
+LQInfoModifyMessageSettingOK = "Message setting is modified successfully.";
+LQInfoModifyMessageSettingFailed = "Failed to modify message setting.";
+LQInfoModifyCardOK = "Your cluster name card is modified successfully";
+LQInfoModifyCardFailed = "Failed to modify your cluster name card";
+LQInfoModifyInfoFailed = "Error occurs during modifying cluster info";
+LQInfoModifyInfoOK = "Cluster info modified successfully";

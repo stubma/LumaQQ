@@ -1,0 +1,7 @@
+/* localized string for temp session IM window */
+
+LQTitle = "临时会话: %@(%u)";
+
+LQHintVerifyCodeRetry = "不正确，请重试";
+
+LQWarningGetVerifyCodeFailed = "无法得到验证码图片，取消发送所有消息";

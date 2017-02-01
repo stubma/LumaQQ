@@ -1,0 +1,797 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/mac/!svn/ver/841/MailPal/Sources/Pantomime
+END
+CWIMAPMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWIMAPMessage.m
+END
+CWPOP3CacheObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWPOP3CacheObject.m
+END
+CWWINDOWS_1252.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWWINDOWS_1252.h
+END
+CWPOP3Store.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWPOP3Store.m
+END
+CWWINDOWS_1252.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWWINDOWS_1252.m
+END
+CWISO8859_3.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_3.h
+END
+CWFolder.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWFolder.h
+END
+CWISO8859_7.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_7.h
+END
+CWISO8859_3.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_3.m
+END
+CWFolder.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWFolder.m
+END
+CWISO8859_7.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_7.m
+END
+CWISO8859_10.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_10.h
+END
+CWMIMEMultipart.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWMIMEMultipart.h
+END
+NSScanner+Extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/NSScanner+Extensions.h
+END
+CWISO8859_14.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_14.h
+END
+CWISO8859_10.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_10.m
+END
+CWMIMEMultipart.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWMIMEMultipart.m
+END
+CWInternetAddress.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWInternetAddress.h
+END
+NSScanner+Extensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/NSScanner+Extensions.m
+END
+CWISO8859_14.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_14.m
+END
+CWURLName.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWURLName.h
+END
+CWInternetAddress.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWInternetAddress.m
+END
+CWLocalFolder+maildir.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWLocalFolder+maildir.h
+END
+CWURLName.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWURLName.m
+END
+CWLocalFolder+maildir.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWLocalFolder+maildir.m
+END
+CWDNSManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWDNSManager.h
+END
+CWFolderInformation.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWFolderInformation.h
+END
+CWMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWMessage.h
+END
+CWDNSManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWDNSManager.m
+END
+CWFolderInformation.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWFolderInformation.m
+END
+CWLocalFolder+mbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWLocalFolder+mbox.h
+END
+CWMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWMessage.m
+END
+CWLocalFolder+mbox.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWLocalFolder+mbox.m
+END
+CWLocalMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWLocalMessage.h
+END
+CWWINDOWS_1253.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWWINDOWS_1253.h
+END
+CWLocalMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWLocalMessage.m
+END
+CWTCPConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWTCPConnection.h
+END
+CWWINDOWS_1253.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWWINDOWS_1253.m
+END
+CWLocalCacheManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWLocalCacheManager.h
+END
+CWTCPConnection.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWTCPConnection.m
+END
+CWISO8859_4.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_4.h
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/io.h
+END
+CWLocalCacheManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWLocalCacheManager.m
+END
+CWISO8859_8.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_8.h
+END
+CWISO8859_4.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_4.m
+END
+io.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/io.m
+END
+CWISO8859_8.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_8.m
+END
+CWPOP3Message.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWPOP3Message.h
+END
+CWISO8859_11.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_11.h
+END
+CWPOP3Message.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWPOP3Message.m
+END
+CWStore.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWStore.h
+END
+CWISO8859_15.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_15.h
+END
+CWISO8859_11.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_11.m
+END
+CWCacheManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWCacheManager.h
+END
+CWISO8859_15.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_15.m
+END
+CWIMAPStore.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWIMAPStore.h
+END
+CWCacheManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWCacheManager.m
+END
+CWIMAPStore.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWIMAPStore.m
+END
+NSString+Extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/NSString+Extensions.h
+END
+CWMIMEUtility.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWMIMEUtility.h
+END
+NSString+Extensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/NSString+Extensions.m
+END
+CWMIMEUtility.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWMIMEUtility.m
+END
+CWKOI8_U.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWKOI8_U.h
+END
+CWWINDOWS_1250.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWWINDOWS_1250.h
+END
+CWKOI8_U.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWKOI8_U.m
+END
+CWWINDOWS_1254.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWWINDOWS_1254.h
+END
+CWIMAPCacheManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWIMAPCacheManager.h
+END
+CWWINDOWS_1250.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWWINDOWS_1250.m
+END
+CWMacOSXGlue.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWMacOSXGlue.h
+END
+CWISO8859_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_1.h
+END
+CWWINDOWS_1254.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWWINDOWS_1254.m
+END
+CWIMAPCacheManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWIMAPCacheManager.m
+END
+CWMacOSXGlue.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWMacOSXGlue.m
+END
+CWISO8859_5.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_5.h
+END
+CWISO8859_1.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_1.m
+END
+CWISO8859_9.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_9.h
+END
+CWISO8859_5.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_5.m
+END
+CWContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWContainer.h
+END
+CWMD5.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWMD5.h
+END
+CWISO8859_9.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_9.m
+END
+CWContainer.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWContainer.m
+END
+CWUUFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWUUFile.h
+END
+CWMD5.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWMD5.m
+END
+CWParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWParser.h
+END
+CWUUFile.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWUUFile.m
+END
+Pantomime.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/Pantomime.h
+END
+CWParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWParser.m
+END
+CWPart.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWPart.h
+END
+CWLocalStore.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWLocalStore.h
+END
+NSData+Extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/NSData+Extensions.h
+END
+CWPart.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWPart.m
+END
+CWLocalStore.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWLocalStore.m
+END
+NSData+Extensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/NSData+Extensions.m
+END
+CWVirtualFolder.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWVirtualFolder.h
+END
+CWLocalFolder.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWLocalFolder.h
+END
+CWVirtualFolder.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWVirtualFolder.m
+END
+CWCharset.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWCharset.h
+END
+CWLocalFolder.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWLocalFolder.m
+END
+CWKOI8_R.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWKOI8_R.h
+END
+CWCharset.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWCharset.m
+END
+CWConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWConnection.h
+END
+CWPOP3CacheManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWPOP3CacheManager.h
+END
+CWKOI8_R.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWKOI8_R.m
+END
+CWWINDOWS_1251.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWWINDOWS_1251.h
+END
+CWPOP3CacheManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWPOP3CacheManager.m
+END
+CWWINDOWS_1251.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWWINDOWS_1251.m
+END
+CWISO8859_2.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_2.h
+END
+NSFileManager+Extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/NSFileManager+Extensions.h
+END
+CWISO8859_6.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_6.h
+END
+CWISO8859_2.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_2.m
+END
+NSFileManager+Extensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/NSFileManager+Extensions.m
+END
+CWISO8859_6.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_6.m
+END
+CWISO8859_13.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_13.h
+END
+CWTransport.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWTransport.h
+END
+CWFlags.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWFlags.h
+END
+CWService.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWService.h
+END
+CWISO8859_13.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWISO8859_13.m
+END
+CWFlags.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWFlags.m
+END
+CWService.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWService.m
+END
+CWRegEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWRegEx.h
+END
+CWConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWConstants.h
+END
+CWPOP3Folder.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWPOP3Folder.h
+END
+CWRegEx.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWRegEx.m
+END
+CWConstants.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWConstants.m
+END
+CWPOP3Folder.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWPOP3Folder.m
+END
+CWIMAPFolder.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWIMAPFolder.h
+END
+CWSMTP.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWSMTP.h
+END
+CWIMAPFolder.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWIMAPFolder.m
+END
+CWSMTP.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWSMTP.m
+END
+CWIMAPMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWIMAPMessage.h
+END
+CWPOP3CacheObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWPOP3CacheObject.h
+END
+CWPOP3Store.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mac/!svn/ver/841/MailPal/Sources/Pantomime/CWPOP3Store.h
+END

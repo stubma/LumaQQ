@@ -1,0 +1,106 @@
+8
+
+dir
+834
+http://svn.lumaqq.cn/mac/LumaQQ_iPhone/Sources
+http://svn.lumaqq.cn/mac
+
+
+
+2008-02-23T03:46:46.593989Z
+834
+luma
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a41e418f-192f-0410-99b4-9833888f77e5
+
+UIKitComplement.h
+file
+
+
+
+
+2008-01-27T09:55:20.000000Z
+055b5065e470b27b38d33fdc9f5e0c59
+2007-12-29T15:44:49.374722Z
+796
+luma
+
+main.m
+file
+
+
+
+
+2008-03-17T23:58:43.000000Z
+1f082fb74fe5fcd3f79a348315e7a9f1
+2007-11-10T08:45:08.123869Z
+268
+luma
+
+Model
+dir
+
+Constants.h
+file
+852
+
+
+
+2008-04-26T23:12:51.000000Z
+f3a34a43578c091fa97ba8c170a427fc
+2008-04-26T15:23:25.923204Z
+852
+luma
+
+Message
+dir
+
+LumaQQ.h
+file
+
+
+
+
+2008-01-27T09:55:20.000000Z
+613ee5fb1eaa581b86b9a70699b7fe40
+2007-11-24T18:46:20.147198Z
+416
+luma
+
+Core
+dir
+
+Job
+dir
+
+LumaQQ.m
+file
+
+
+
+
+2008-01-27T09:55:20.000000Z
+ecd668d8b3a50d3002474a648591cec9
+2007-12-31T10:04:45.096225Z
+806
+luma
+
+Tool
+dir
+
+UI
+dir
+

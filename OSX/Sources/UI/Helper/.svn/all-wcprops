@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/mac/!svn/ver/251/Sources/UI/Helper
+END
+MessageQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/94/Sources/UI/Helper/MessageQueue.h
+END
+ScreenscrapHelper.mm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mac/!svn/ver/849/Sources/UI/Helper/ScreenscrapHelper.mm
+END
+SoundHelper.mm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mac/!svn/ver/251/Sources/UI/Helper/SoundHelper.mm
+END
+MessageQueue.mm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mac/!svn/ver/94/Sources/UI/Helper/MessageQueue.mm
+END
+AnimationHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mac/!svn/ver/145/Sources/UI/Helper/AnimationHelper.h
+END
+VerifyCodeHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mac/!svn/ver/136/Sources/UI/Helper/VerifyCodeHelper.h
+END
+WindowRegistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mac/!svn/ver/222/Sources/UI/Helper/WindowRegistry.h
+END
+AnimationHelper.mm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mac/!svn/ver/145/Sources/UI/Helper/AnimationHelper.mm
+END
+VerifyCodeHelper.mm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mac/!svn/ver/136/Sources/UI/Helper/VerifyCodeHelper.mm
+END
+WindowRegistry.mm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mac/!svn/ver/222/Sources/UI/Helper/WindowRegistry.mm
+END
+DefaultFace.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/143/Sources/UI/Helper/DefaultFace.h
+END
+DefaultFace.mm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mac/!svn/ver/143/Sources/UI/Helper/DefaultFace.mm
+END
+ScreenscrapHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mac/!svn/ver/3/Sources/UI/Helper/ScreenscrapHelper.h
+END
+SoundHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mac/!svn/ver/248/Sources/UI/Helper/SoundHelper.h
+END
