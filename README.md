@@ -1,2 +1,2 @@
 # LumaQQ
-It is just a backup for some old code
+这是俺做的很老的项目, 很老很老, 不要指望还能跑. 放这里只是备份一下.
